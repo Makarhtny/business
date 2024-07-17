@@ -1,0 +1,1556 @@
+id,rank,workers,company,url,state_l,state_s,city,growth,revenue,ifmid,ifiid,metro,industry,yrs_on_list
+42940,1,218,Loot Crate,loot-crate,California,CA,Los Angeles,66788.5962,116247698,2,4,Los Angeles,Consumer Products & Services,1
+42941,2,100,Paint Nite,paint-nite,Massachusetts,MA,Somerville,36555.2472,55018793,6,4,Boston,Consumer Products & Services,1
+42944,7,130,Bounce Exchange,bounce-exchange,New York,NY,New York,14574.6474,15733570,9,9,New York City,Software,1
+42950,13,250,Suja Juice,suja-juice,California,CA,San Diego,10511.0846,65877327,11,11,San Diego,Food & Beverage,1
+42951,14,105,S2 Capital,s2-capital,Texas,TX,Addison,9645.7324,28804779,8,3,Dallas,Real Estate,1
+42952,16,171,Persado,persado,New York,NY,New York,9389.7747,17432811,9,9,New York City,Software,1
+42954,18,185,Exusia,exusia,New York,NY,New York,8803.2659,14917600,9,8,New York City,IT Services,1
+37267,25,200,Midwest Equity Mortgage,midwest-equity-mortgage,Illinois,IL,Oakbrook,7754.3956,971148423,17,2,Chicago,Financial Services,2
+44578,26,235,Cylance,cylance,California,CA,Irvine,7613.0469,11100000,2,13,Los Angeles,Security,1
+42963,29,140,Legend Solar,legend-solar,Utah,UT,Washington,7101.8827,13005808,308,16,"St. George, UT",Energy,1
+42965,31,105,Nine Line Apparel,nine-line-apparel,Georgia,GA,Savannah,6961.9116,9392978,86,18,"Savannah, GA",Retail,1
+36634,42,302,Castle Medical,castle-medical,Georgia,GA,Smyrna,5882.1595,49053588,29,10,Atlanta,Health,2
+42975,43,101,Zurixx,zurixx,Utah,UT,Cottonwood Heights,5626.0982,130066373,12,19,Salt Lake City,Education,1
+42980,49,138,Interactive Government Holdings,interactive-government-holdings,Virginia,VA,Springfield,5057.8884,7190767,3,7,"Washington, DC",Government Services,1
+42981,50,100,Impact CNC,impact-cnc,Indiana,IN,Columbia City,4929.7579,19504848,162,15,"Fort Wayne, IN",Manufacturing,1
+42983,53,419,Elevate Services,elevate-services,California,CA,Los Angeles,4895.1914,21566739,2,17,Los Angeles,Business Products & Services,1
+42992,65,180,Dollar Shave Club,dollar-shave-club,California,CA,Marina del Rey,4191.3212,152436398,2,4,Los Angeles,Consumer Products & Services,1
+22176,66,111,Stratus Video,stratus-video,Florida,FL,Clearwater,4190.13,11599482,7,14,Tampa,Telecommunications,4
+42994,68,100,AppLovin,applovin,California,CA,Palo Alto,4132.4686,234189513,20,5,San Jose,Advertising & Marketing,1
+42999,74,149,Greenspire,greenspire,California,CA,Los Angeles,3884.9434,6963330,2,16,Los Angeles,Energy,1
+43008,83,185,Youth Digital,youth-digital,North Carolina,NC,Chapel Hill,3621.7415,5269316,56,19,"Durham-Chapel Hill, NC",Education,1
+43011,86,1368,Nutanix,nutanix,California,CA,San Jose,3565.8366,241432000,20,9,San Jose,Software,1
+25603,88,220,Futurewave Systems,futurewave-systems,Georgia,GA,Atlanta,3498.6614,14786000,29,21,Atlanta,Human Resources,3
+36731,95,200,OutboundEngine,outboundengine,Texas,TX,Austin,3377.4739,9738318,18,9,Austin,Software,2
+43024,102,100,HomeWorks Energy,homeworks-energy,Massachusetts,MA,Woburn,3168.4664,10160224,6,16,Boston,Energy,1
+43026,104,100,ipsy,ipsy,California,CA,San Mateo,3136.0743,169293026,4,4,San Francisco,Consumer Products & Services,1
+43037,120,107,Approyo,approyo,Wisconsin,WI,Muskego,2795.4235,3131082,27,8,"Milwaukee-Waukesha-West Allis, WI",IT Services,1
+43039,122,101,Aleph Objects,aleph-objects,Colorado,CO,Loveland,2782.2824,15094686,1009,25,"Fort Collins, CO",Computer Hardware,1
+26235,133,500,Hermitage Inn Real Estate Holding Company,hermitage-inn-real-estate-holding-company,Vermont,VT,Wilmington,2623.2605,41778901,998,22,,Travel & Hospitality,3
+43060,144,303,CrowdStrike,crowdstrike,California,CA,Irvine,2428.7338,27327976,2,13,Los Angeles,Security,1
+36740,146,220,Lancera,lancera,Utah,UT,Orem,2423.8572,5328872,48,9,"Provo-Orem, UT",Software,2
+43062,147,136,Touch of Modern,touch-of-modern,California,CA,San Francisco,2423.6898,81253170,4,4,San Francisco,Consumer Products & Services,1
+36796,148,154,Leadpages,leadpages,Minnesota,MN,Minneapolis,2391.9933,16200000,13,8,Minneapolis,IT Services,2
+25323,154,225,CPSG Partners,cpsg-partners,Texas,TX,Dallas,2346.184,43409370,8,8,Dallas,IT Services,3
+26135,163,263,Bai Brands,bai-brands,New Jersey,NJ,Hamilton,2210.3124,119909073,1012,11,"Trenton, NJ",Food & Beverage,3
+43073,165,150,PCB Apps,pcb-apps,New Jersey,NJ,Somerset,2187.0035,14710052,9,8,New York City,IT Services,1
+36902,166,331,Blueprint Consulting Services,blueprint-consulting-services,Washington,WA,Bellevue,2162.1959,22306835,23,17,Seattle,Business Products & Services,2
+43077,170,148,Florida Premier Realty of the Palm Beaches,florida-premier-realty-of-the-palm-beaches,Florida,FL,Lake Worth,2100.9223,2639280,1,3,Miami,Real Estate,1
+43079,173,140,Developing Awareness,developing-awareness,Hawaii,HI,Hilo,2092.926,4539927,953,5,"Hilo, HI",Advertising & Marketing,1
+36744,177,184,Alliance Family of Companies,alliance-family-of-companies,Texas,TX,Irving,2072.7277,28076857,8,10,Dallas,Health,2
+43083,179,122,LILEE Systems,lilee-systems,California,CA,San Jose,2071.1576,15473558,20,14,San Jose,Telecommunications,1
+43084,180,1000,A.M. Staffing Group,am-staffing-group,Illinois,IL,Elgin,2055.1395,2554530,17,21,Chicago,Human Resources,1
+36659,183,274,Kabbage,kabbage,Georgia,GA,Atlanta,2026.5721,97461712,29,2,Atlanta,Financial Services,2
+36827,190,478,My Home Group Real Estate,my-home-group-real-estate,Arizona,AZ,Tempe,1953.0983,10573456,46,3,Phoenix,Real Estate,2
+43095,195,153,Global Lending Services,global-lending-services,Georgia,GA,Atlanta,1926.9363,70659000,29,2,Atlanta,Financial Services,1
+43096,196,190,HealthSparq,healthsparq,Oregon,OR,Portland,1914.3141,20264000,10,10,"Portland, OR",Health,1
+36636,199,110,Drawbridge,drawbridge,California,CA,San Mateo,1902.9896,66081971,4,5,San Francisco,Advertising & Marketing,2
+43099,201,350,Trantor,trantor,California,CA,Menlo Park,1899.5303,10004850,4,9,San Francisco,Software,1
+43102,204,125,Pipedrive OU,pipedrive,New York,NY,New York,1894.0035,9044800,9,9,New York City,Software,1
+43115,217,183,Opteamix,opteamix,Colorado,CO,Centennial,1809.0094,7245168,30,8,Denver,IT Services,1
+43116,218,261,DA Defense Logistics HQ,da-defense-logistics-hq,Texas,TX,El Paso,1808.6217,19170311,116,6,"El Paso, TX",Logistics & Transportation,1
+43118,220,185,nCino,ncino,North Carolina,NC,Wilmington,1804.6196,13124353,192,9,"Wilmington, NC",Software,1
+36682,221,136,WePay,wepay,California,CA,Redwood City,1794.8541,57812000,4,9,San Francisco,Software,2
+26589,222,245,Pro-Sphere Tek,pro-sphere-tek,Virginia,VA,Alexandria,1794.6637,45749934,3,8,"Washington, DC",IT Services,3
+17663,226,169,National Medtrans Network,national-medtrans-network,New York,NY,Ronkonkoma,1764.5765,73744000,9,10,New York City,Health,4
+43132,241,100,MasteryPrep,masteryprep,Louisiana,LA,Baton Rouge,1612.4824,4364330,139,19,"Baton Rouge, LA",Education,1
+43134,243,100,Stratton & Bratt,stratton-bratt,Utah,UT,Pleasant Grove,1609.2304,7718987,48,20,"Provo-Orem, UT",Construction,1
+36967,245,120,Stability Healthcare,stability-healthcare,California,CA,Los Angeles,1598.1928,8837497,2,10,Los Angeles,Health,2
+43136,248,201,KPG Healthcare,kpg-healthcare,California,CA,El Segundo,1590.2109,7008916,2,10,Los Angeles,Health,1
+26343,275,7756,Bowlmor AMF,bowlmor-amf,New York,NY,New York,1422.0219,565731000,9,11,New York City,Food & Beverage,3
+25168,282,100,Smart Energy Today,smart-energy-today,Washington,WA,Olympia,1385.8063,13475669,1020,16,"Olympia-Tumwater, WA",Energy,3
+43164,284,140,"iLendingDIRECT, powered by Fleet Financial",ilendingdirect-powered-by-fleet-financial,Colorado,CO,Englewood,1382.3014,245395000,30,2,Denver,Financial Services,1
+23038,288,4900,TaskUs,taskus,California,CA,Santa Monica,1354.8586,53653278,2,17,Los Angeles,Business Products & Services,4
+43174,299,186,PagerDuty,pagerduty,California,CA,San Francisco,1303.2719,28126747,4,9,San Francisco,Software,1
+36808,304,346,Welltok,welltok,Colorado,CO,Denver,1284.8633,26204674,30,10,Denver,Health,2
+36750,305,143,Transitions Commute Solutions,transitions-commute-solutions,Florida,FL,Winter Garden,1281.314,3847139,68,6,"Orlando, FL",Logistics & Transportation,2
+43180,308,139,GuidePoint Security,guidepoint-security,Virginia,VA,Herndon,1275.9001,111126706,3,13,"Washington, DC",Security,1
+36708,316,117,Saatva,saatva,Connecticut,CT,Wesrtport,1220.8804,70444494,9,18,New York City,Retail,2
+36633,317,376,Optima Tax Relief,optima-tax-relief,California,CA,Santa Ana,1214.2274,53926654,2,2,Los Angeles,Financial Services,2
+43190,323,205,Proove Biosciences,proove-biosciences,California,CA,Irvine,1194.7873,17826567,2,10,Los Angeles,Health,1
+37312,324,125,SSi,ssi,Virginia,VA,Virginia Beach,1194.0314,12028604,15,21,"Virginia Beach-Norfolk-Newport News, VA-NC",Human Resources,2
+36952,327,178,ClearSource,clearsource,Utah,UT,Sandy,1180.8754,5710232,12,17,Salt Lake City,Business Products & Services,2
+43194,330,300,Signpost,signpost,New York,NY,New York,1172.7468,8879980,9,5,New York City,Advertising & Marketing,1
+43196,333,170,Karna,karna,Georgia,GA,Atlanta,1146.5906,14950872,29,7,Atlanta,Government Services,1
+36881,334,698,NEKTER JUICE BAR,nekter-juice-bar,California,CA,Santa Ana,1146.3131,36705092,2,11,Los Angeles,Food & Beverage,2
+36920,336,169,Kargo,kargo,New York,NY,New York,1140.7235,94183530,9,5,New York City,Advertising & Marketing,2
+37137,348,508,Davis Defense Group,davis-defense-group,Virginia,VA,Stafford,1101.7441,30943216,3,7,"Washington, DC",Government Services,2
+43208,353,110,Legacybox,legacybox,Tennessee,TN,Chattanooga,1075.5366,9694415,110,4,"Chattanooga, TN-GA",Consumer Products & Services,1
+36718,358,275,Pharmapacks,pharmapacks,New York,NY,College Point,1070.7721,66646000,9,18,New York City,Retail,2
+36667,363,174,J.W. Logistics,jw-logistics,Texas,TX,Frisco,1054.7327,107857659,8,6,Dallas,Logistics & Transportation,2
+36700,366,366,Cardlytics,cardlytics,Georgia,GA,Atlanta,1049.2938,77634380,29,5,Atlanta,Advertising & Marketing,2
+36705,367,100,Asanda AVEDA Spa Lounge,asanda-aveda-spa-lounge,New York,NY,New York,1047.678,5320027,9,4,New York City,Consumer Products & Services,2
+25496,368,139,Swift Capital,swift-capital,Delaware,DE,Wilmington,1047.0934,51352000,49,2,Philadelphia,Financial Services,3
+25564,373,2140,MOD Pizza,mod-pizza,Washington,WA,Bellevue,1028.7516,65158698,23,11,Seattle,Food & Beverage,3
+17397,376,230,The Retail Outsource,the-retail-outsource,Florida,FL,Coral Gables,1023.3526,13126005,1,18,Miami,Retail,2
+36672,379,130,Signal,signal,Illinois,IL,Chicago,1008.3272,29051405,17,9,Chicago,Software,2
+23446,384,404,Health Catalyst,health-catalyst,Utah,UT,Salt Lake City,998.3149,40976030,12,10,Salt Lake City,Health,4
+38072,386,675,ArroHealth,arrohealth,New York,NY,Hauppauge,990.0337,42108000,9,10,New York City,Health,2
+23017,391,107,TNH ADVANCED SPECIALTY PHARMACY,tnh-advanced-specialty-pharmacy,California,CA,VAN NUYS,976.0286,404193386,2,10,Los Angeles,Health,4
+36880,403,420,Turbonomic,Turbonomic,Massachusetts,MA,Boston,953.5732,44614000,6,9,Boston,Software,2
+43236,404,106,Sauce Labs,sauce-labs,California,CA,San Francisco,952.4222,14269319,4,9,San Francisco,Software,1
+43239,408,180,Avertra,avertra,Virginia,VA,Herndon,944.2116,8756675,3,8,"Washington, DC",IT Services,1
+36687,409,155,Fresh Meal Plan,fresh-meal-plan,Florida,FL,Boca Raton,943.1497,15467605,1,11,Miami,Food & Beverage,2
+36975,418,580,Harmony Healthcare,harmony-healthcare,Florida,FL,Tampa,922.2503,40182954,7,10,Tampa,Health,2
+43245,419,250,Strategic Financial Solutions,strategic-financial-solutions,New York,NY,New York,918.9152,37663233,9,2,New York City,Financial Services,1
+19789,426,475,AASKI Technology,aaski-technology,New Jersey,NJ,Ocean,893.6122,289278670,9,24,New York City,Engineering,6
+43254,433,100,Prolific Interactive,prolific-interactive,New York,NY,Brooklyn,881.9148,10188446,9,5,New York City,Advertising & Marketing,1
+43255,436,566,Neighbors Health ,neighbors-health,Texas,TX,Pearland,877.4721,250701143,22,10,Houston,Health,1
+36999,452,227,E2 Optics,e2-optics,Colorado,CO,Englewood,847.0511,50421000,30,14,Denver,Telecommunications,2
+43271,459,111,Omnibuild,omnibuild,New York,NY,New York,832.1047,171653295,9,20,New York City,Construction,1
+37056,461,135,Nolan Transportation Group,nolan-transportation-group,Georgia,GA,Roswell,824.0357,196309866,29,6,Atlanta,Logistics & Transportation,2
+37285,462,367,The Hilb Group,the-hilb-group,Virginia,VA,Richmond,820.0546,36858373,40,1,"Richmond, VA",Insurance,2
+23334,475,531,Pluralsight,pluralsight,Utah,UT,Farmington,800.0133,108421905,204,19,"Ogden-Clearfield, UT",Education,4
+23061,476,124,VETS etc.,vets-etc,California,CA,Seaside,798.681,34113573,344,8,"Salinas, CA",IT Services,4
+24805,478,116,Pivot International,pivot-international,Kansas,KS,Lenexa,798.1131,43086319,21,24,"Kansas City, MO-KS",Engineering,2
+43282,479,565,Cynet Systems,cynet-systems,Virginia,VA,Ashburn,796.8037,31424000,3,8,"Washington, DC",IT Services,1
+25935,480,281,Wholesale Screening Solutions,wholesale-screening-solutions,Virginia,VA,Purcellville,794.9785,32428327,3,17,"Washington, DC",Business Products & Services,3
+26431,481,900,Jeunesse Global,jeunesse-global,Florida,FL,Lake Mary,791.0651,1019683612,68,4,"Orlando, FL",Consumer Products & Services,3
+10239,486,140,Metronome,metronome,Virginia,VA,Fairfax,779.1702,9818722,3,7,"Washington, DC",Government Services,3
+43287,489,250,Sunny Days In-Home Care,sunny-days-in-home-care,Pennsylvania,PA,McMurray,776.478,5196331,52,10,"Pittsburgh, PA",Health,1
+22941,490,220,LiveIntent,liveintent,New York,NY,New York,776.1572,60738467,9,5,New York City,Advertising & Marketing,2
+43288,491,550,Optimum Healthcare IT,optimum-healthcare-it,Florida,FL,Jacksonville Beach,774.305,99321312,64,10,"Jacksonville, FL",Health,1
+1553,500,934,Vixxo,vixxo,Arizona,AZ,Scottsdale,757.6213,693622000,46,17,Phoenix,Business Products & Services,8
+43290,501,750,Akorbi,akorbi,Texas,TX,Plano,757.5059,23368365,8,17,Dallas,Business Products & Services,1
+23758,504,256,ContextMedia,contextmedia,Illinois,IL,Chicago,751.4565,62068068,17,10,Chicago,Health,3
+25524,505,118,Showroom Logic,showroom-logic,Florida,FL,Miami,749.6988,33832892,1,5,Miami,Advertising & Marketing,3
+36707,508,104,Contently,contently,New York,NY,New York,748.9569,14848179,9,5,New York City,Advertising & Marketing,2
+17360,510,312,Yeti Coolers,yeti-coolers,Texas,TX,Austin,748.157,468946000,18,4,Austin,Consumer Products & Services,4
+22933,518,250,TUNE,tune,Washington,WA,Seattle,740.6433,60407280,23,5,Seattle,Advertising & Marketing,4
+26263,520,567,Twilio,twilio,California,CA,San Francisco,735.9325,166919000,4,14,San Francisco,Telecommunications,2
+25518,522,300,Tahzoo,tahzoo,District of Columbia,DC,Washington,733.1757,39359961,3,17,"Washington, DC",Business Products & Services,3
+23435,526,270,Redhorse,redhorse,California,CA,San Diego,730.8679,39401208,11,24,San Diego,Engineering,4
+37093,527,170,White Shark Media,white-shark-media,Florida,FL,MIAMI,730.2325,7381705,1,5,Miami,Advertising & Marketing,2
+43302,533,167,BarnAllen Technologies,barnallen-technologies,Maryland,MD,Rockville,723.0482,11729211,3,8,"Washington, DC",IT Services,1
+25492,535,1118,Sovereign Health Group,sovereign-health-group,California,CA,San Clemente,721.4955,74683601,2,10,Los Angeles,Health,3
+43303,536,110,SolTerra,solterra,Washington,WA,Seattle,721.4705,30509391,23,3,Seattle,Real Estate,1
+36927,537,242,DoubleDutch,doubledutch,California,CA,San Francisco,720.9401,12759569,4,9,San Francisco,Software,2
+43305,539,120,Blue Moon Estate Sales USA,blue-moon-estate-sales-usa,North Carolina,NC,Fuquay-varina,715.9573,2506572,1029,3,"Raleigh, NC",Real Estate,1
+36862,543,105,USA Staffing Services,usa-staffing-services,Florida,FL,Tampa,715.1352,5830988,7,17,Tampa,Business Products & Services,2
+21340,556,150,Surge,surge,Washington,WA,Bellevue,700.514,22218050,23,8,Seattle,IT Services,5
+43314,560,271,Veterinary Practice Partners,veterinary-practice-partners,Pennsylvania,PA,King of Prussia,699.9167,23985534,49,10,Philadelphia,Health,1
+36658,566,116,AdTheorent,adtheorent,New York,NY,New York,695.4821,42096791,9,5,New York City,Advertising & Marketing,2
+26395,574,305,Integral Ad Science,integral-ad-science,New York,NY,New York,677.7303,93273969,9,5,New York City,Advertising & Marketing,3
+26113,575,166,Case Snow Management,case-snow-management,Massachusetts,MA,Attleboro Falls,677.7191,28840000,1015,17,"Providence-Warwick, RI-MA",Business Products & Services,3
+43323,580,1500,Incedo,incedo,California,CA,Santa Clara,671.3633,27580088,20,8,San Jose,IT Services,1
+36703,582,152,CloudLock,cloudlock,Massachusetts,MA,Waltham,665.0635,13200000,6,13,Boston,Security,2
+43325,585,350,Sterling Staffing Solutions,sterling-staffing-solutions,Texas,TX,Sugarland,662.731,2978007,22,10,Houston,Health,1
+43326,587,132,Walsingham Group,walsingham-group,North Carolina,NC,Fayetteville,661.4605,5818152,138,7,"Fayetteville, NC",Government Services,1
+37302,592,141,Market Traders Institute,market-traders-institute,Florida,FL,Orlando,659.1743,30121616,68,19,"Orlando, FL",Education,2
+21023,597,120,CardCash.com,cardcashcom,New Jersey,NJ,Brick,655.4124,121512977,9,4,New York City,Consumer Products & Services,5
+22068,607,225,Baker Electric Solar,baker-electric-solar,California,CA,Escondido,644.8197,45866000,11,16,San Diego,Energy,3
+19684,608,329,E3 Federal Solutions,e3-federal-solutions,Virginia,VA,McLean,643.8505,52680610,3,7,"Washington, DC",Government Services,5
+36868,617,170,Itility,itility,Virginia,VA,Herndon,633.1916,26175415,3,7,"Washington, DC",Government Services,2
+24979,626,150,Noribachi,noribachi,California,CA,Harbor City,617.3895,37464122,2,15,Los Angeles,Manufacturing,3
+43346,629,230,Saxbys Coffee,saxbys-coffee,Pennsylvania,PA,Philadelphia,615.2151,5657323,49,11,Philadelphia,Food & Beverage,1
+24748,630,156,etailz,etailz,Washington,WA,Spokane,614.4423,93291877,1026,18,"Spokane-Spokane Valley, WA",Retail,4
+23102,632,185,Caduceus Healthcare,caduceus-healthcare,Georgia,GA,Atlanta,612.0581,42844654,29,7,Atlanta,Government Services,4
+43350,640,109,Launch Digital Marketing,launch-digital-marketing,Illinois,IL,Naperville,607.3533,16297605,17,5,Chicago,Advertising & Marketing,1
+43352,643,150,A1 Diabetes & Medical Supply,a1-diabetes-medical-supply,Tennessee,TN,Memphis,604.0323,9451620,105,10,"Memphis, TN-MS-AR",Health,1
+37443,647,326,Malwarebytes,malwarebytes,California,CA,Santa Clara,602.5899,69297464,20,13,San Jose,Security,2
+26473,653,464,A. Marshall Family Foods,a-marshall-family-foods,Tennessee,TN,Franklin,597.7952,18865990,82,11,Nashville,Food & Beverage,3
+43356,656,151,Tapad,tapad,New York,NY,New York,594.5446,57353704,9,5,New York City,Advertising & Marketing,1
+25526,658,295,IIT,iit,New York,NY,Melville,594.3187,29044200,9,8,New York City,IT Services,3
+36698,666,125,ConsultADD,consultadd,New York,NY,New York,589.2754,10538000,9,8,New York City,IT Services,2
+43366,671,3500,NEO Tech,neo-tech,California,CA,Chatsworth,582.9763,603471000,2,15,Los Angeles,Manufacturing,1
+36668,673,137,Entrust Energy,entrust-energy,Texas,TX,Houston,582.7549,179850247,22,16,Houston,Energy,2
+17841,677,538,WorldVentures,worldventures,Texas,TX,Plano,580.8297,567493603,8,22,Dallas,Travel & Hospitality,4
+43371,679,2290,TechStyle Fashion Group,techstyle-fashion-group,California,CA,El Segundo,578.7398,505199611,2,18,Los Angeles,Retail,1
+1170,680,127,Rescue | The Behavior Change Agency,rescue-|-the-behavior-change-agency,California,CA,San Diego,577.4287,29201941,11,5,San Diego,Advertising & Marketing,8
+23019,681,148,WordStream,wordstream,Massachusetts,MA,Boston,577.2296,22764044,6,5,Boston,Advertising & Marketing,4
+24677,687,2597,Loyal Source Government Services,loyal-source-government-services,Florida,FL,Orlando,572.553,146960924,68,7,"Orlando, FL",Government Services,3
+43379,695,110,Stability Technology,stability-technology,California,CA,Los Angeles,566.8007,9428789,2,8,Los Angeles,IT Services,1
+25749,696,154,PureCars Automotive,purecars-automotive,South Carolina,SC,Charleston,566.4057,26483144,536,5,"Charleston-North Charleston, SC",Advertising & Marketing,3
+21776,697,360,Procore Technologies,procore-technologies,California,CA,Carpinteria,566.2985,23527000,67,9,"Oxnard-Thousand Oaks-Ventura, CA",Software,4
+26258,698,157,Trident Technologies,trident-technologies,Alabama,AL,Huntsville,564.9384,33397468,69,7,"Huntsville, AL",Government Services,3
+36989,700,202,PhishMe,phishme,Virginia,VA,Leesburg,564.1108,18582724,3,13,"Washington, DC",Security,2
+43382,704,126,Obsidian Solutions Group,obsidian-solutions-group,Virginia,VA,Fredericksburg,560.3608,11050068,3,7,"Washington, DC",Government Services,1
+25522,705,138,Credibly,credibly,New York,NY,New York,558.242,26265198,9,2,New York City,Financial Services,3
+26170,709,109,Logical Position,logical-position,Oregon,OR,Lake Oswego,554.7856,10306397,10,5,"Portland, OR",Advertising & Marketing,3
+2075,719,250,Inserso,inserso,Virginia,VA,Vienna,545.7236,26254231,3,7,"Washington, DC",Government Services,7
+36856,723,467,Nationwide Real Estate Executives,nationwide-real-estate-executives,California,CA,Buena Park,544.0684,9386614,2,3,Los Angeles,Real Estate,2
+36847,728,160,Principal Service Solutions,principal-service-solutions,California,CA,Modesto,542.4512,19028622,215,21,"Modesto, CA",Human Resources,2
+25236,730,237,The Cambridge Institute,the-cambridge-institute,Massachusetts,MA,Waltham,541.6163,49388321,6,19,Boston,Education,3
+43396,733,140,mortgage financial services,mortgage-financial-services,Texas,TX,Southlake,539.8288,7128710,8,2,Dallas,Financial Services,1
+23215,734,187,RevLocal,revlocal,Ohio,OH,Granville,539.1698,16038452,19,5,"Columbus, OH",Advertising & Marketing,4
+43397,740,215,Crossover Health,crossover-health,California,CA,Aliso Viejo,536.6678,21217618,2,10,Los Angeles,Health,1
+43402,747,110,King George,king-george,Texas,TX,Fort Worth,533.7999,4089163,8,7,Dallas,Government Services,1
+43404,750,136,Genius Phone Repair,genius-phone-repair,Michigan,MI,Grand Rapids,532.9065,7088749,219,18,"Grand Rapids-Wyoming, MI",Retail,1
+36801,752,123,ClickDimensions,clickdimensions,Georgia,GA,Atlanta,531.4688,15957022,29,9,Atlanta,Software,2
+43405,753,107,Hatchbeauty Products,hatchbeauty-products,California,CA,Los Angeles,529.8722,59107380,2,4,Los Angeles,Consumer Products & Services,1
+25592,756,215,Acsential,acsential,Georgia,GA,Atlanta,527.2567,6936318,29,7,Atlanta,Government Services,3
+25292,761,219,Dealer Spike,dealer-spike,Oregon,OR,Lake Oswego,525.2234,12287272,10,5,"Portland, OR",Advertising & Marketing,3
+42870,763,1282,Square,square,California,CA,San Francisco,522.8185,1267118000,4,2,San Francisco,Financial Services,1
+22919,765,183,Phunware,phunware,Texas,TX,Austin,521.108,35881541,18,9,Austin,Software,4
+2857,772,293,Magnetic,magnetic,New York,NY,New York,516.858,79923911,9,5,New York City,Advertising & Marketing,4
+43415,777,400,Crunch Fitness West Florida and Atlanta,crunch-fitness-west-florida-and-atlanta,Florida,FL,Brandon,513.8969,10957139,7,10,Tampa,Health,1
+36943,804,142,Activate Healthcare,activate-healthcare,Indiana,IN,Indianapolis,495.1057,18360444,81,10,"Indianapolis, IN",Health,2
+36840,806,278,Professional Realty Services / HomeSmart Advisors,professional-realty-services-homesmart-advisors,Washington,WA,Spokane,493.3738,5347538,1026,3,"Spokane-Spokane Valley, WA",Real Estate,2
+43435,813,139,Seneca Resources,seneca-resources,Virginia,VA,Reston,489.51,7784927,3,8,"Washington, DC",IT Services,1
+25745,821,500,Yochana IT Solutions,yochana-it-solutions,Michigan,MI,Livonia,484.6071,22036163,50,21,Detroit,Human Resources,3
+43442,827,181,Providia Home Care,providia-home-care,Florida,FL,Fort Myers,480.4333,13217627,246,10,"Cape Coral-Fort Myers, FL",Health,1
+18809,829,253,Firespring,firespring,Nebraska,NE,Lincoln,478.6481,31343832,92,17,"Lincoln, NE",Business Products & Services,6
+2437,832,4693,Account Control Technology,account-control-technology,California,CA,Woodland Hills,477.2659,258972667,2,2,Los Angeles,Financial Services,10
+25287,833,127,PEG Bandwidth,peg-bandwidth,Texas,TX,The Colony,476.6225,76143000,8,14,Dallas,Telecommunications,3
+43447,834,300,Fluent Home,fluent-home,Utah,UT,Draper,476.4984,3493736,12,13,Salt Lake City,Security,1
+36776,835,110,Zero Energy Contracting,zero-energy-contracting,California,CA,Santa Fe Springs,476.3773,18244653,2,16,Los Angeles,Energy,2
+23175,838,120,LinTech Global,lintech-global,Michigan,MI,Farmington Hills,474.4244,16169076,50,7,Detroit,Government Services,4
+19281,839,420,Yext,yext,New York,NY,New York,474.1551,89179935,9,9,New York City,Software,3
+36964,847,3000,Daseke,daseke,Texas,TX,Addison,467.9752,678844848,8,6,Dallas,Logistics & Transportation,2
+37309,849,125,Desai Hotel Group,desai-hotel-group,Mississippi,MS,Jackson,467.361,7876423,96,3,"Jackson, MS",Real Estate,2
+19275,850,205,CarGurus,cargurus,Massachusetts,MA,Cambridge,466.8543,98712000,6,4,Boston,Consumer Products & Services,6
+43456,852,110,Appraisal Nation,appraisal-nation,North Carolina,NC,Cary,464.3303,13709332,1029,3,"Raleigh, NC",Real Estate,1
+24687,858,445,Modernizing Medicine,modernizing-medicine,Florida,FL,Boca Raton,462.135,52373016,1,10,Miami,Health,2
+26230,867,100,Winesburg Builders,winesburg-builders,Ohio,OH,Millersburg,457.7268,51355449,651,20,"Coshocton, OH",Construction,3
+37238,868,205,Bioplus Specialty Pharmacy Services,bioplus-specialty-pharmacy-services,Florida,FL,ALTAMONTE SPRINGS,456.3699,827372691,68,10,"Orlando, FL",Health,2
+37366,871,228,Strategic Operational Solutions,strategic-operational-solutions,Virginia,VA,Vienna,454.6455,47265960,3,7,"Washington, DC",Government Services,2
+21325,876,3400,Appleton,appleton,Alabama,AL,Huntsville,453.1698,22869709,69,19,"Huntsville, AL",Education,5
+24946,877,1022,Connexion Point,connexion-point,Utah,UT,Salt Lake City,452.6565,40058651,12,10,Salt Lake City,Health,3
+37632,880,110,Abacus Data Systems,abacus-data-systems,California,CA,SAN DIEGO,451.6812,30345540,11,8,San Diego,IT Services,2
+23378,882,109,Neighborhood Loans,neighborhood-loans,Illinois,IL,Lombard,451.5169,13493540,17,2,Chicago,Financial Services,4
+36641,886,460,Nerium International,nerium-international,Texas,TX,Addison,450.2781,515780873,8,4,Dallas,Consumer Products & Services,2
+26544,907,840,Material Handling Services,material-handling-services,Ohio,OH,Perrysburg,440.6015,301396130,300,17,"Toledo, OH",Business Products & Services,3
+26298,908,198,Rifle Paper Co.,rifle-paper-co,Florida,FL,Winter Park,440.5241,18149152,68,4,"Orlando, FL",Consumer Products & Services,3
+24341,909,360,VUE Software,vue-software,Florida,FL,Coconut Creek,440.4566,10912900,1,9,Miami,Software,7
+4121,916,290,Ventech Solutions,ventech-solutions,Ohio,OH,Columbus,435.719,36641320,19,8,"Columbus, OH",IT Services,7
+36976,917,101,Gold Coast IT Solutions,gold-coast-it-solutions,Virginia,VA,Fairfax,435.7001,5556737,3,8,"Washington, DC",IT Services,2
+21067,922,220,Choice Home Warranty,choice-home-warranty,New Jersey,NJ,Edison,433.1571,86560553,9,1,New York City,Insurance,5
+25030,923,200,Lone Star Bloom,lone-star-bloom,Texas,TX,Houston,432.8993,9642483,22,18,Houston,Retail,3
+26210,927,600,Response Team 1,response-team-1,Illinois,IL,Chicago,429.6205,166993370,17,20,Chicago,Construction,3
+21109,928,326,Refinery29,refinery29,New York,NY,New York,429.244,80051401,9,12,New York City,Media,5
+23795,929,231,Landmark Home Warranty,landmark-home-warranty,Utah,UT,South Jordan,428.3923,26454126,12,1,Salt Lake City,Insurance,4
+25188,938,569,Axtria,axtria,New Jersey,NJ,Berkeley Heights,421.1123,26629824,9,9,New York City,Software,3
+43479,940,268,Renovo Solutions,renovo-solutions,California,CA,Irvine,420.347,57845503,2,10,Los Angeles,Health,1
+26501,947,108,Wellcentive,wellcentive,Georgia,GA,Alpharetta,417.9679,13866000,29,10,Atlanta,Health,2
+43485,951,215,Matisia Consultants,matisia-consultants,Washington,WA,Seattle,416.9127,45200830,23,17,Seattle,Business Products & Services,1
+36930,953,110,Swrve,swrve,California,CA,San Francisco,416.7386,4426900,4,9,San Francisco,Software,2
+26545,954,249,ExactCare Pharmacy,exactcare-pharmacy,Ohio,OH,Valley View,416.2123,119211581,79,10,Cleveland,Health,3
+25722,967,134,METIS Solutions,metis-solutions,Virginia,VA,Arlington,412.5787,16460792,3,7,"Washington, DC",Government Services,3
+26172,977,142,Collective Bias,collective-bias,Arkansas,AR,Rogers,409.0163,33678036,235,5,"Fayetteville-Springdale-Rogers, AR-MO",Advertising & Marketing,3
+37243,979,442,Environmental Pest Service,environmental-pest-service,Florida,FL,Sarasota,408.5993,43943736,1031,23,"North Port-Sarasota-Bradenton, FL",Environmental Services,2
+43505,988,120,APPS SOLUTIONS,apps-solutions,Michigan,MI,TROY,405.4351,10135014,50,8,Detroit,IT Services,1
+43506,991,100,Spring & Sprout,spring-sprout,Michigan,MI,Dundee,404.6376,6736417,175,10,"Monroe, MI",Health,1
+37239,992,600,Safe Haven Security Services,safe-haven-security-services,Missouri,MO,Kansas City,403.9129,53150548,21,13,"Kansas City, MO-KS",Security,2
+23145,996,212,Netsertive,netsertive,North Carolina,NC,Morrisville,400.4969,45072908,56,5,"Durham-Chapel Hill, NC",Advertising & Marketing,4
+43512,1001,600,Palmetto Partners,palmetto-partners,Virginia,VA,Alexandria,396.5799,4019596,3,7,"Washington, DC",Government Services,1
+43515,1006,280,Trusted Nurse Staffing,trusted-nurse-staffing,New York,NY,Buffalo,394.0853,8876682,1032,10,"Buffalo-Cheektowaga-Niagara Falls, NY",Health,1
+36642,1008,151,XOOM Energy,xoom-energy,North Carolina,NC,Huntersville,393.6456,289019305,43,16,Charlotte,Energy,2
+24519,1010,1464,American Family Care,american-family-care,Alabama,AL,Birmingham,392.5898,433176695,140,10,"Birmingham-Hoover, AL",Health,3
+727,1018,1936,Pinnacle Group,pinnacle-group,Texas,TX,Dallas,388.9403,1161466598,8,8,Dallas,IT Services,11
+43522,1020,183,Tabula Rasa HealthCare,tabula-rasa-healthcare,New Jersey,NJ,Moorestown,388.4976,70039534,49,10,Philadelphia,Health,1
+25855,1028,817,hCentive,hcentive,Virginia,VA,Reston,384.4425,50538267,3,10,"Washington, DC",Health,3
+43530,1030,514,Response,response,Utah,UT,Lindon,384.1403,46953672,48,19,"Provo-Orem, UT",Education,1
+25486,1034,350,TEKWISSEN,tekwissen,Michigan,MI,Ann Arbor,382.2687,17290000,84,9,"Ann Arbor, MI",Software,3
+17708,1037,154,Swiftpage,swiftpage,Colorado,CO,Denver,381.2887,26229639,30,9,Denver,Software,4
+43533,1039,850,Elite Medical Scribes,elite-medical-scribes,Minnesota,MN,Bloomington,379.8344,12986104,13,10,Minneapolis,Health,1
+43534,1040,128,Simpli.fi,simplifi,Texas,TX,Fort Worth,379.0739,51560353,8,5,Dallas,Advertising & Marketing,1
+26371,1047,598,Symphony Placements,symphony-placements,Maryland,MD,Cockeysville,375.7164,7515644,35,21,Baltimore,Human Resources,3
+19818,1056,200,N2 Publishing,n2-publishing,North Carolina,NC,Wilmington,370.0202,100072000,192,12,"Wilmington, NC",Media,6
+24681,1059,175,Corps Solutions,corps-solutions,Virginia,VA,Stafford,369.4497,21842836,3,7,"Washington, DC",Government Services,3
+12463,1061,178,Solutions By Design II,solutions-by-design-ii,Virginia,VA,Vienna,368.8029,37664621,3,8,"Washington, DC",IT Services,2
+43540,1062,147,HookLogic,hooklogic,New York,NY,New York,368.6298,111398000,9,5,New York City,Advertising & Marketing,1
+37588,1063,785,HighJump,highjump,Minnesota,MN,Minneapolis,368.6169,164497212,13,9,Minneapolis,Software,2
+21229,1067,100,Impact Makers,impact-makers,Virginia,VA,Richmond,365.9524,17851059,40,8,"Richmond, VA",IT Services,5
+24642,1071,120,CentraLite Systems,centralite-systems,Alabama,AL,Mobile,364.0807,35785349,136,4,"Mobile, AL",Consumer Products & Services,2
+23549,1072,160,Devbridge Group,devbridge-group,Illinois,IL,Chicago,363.5194,11146539,17,9,Chicago,Software,4
+43543,1073,110,Redline Automotive Merchandising,redline-automotive-merchandising,New Jersey,NJ,Haddonfield,362.7372,5258069,49,5,Philadelphia,Advertising & Marketing,1
+37413,1078,130,ValuD Consulting,valud-consulting,Texas,TX,Addison,359.4842,6873442,8,8,Dallas,IT Services,2
+43548,1082,250,Victory Tailgate,victory-tailgate,Florida,FL,Orlando,357.5103,21586713,68,15,"Orlando, FL",Manufacturing,1
+43552,1090,350,Renewal by Andersen,renewal-by-andersen,Texas,TX,Austin,354.0718,67114000,18,20,Austin,Construction,1
+36869,1094,104,365 Retail Markets,365-retail-markets,Michigan,MI,Troy,353.6844,23538016,50,17,Detroit,Business Products & Services,2
+23004,1095,308,Medical Staffing Options,medical-staffing-options,Ohio,OH,Westerville,353.6388,21000000,19,10,"Columbus, OH",Health,4
+25635,1105,215,ClickSpark,clickspark,New York,NY,Henrietta,350.6142,21766844,71,5,"Rochester, NY",Advertising & Marketing,3
+43558,1107,500,RV Horizons,rv-horizons,Colorado,CO,Cedaredge,349.5351,51737000,998,3,,Real Estate,1
+24173,1108,167,"Ian, Evan & Alexander",ian-evan-alexander,Virginia,VA,Ashburn,349.4124,29980205,3,7,"Washington, DC",Government Services,4
+43562,1115,246,Armor,armor,Texas,TX,Richardson,347.4439,48664000,8,13,Dallas,Security,1
+22925,1116,239,Madwire,madwire,Colorado,CO,Fort Collins,347.4046,30845460,1009,5,"Fort Collins, CO",Advertising & Marketing,4
+20409,1119,175,MicroSystems Automation Group,microsystems-automation-group,Virginia,VA,Falls Church,346.1161,25478093,3,7,"Washington, DC",Government Services,5
+43563,1120,180,Fifteen Five,fifteen-five,Texas,TX,Leander,345.8682,4323000,18,17,Austin,Business Products & Services,1
+37127,1122,162,Limeade,limeade,Washington,WA,Bellevue,344.5438,19517750,23,21,Seattle,Human Resources,2
+21173,1123,730,MediaMath,mediamath,New York,NY,New York,344.3958,601000000,9,5,New York City,Advertising & Marketing,4
+43564,1124,201,Dovel Technologies,dovel-technologies,Virginia,VA,McLean,344.1918,68219178,3,8,"Washington, DC",IT Services,1
+21071,1127,3006,Movement Mortgage,movement-mortgage,South Carolina,SC,Fort Mill,342.7163,363202153,43,2,Charlotte,Financial Services,4
+43565,1128,143,Selling Simplified,selling-simplified,Colorado,CO,Greenwood Village,342.0866,4633505,30,9,Denver,Software,1
+2158,1134,312,Harmonia Holdings Group,harmonia-holdings-group,Virginia,VA,Blacksburg,340.9546,35724596,241,9,"Blacksburg-Christiansburg-Radford, VA",Software,8
+37629,1143,450,EVERYTHING BUT THE HOUSE,everything-but-the-house,Ohio,OH,Cincinnati,339.5162,30124242,47,4,Cincinnati,Consumer Products & Services,2
+25204,1146,110,PointSource,pointsource,North Carolina,NC,Raleigh,338.8977,16360729,1029,9,"Raleigh, NC",Software,3
+19472,1148,9255,ScribeAmerica,scribeamerica,Florida,FL,Fort Lauderdale,338.0706,141349684,1,10,Miami,Health,6
+43571,1149,315,Sixth Gear Studios,sixth-gear-studios,California,CA,San Francisco,338.0623,3798000,4,9,San Francisco,Software,1
+23536,1152,312,Two Maids & A Mop,two-maids-a-mop,Alabama,AL,Birmingham,337.2355,3832640,140,4,"Birmingham-Hoover, AL",Consumer Products & Services,4
+37642,1164,245,Onestaff Medical,onestaff-medical,Nebraska,NE,Omaha,332.905,18657299,97,10,"Omaha-Council Bluffs, NE-IA",Health,2
+25647,1168,2942,EXOS,exos,Arizona,AZ,Phoenix,332.4397,129488645,46,10,Phoenix,Health,3
+26557,1169,142,Defense Point Security,defense-point-security,Virginia,VA,Alexandria,332.3001,19558679,3,7,"Washington, DC",Government Services,3
+43575,1172,163,NewWave Telecom and Technologies,newwave-telecom-and-technologies,Maryland,MD,Elkridge,331.8737,27542589,35,7,Baltimore,Government Services,1
+37290,1176,165,One Federal Solution,one-federal-solution,Maryland,MD,Waldorf,330.445,10253265,3,7,"Washington, DC",Government Services,2
+37343,1178,161,Lady M Confections Co.,lady-m-confections-co,New York,NY,Long Island City,329.705,16137908,9,11,New York City,Food & Beverage,2
+26005,1179,505,TeleWorld Solutions,teleworld-solutions,Virginia,VA,Chantilly,329.6024,37401349,3,14,"Washington, DC",Telecommunications,3
+43583,1189,140,Cybermedia Technologies,cybermedia-technologies,Virginia,VA,Reston,327.6654,12732651,3,8,"Washington, DC",IT Services,1
+37581,1198,157,Tunnel Hill Partners,tunnel-hill-partners,New York,NY,Jericho,326.4721,137098000,9,23,New York City,Environmental Services,2
+36786,1201,288,Anchor Consultants,anchor-consultants,New Jersey,NJ,Basking Ridge,325.9173,43010315,9,2,New York City,Financial Services,2
+25366,1202,353,DayNine Consulting,daynine-consulting,California,CA,Pleasanton,325.7305,72123000,4,17,San Francisco,Business Products & Services,2
+43589,1204,125,Prodigy Construction,prodigy-construction,Kentucky,KY,Louisville,325.3308,44442242,630,20,"Louisville/Jefferson County, KY-IN",Construction,1
+43590,1205,1777,GrapeTree Medical Staffing,grapetree-medical-staffing,Iowa,IA,Milford,324.729,20025037,331,10,"Spirit Lake, IA",Health,1
+37440,1208,200,Liberty Pipeline Services,liberty-pipeline-services,Texas,TX,Spring,323.5844,38076000,22,16,Houston,Energy,2
+22910,1213,750,OneSource Virtual,onesource-virtual,Texas,TX,Irving,320.9836,95922022,8,17,Dallas,Business Products & Services,4
+37594,1216,730,Fusion Medical Staffing,fusion-medical-staffing,Nebraska,NE,Omaha,319.3763,65008532,97,10,"Omaha-Council Bluffs, NE-IA",Health,2
+17606,1223,200,PayLease,paylease,California,CA,San Diego,317.788,50444238,11,2,San Diego,Financial Services,7
+37364,1229,120,BCTEC,bctec,Texas,TX,KATY,317.133,3693412,22,14,Houston,Telecommunications,2
+20992,1232,242,Vets First Choice,vets-first-choice,Maine,ME,Portland,315.9678,60926021,1018,10,"Portland-South Portland, ME",Health,5
+37096,1234,112,Rational Interaction,rational-interaction,Washington,WA,Seattle,315.0931,20744204,23,5,Seattle,Advertising & Marketing,2
+20056,1235,129,Avaap,avaap,New Jersey,NJ,Edison,314.1867,34577772,9,8,New York City,IT Services,6
+43599,1240,183,Creative Business Solutions,creative-business-solutions,District of Columbia,DC,Washington,313.2648,13159057,3,7,"Washington, DC",Government Services,1
+43602,1246,107,Work Market,work-market,New York,NY,New York,309.948,6009838,9,9,New York City,Software,1
+43603,1247,250,Hawkers Asian Street Fare,hawkers-asian-street-fare,Florida,FL,Clermont,309.6136,6890896,68,11,"Orlando, FL",Food & Beverage,1
+1332,1252,431,ORI,ori,Virginia,VA,Herndon,308.6289,22166845,3,17,"Washington, DC",Business Products & Services,7
+43607,1253,119,Betts Recruiting,betts-recruiting,California,CA,San Francisco,308.4643,14474524,4,21,San Francisco,Human Resources,1
+37106,1260,5000,loanDepot,loandepot,California,CA,Foothill Ranch,307.1024,922359827,2,2,Los Angeles,Financial Services,2
+36940,1262,118,PulsePoint,pulsepoint,New York,NY,New York,306.8709,94984000,9,5,New York City,Advertising & Marketing,2
+43611,1263,275,AMC Bridge,amc-bridge,New Jersey,NJ,Randolph,306.8565,7500795,9,9,New York City,Software,1
+23216,1265,122,Blue Acorn,blue-acorn,South Carolina,SC,Charleston,306.506,10119970,536,8,"Charleston-North Charleston, SC",IT Services,4
+26585,1268,100,Navitas Lease,navitas-lease,Florida,FL,Ponte Vedra Beach,306.0898,20092598,64,2,"Jacksonville, FL",Financial Services,3
+43613,1271,320,Knightvest Capital,knightvest-capital,Texas,TX,Dallas,304.1294,15825589,8,3,Dallas,Real Estate,1
+36772,1278,112,iTexico,itexico,Texas,TX,Austin,301.6682,4782242,18,8,Austin,IT Services,2
+25882,1284,102,Purium Health Products,purium-health-products,California,CA,Long Beach,300.4729,51879488,2,11,Los Angeles,Food & Beverage,3
+25743,1287,435,Boostability,boostability,Utah,UT,Lehi,299.9332,38450473,48,5,"Provo-Orem, UT",Advertising & Marketing,3
+43620,1289,200,Pinnacle Technology,pinnacle-technology,New Jersey,NJ,Rockaway,299.7909,2420826,9,8,New York City,IT Services,1
+21153,1291,389,Vdart,vdart,Georgia,GA,Alpharetta,299.6852,82912218,29,8,Atlanta,IT Services,5
+17776,1292,161,Veris Group,veris-group,Virginia,VA,Vienna,298.9803,31306370,3,13,"Washington, DC",Security,7
+26490,1293,158,SmartZip Analytics,smartzip-analytics,California,CA,Pleasanton,298.8933,22117738,4,9,San Francisco,Software,3
+37041,1299,475,Pressed Juicery,pressed-juicery,California,CA,Santa Monica,297.2793,33313116,2,11,Los Angeles,Food & Beverage,2
+1224,1300,100,MedSource,medsource,Texas,TX,Houston,296.5558,24660115,22,10,Houston,Health,4
+19710,1305,127,United Global Technologies,united-global-technologies,North Carolina,NC,Charlotte,296.0037,19945472,43,8,Charlotte,IT Services,6
+37221,1308,378,clarion security,clarion-security,Tennessee,TN,memphis,295.6443,7222151,105,13,"Memphis, TN-MS-AR",Security,2
+22953,1312,254,SalesStaff,salesstaff,Texas,TX,Stafford,295.1075,16006884,22,17,Houston,Business Products & Services,4
+23184,1317,788,Mid Atlantic Professionals,mid-atlantic-professionals,Maryland,MD,Germantown,294.2748,38514631,3,7,"Washington, DC",Government Services,4
+22895,1320,118,Milestone Community Builders,milestone-community-builders,Texas,TX,Austin,292.3885,179256716,18,3,Austin,Real Estate,4
+43635,1325,135,CFR Rinkens,cfr-rinkens,California,CA,Paramount,291.3621,48776718,2,6,Los Angeles,Logistics & Transportation,1
+43636,1327,231,The Agency,the-agency,California,CA,Beverly Hills,291.3051,49243902,2,3,Los Angeles,Real Estate,1
+25781,1330,731,AMPAL Group,ampal-group,New Jersey,NJ,Green Brook,290.3709,34637913,9,11,New York City,Food & Beverage,2
+23518,1331,170,AMTIS,amtis,Florida,FL,Orlando,290.3154,13992022,68,7,"Orlando, FL",Government Services,4
+43639,1340,100,Global Financial Private Capital,global-financial-private-capital,Florida,FL,Sarasota,287.2817,63137442,1031,2,"North Port-Sarasota-Bradenton, FL",Financial Services,1
+37389,1342,125,Worcester Investments,worcester-investments,Missouri,MO,Kansas City,287.1947,13927756,21,3,"Kansas City, MO-KS",Real Estate,2
+25990,1347,184,Peak Capital Partners,peak-capital-partners,Utah,UT,Provo,285.8372,120907502,912,3,"Heber, UT",Real Estate,3
+24888,1366,175,Motivity Labs,motivity-labs,Texas,TX,Irving,280.7869,5751957,8,8,Dallas,IT Services,3
+21357,1367,4000,CCS Construction Staffing,ccs-construction-staffing,North Carolina,NC,Charlotte,280.6941,28135588,43,21,Charlotte,Human Resources,5
+43652,1371,845,Schlotzsky's and Dairy Queen,schlotzskys-and-dairy-queen,Texas,TX,Irving,280.2669,20963075,8,11,Dallas,Food & Beverage,1
+21291,1378,135,Petticoat-Schmitt Civil Contractors,petticoat-schmitt-civil-contractors,Florida,FL,Jacksonville,279.0973,45069102,64,20,"Jacksonville, FL",Construction,2
+37094,1381,100,Coastal Ridge Real Estate,coastal-ridge-real-estate,Ohio,OH,Columbus,278.7803,4879096,19,3,"Columbus, OH",Real Estate,2
+26532,1385,189,Premier Management,premier-management,Maryland,MD,Columbia,277.7685,36004000,35,7,Baltimore,Government Services,3
+25349,1388,146,Invoca,invoca,California,CA,Santa Barbara,276.5738,19322000,1027,9,"Santa Maria-Santa Barbara, CA",Software,3
+24377,1393,321,Centerline Solutions,centerline-solutions,Colorado,CO,Golden,275.1889,52874851,31,14,"Boulder, CO",Telecommunications,4
+23183,1395,157,Five Stones Research,five-stones-research,Alabama,AL,Brownsboro,273.5906,18973630,69,7,"Huntsville, AL",Government Services,4
+37816,1397,136,UST,ust,Utah,UT,Layton,273.493,46433988,204,10,"Ogden-Clearfield, UT",Health,2
+25328,1398,151,Silverline CRM,silverline-crm,New York,NY,New York,272.8995,22352749,9,8,New York City,IT Services,3
+43660,1399,150,Trident Components,trident-components,Texas,TX,Granbury,272.8513,7214993,8,15,Dallas,Manufacturing,1
+43661,1402,273,Scorpion,scorpion,California,CA,Valencia,272.2652,73307150,2,5,Los Angeles,Advertising & Marketing,6
+21198,1407,795,WeddingWire,weddingwire,Maryland,MD,Chevy Chase,271.5199,72949089,3,4,"Washington, DC",Consumer Products & Services,5
+21489,1408,119,Solstice Benefits,solstice-benefits,Florida,FL,Plantation,271.4631,38583108,1,1,Miami,Insurance,5
+19360,1409,201,DiscoverOrg,discoverorg,Washington,WA,Vancouver,271.2317,44445146,10,9,"Portland, OR",Software,6
+19659,1410,280,Surly Brewing,surly-brewing,Minnesota,MN,brooklyn center,271.1459,29753226,13,11,Minneapolis,Food & Beverage,2
+37860,1414,133,FATHOM Water Management,fathom-water-management,Arizona,AZ,Phoenix,270.6731,16646071,46,9,Phoenix,Software,2
+24994,1418,269,Western Window Systems,western-window-systems,Arizona,AZ,Phoenix,270.1122,69771480,46,15,Phoenix,Manufacturing,3
+19793,1424,375,NRL Mortgage,nrl-mortgage,Texas,TX,Houston,268.9778,42209000,22,2,Houston,Financial Services,4
+21288,1431,150,prizelogic,prizelogic,Michigan,MI,Southfield,267.38,49861136,50,5,Detroit,Advertising & Marketing,5
+37523,1433,112,Insight Technology Solutions,insight-technology-solutions,Maryland,MD,Bowie,267.1545,16267946,3,7,"Washington, DC",Government Services,2
+36866,1435,120,Falcon Consulting Group,falcon-consulting-group,Illinois,IL,Chicago,266.4916,14884798,17,10,Chicago,Health,2
+25679,1440,166,MedHOK,medhok,Florida,FL,Tampa,265.6064,38892508,7,10,Tampa,Health,3
+37439,1442,140,symplr,symplr,Texas,TX,Houston,265.5674,27253050,22,10,Houston,Health,2
+21429,1443,123,Buildium,buildium,Massachusetts,MA,Boston,265.5095,19450587,6,9,Boston,Software,5
+26479,1444,145,Affinity Group Management,affinity-group-management,Missouri,MO,Kansas City,265.3575,31123358,21,3,"Kansas City, MO-KS",Real Estate,3
+23053,1445,283,WebPT,webpt,Arizona,AZ,Phoenix,264.5137,32311947,46,9,Phoenix,Software,4
+37248,1446,295,TeleSign,telesign,California,CA,Marina Del Rey,264.4839,88852041,2,13,Los Angeles,Security,2
+43671,1448,791,The Revenue Optimization Companies,the-revenue-optimization-companies,Florida,FL,Coral Gables,264.2484,30550508,1,18,Miami,Retail,1
+17646,1450,145,Next Generation Enrollment,next-generation-enrollment,Michigan,MI,Ada,263.885,8906227,219,21,"Grand Rapids-Wyoming, MI",Human Resources,3
+23319,1452,164,Quality In Real Time,quality-in-real-time,New York,NY,Floral Park,263.6876,10627769,9,10,New York City,Health,4
+25677,1459,613,Nordic,nordic,Wisconsin,WI,Madison,262.6873,137154267,78,10,"Madison, WI",Health,3
+36657,1460,300,The Trade Desk,the-trade-desk,California,CA,Ventura,262.6906,114314000,67,5,"Oxnard-Thousand Oaks-Ventura, CA",Advertising & Marketing,2
+21655,1461,283,LDiscovery,ldiscovery,Virginia,VA,McLean,262.6744,91953835,3,17,"Washington, DC",Business Products & Services,5
+24791,1462,299,Zero Waste Solutions,zero-waste-solutions,California,CA,Concord,262.1641,24011909,4,17,San Francisco,Business Products & Services,3
+743,1463,257,Medical Solutions,medical-solutions,Nebraska,NE,Omaha,262.1541,217012286,97,10,"Omaha-Council Bluffs, NE-IA",Health,9
+25066,1464,124,Dynamis,dynamis,Virginia,VA,Fairfax,262.0564,17492445,3,7,"Washington, DC",Government Services,3
+37182,1465,1762,Workbox Staffing,workbox-staffing,Michigan,MI,Grand Rapids,261.8919,43785296,219,21,"Grand Rapids-Wyoming, MI",Human Resources,2
+37913,1467,350,NorthStar Alarm,northstar-alarm,Utah,UT,Orem,261.4656,39410442,48,13,"Provo-Orem, UT",Security,2
+21082,1469,1640,Four Foods Group,four-foods-group,Utah,UT,American Fork,261.4537,79482871,48,11,"Provo-Orem, UT",Food & Beverage,5
+21509,1473,200,Apprio,apprio,District of Columbia,DC,Washington,260.3767,31291837,3,7,"Washington, DC",Government Services,5
+37232,1475,437,DECA Dental Group,deca-dental-group,Texas,TX,Dallas,259.6708,41078000,8,10,Dallas,Health,2
+37159,1479,120,SoftPath Technologies,softpath-technologies,Michigan,MI,Livonia,257.9278,6012589,50,8,Detroit,IT Services,2
+43678,1481,500,ForeScout,forescout,California,CA,Campbell,257.5562,125959370,20,13,San Jose,Security,1
+19828,1484,101,Path-Tec,path-tec,Georgia,GA,Midland,257.273,25337685,429,10,"Columbus, GA-AL",Health,4
+43680,1485,168,Russell Marine,russell-marine,Texas,TX,Channelview,256.9696,73222449,22,20,Houston,Construction,1
+25528,1490,839,Home Base Appraisal Management,home-base-appraisal-management,Utah,UT,Sandy,256.2746,8692950,12,3,Salt Lake City,Real Estate,2
+1942,1494,196,Amyx,amyx,Virginia,VA,Reston,255.5388,33131545,3,7,"Washington, DC",Government Services,5
+43688,1499,134,SourceFuse,sourcefuse,Florida,FL,Neptune Beach,254.6202,2003427,64,8,"Jacksonville, FL",IT Services,1
+26173,1502,453,PitchBook,pitchbook,Washington,WA,Seattle,253.824,24566000,23,2,Seattle,Financial Services,3
+25940,1503,170,InteliSecure,intelisecure,Colorado,CO,Greenwood Village,253.6717,13726000,30,13,Denver,Security,3
+37503,1504,330,Firstronic,firstronic,Michigan,MI,Grand Rapids,253.2265,28901758,219,15,"Grand Rapids-Wyoming, MI",Manufacturing,2
+2118,1513,1138,Birch Communications,birch-communications,Georgia,GA,Atlanta,250.5956,591222327,29,14,Atlanta,Telecommunications,7
+21330,1520,200,Dhaliwal Labs,dhaliwal-labs,Texas,TX,Dallas,249.26,29041084,8,15,Dallas,Manufacturing,5
+43692,1521,236,CrossCountry Consulting,crosscountry-consulting,Virginia,VA,McLean,249.138,44351000,3,2,"Washington, DC",Financial Services,1
+25079,1522,114,Tailgate Guys,tailgate-guys,Alabama,AL,Opelika,249.0861,5156745,591,22,"Auburn-Opelika, AL",Travel & Hospitality,3
+894,1525,1100,NT Concepts,nt-concepts,Virginia,VA,Vienna,248.8559,85363506,3,8,"Washington, DC",IT Services,8
+21290,1526,170,Integrity Express Logistics,integrity-express-logistics,Ohio,OH,Cincinnati,248.8022,121058328,47,6,Cincinnati,Logistics & Transportation,5
+43694,1527,107,Health Carousel,health-carousel,Ohio,OH,Cincinnati,248.782,56923308,47,10,Cincinnati,Health,1
+19431,1530,581,SevOne,sevone,Massachusetts,MA,Boston,248.1828,89342950,6,9,Boston,Software,5
+17547,1532,180,SBG Technology Solutions,sbg-technology-solutions,Virginia,VA,Alexandria,247.878,33891389,3,7,"Washington, DC",Government Services,5
+22451,1538,155,Azzur Group,azzur-group,Pennsylvania,PA,Willow Grove,247.3522,23480694,49,10,Philadelphia,Health,5
+26190,1544,312,Ameex Technologies,ameex-technologies,Illinois,IL,SCHAUMBURG,246.6909,5393068,17,8,Chicago,IT Services,3
+43702,1546,190,ARIIX,ariix,Utah,UT,Bountiful,246.3828,111705000,12,4,Salt Lake City,Consumer Products & Services,1
+24057,1548,170,Crown Laboratories,crown-laboratories,Tennessee,TN,Johnson City,246.0307,34407146,222,15,"Johnson City, TN",Manufacturing,4
+37273,1550,200,Spokeo,spokeo,California,CA,Pasadena,245.6519,78660000,2,4,Los Angeles,Consumer Products & Services,2
+21694,1555,1390,American Eagle Protective Services,american-eagle-protective-services,Texas,TX,Austin,244.5775,99593611,18,13,Austin,Security,5
+22892,1556,350,The HCI Group,the-hci-group,Florida,FL,Jacksonville,244.3752,87242152,64,10,"Jacksonville, FL",Health,4
+19927,1558,420,Central Research,central-research,Arkansas,AR,Lowell,244.0698,17024309,235,7,"Fayetteville-Springdale-Rogers, AR-MO",Government Services,6
+25350,1564,407,Accurate Background,accurate-background,California,CA,Irvine,242.3755,74079812,2,21,Los Angeles,Human Resources,3
+38011,1569,533,Somerset Landscape,somerset-landscape,Arizona,AZ,Chandler,240.7653,31063358,46,17,Phoenix,Business Products & Services,2
+20195,1570,225,New Signature,new-signature,District of Columbia,DC,washington,240.6901,27647000,3,8,"Washington, DC",IT Services,6
+26188,1576,122,Fora Financial,fora-financial,New York,NY,New York,239.6042,33974000,9,2,New York City,Financial Services,3
+21373,1577,170,Clearent,clearent,Missouri,MO,Clayton,239.5323,160136000,74,2,"St. Louis, MO-IL",Financial Services,5
+23929,1579,122,Computer Network Support & Service,computer-network-support-service,California,CA,Burbank,239.1921,8825323,2,8,Los Angeles,IT Services,3
+23765,1585,136,Emagine IT,emagine-it,Virginia,VA,Fairfax,237.9864,39165069,3,7,"Washington, DC",Government Services,3
+21791,1586,450,Sunrise Detox Centers,sunrise-detox-centers,Florida,FL,lake worth,237.8154,70343693,1,10,Miami,Health,5
+19877,1589,193,BayFirst Solutions,bayfirst-solutions,District of Columbia,DC,Washington,237.5883,42742574,3,7,"Washington, DC",Government Services,3
+37549,1591,150,CE-SOLUTIONS,ce-solutions,Pennsylvania,PA,Kennett Square,237.1904,9383983,49,21,Philadelphia,Human Resources,2
+43714,1593,118,Sentar,sentar,Alabama,AL,Huntsville,237.0687,24042942,69,7,"Huntsville, AL",Government Services,1
+21997,1598,2504,ABC Phones of North Carolina,abc-phones-of-north-carolina,North Carolina,NC,Greenville,236.2552,781903981,277,14,"Greenville, NC",Telecommunications,6
+23066,1600,1280,SearchPros Solutions,searchpros-solutions,California,CA,Citrus Heights,236.0275,31904000,1011,21,"Sacramento, CA",Human Resources,2
+37427,1601,386,Benzer Pharmacy,benzer-pharmacy,Florida,FL,Tampa,235.555,125056743,7,10,Tampa,Health,2
+25798,1606,250,L&E Research,le-research,North Carolina,NC,Raleigh,234.4366,10552923,1029,5,"Raleigh, NC",Advertising & Marketing,3
+24658,1609,276,WGI,wgi,Florida,FL,West Palm Beach,233.5466,51053113,1,24,Miami,Engineering,3
+111,1613,469,BlackLine,blackline,California,CA,Los Angeles,233.1836,83606529,2,9,Los Angeles,Software,9
+37046,1626,400,Grand Avenue Realty & Lending,grand-avenue-realty-lending,California,CA,Anaheim,231.1952,4839034,2,3,Los Angeles,Real Estate,2
+25443,1629,299,Behavioral Health Works,behavioral-health-works,California,CA,Anaheim,230.9799,8653613,2,10,Los Angeles,Health,3
+43727,1630,850,NoHo Hospitality Group,noho-hospitality-group,New York,NY,New York,230.7141,66638882,9,11,New York City,Food & Beverage,1
+20558,1632,105,Business Information Technology Solutions,business-information-technology-solutions,Virginia,VA,Falls Church,230.1093,21500082,3,8,"Washington, DC",IT Services,6
+23433,1634,155,iUnlimited Investigative Services,iunlimited-investigative-services,California,CA,Sacramento,229.8077,9618236,1011,13,"Sacramento, CA",Security,4
+37436,1636,688,Benchmark Realty,benchmark-realty,Tennessee,TN,Franklin,229.4027,42709063,82,3,Nashville,Real Estate,2
+24015,1637,200,Abbeville Dental Health Management,abbeville-dental-health-management,Texas,TX,Lubbock,229.2663,20734847,886,10,"Lubbock, TX",Health,4
+43730,1645,140,ThinkSys,thinksys,California,CA,Sunnyvale,228.003,2349640,20,8,San Jose,IT Services,1
+43734,1649,307,Swoon Group,swoon-group,Illinois,IL,Chicago,227.7422,26887547,17,21,Chicago,Human Resources,1
+37998,1656,120,KRG Technologies,krg-technologies,California,CA,Valencia,226.3989,53014366,2,8,Los Angeles,IT Services,2
+21308,1660,100,WillowTree,willowtree,Virginia,VA,Charlottesville,225.909,12944981,106,9,"Charlottesville, VA",Software,5
+1627,1661,1543,Access Information Management,access-information-management,California,CA,Livermore,225.8225,193660110,20,17,San Jose,Business Products & Services,8
+37227,1663,311,ThreeBridge Solutions,threebridge-solutions,Minnesota,MN,Minneapolis,225.2429,45842567,13,8,Minneapolis,IT Services,2
+24436,1665,107,Atlas Research,atlas-research,District of Columbia,DC,Washington,225.0514,21167771,3,7,"Washington, DC",Government Services,3
+37996,1667,150,DECO Lighting,deco-lighting,California,CA,Commerce,223.8708,33200000,2,15,Los Angeles,Manufacturing,2
+23541,1670,185,RP Funding,rp-funding,Florida,FL,Maitland,223.4858,39181543,68,2,"Orlando, FL",Financial Services,3
+5053,1671,207,Venture Technologies,venture-technologies,Mississippi,MS,Ridgeland,223.4873,123331556,96,13,"Jackson, MS",Security,3
+38022,1681,200,SmartFlyer,smartflyer,New York,NY,New York,221.7237,111799000,9,22,New York City,Travel & Hospitality,2
+36679,1682,179,PosiGen,posigen,Louisiana,LA,Metairie,221.5929,50526238,1010,16,"New Orleans-Metairie, LA",Energy,2
+25902,1683,198,Native Hawaiian Veterans,native-hawaiian-veterans,Hawaii,HI,Honolulu,221.5378,33297601,1002,7,"Urban Honolulu, HI",Government Services,3
+25622,1684,175,Allegheny Science & Technology,allegheny-science-technology,West Virginia,WV,Bridgeport,221.3785,19958290,508,7,"Fairmont, WV",Government Services,3
+43745,1686,126,Capital Teas,capital-teas,Maryland,MD,Annapolis,220.1039,4315000,35,11,Baltimore,Food & Beverage,1
+37036,1687,363,Coastal Management Solutions,coastal-management-solutions,Virginia,VA,Virginia Beach,220.082,39750834,15,7,"Virginia Beach-Norfolk-Newport News, VA-NC",Government Services,2
+19594,1690,369,Code42,code42,Minnesota,MN,Minneapolis,219.5521,84026771,13,9,Minneapolis,Software,6
+37374,1697,202,SYNERGEN Health,synergen-health,Texas,TX,Dallas,218.7932,5949306,8,10,Dallas,Health,2
+23366,1700,220,Private Prep,private-prep,New York,NY,New York,218.5216,8058679,9,19,New York City,Education,4
+37256,1701,371,Marathon Health,marathon-health,Vermont,VT,Winooski,218.3707,47953000,156,10,"Burlington-South Burlington, VT",Health,2
+43750,1702,100,Icona Resorts,icona-resorts,New Jersey,NJ,Wildwood Crest,218.3503,6331794,466,22,"Ocean City, NJ",Travel & Hospitality,1
+23349,1712,283,Ruoff Home Mortgage,ruoff-home-mortgage,Indiana,IN,Fort Wayne,217.1579,48073851,162,2,"Fort Wayne, IN",Financial Services,4
+43755,1713,157,Compass Self Storage,compass-self-storage,Ohio,OH,Cleveland,217.1426,37899142,79,6,Cleveland,Logistics & Transportation,1
+1937,1715,232,Net Health,net-health,Pennsylvania,PA,Pittsburgh,217.0013,38205000,52,10,"Pittsburgh, PA",Health,7
+24303,1726,172,National Funding,national-funding,California,CA,San Diego,215.4967,59075878,11,2,San Diego,Financial Services,4
+25136,1728,220,Listrak,listrak,Pennsylvania,PA,Lititz,215.1765,35118407,305,18,"Lancaster, PA",Retail,3
+21014,1742,148,AustinCSI,austincsi,Texas,TX,Plano,213.4818,26315576,8,8,Dallas,IT Services,5
+25911,1746,106,InfoPeople,infopeople,New York,NY,New York,213.2817,13897679,9,8,New York City,IT Services,3
+43767,1748,250,Booker,booker,New York,NY,New York,212.9879,22614489,9,9,New York City,Software,1
+23999,1754,380,Mainstream Boutique,mainstream-boutique,Minnesota,MN,Minneapolis,212.4937,21464472,13,18,Minneapolis,Retail,4
+18532,1758,80000,Universal Services of America,universal-services-of-america,California,CA,Santa Ana,212.1463,1641075000,2,13,Los Angeles,Security,7
+17597,1760,110,eTERA Consulting,etera-consulting,District of Columbia,DC,"Washington, DC",211.9725,14634364,3,17,"Washington, DC",Business Products & Services,3
+43772,1761,117,Impact Partnership,impact-partnership,Georgia,GA,Kennesaw,211.6902,28848713,29,1,Atlanta,Insurance,1
+20982,1763,247,Applause,applause,Massachusetts,MA,Framingham,211.6298,53048833,6,17,Boston,Business Products & Services,5
+43775,1769,301,Yogibo,yogibo,New Hampshire,NH,Nashua,210.9853,14989602,24,18,"Manchester-Nashua, NH",Retail,1
+17468,1773,200,Soft Tech Consulting,soft-tech-consulting,Virginia,VA,Chantilly,210.6361,38200453,3,7,"Washington, DC",Government Services,7
+23986,1774,550,Silicus Technologies,silicus-technologies,Texas,TX,Houston,210.5535,13461748,22,8,Houston,IT Services,4
+25552,1776,220,Venus Construction,venus-construction,Texas,TX,Mansfield,209.9702,34728671,8,20,Dallas,Construction,3
+23086,1777,431,Patina Solutions,patina-solutions,Wisconsin,WI,Brookfield,209.9032,31659925,27,21,"Milwaukee-Waukesha-West Allis, WI",Human Resources,4
+25159,1779,200,Centroid,centroid,Michigan,MI,Troy,209.5759,48418647,50,9,Detroit,Software,3
+43779,1784,178,Saratoga Medical Center,saratoga-medical-center,Virginia,VA,Fairfax,209.0454,15768663,3,10,"Washington, DC",Health,1
+23046,1788,140,Dane Street,dane-street,Massachusetts,MA,Boston,208.6354,29132118,6,10,Boston,Health,4
+1815,1792,850,US Tech Solutions,us-tech-solutions,New Jersey,NJ,Jersey City,207.9118,115121730,9,8,New York City,IT Services,6
+24877,1793,147,EverQuote,everquote,Massachusetts,MA,Cambridge,207.726,96797918,6,5,Boston,Advertising & Marketing,3
+19824,1795,140,Tilson Technology Management,tilson-technology-management,Maine,ME,Portland,206.9478,21651707,1018,14,"Portland-South Portland, ME",Telecommunications,6
+21348,1799,139,RevolutionEHR,revolutionehr,Wisconsin,WI,Madison,206.8438,10757311,78,9,"Madison, WI",Software,5
+17579,1805,198,Rise Interactive,rise-interactive,Illinois,IL,Chicago,205.9716,58146851,17,5,Chicago,Advertising & Marketing,7
+37299,1808,450,Teads,teads,New York,NY,New York,205.66,142300000,9,5,New York City,Advertising & Marketing,2
+25846,1810,101,EcoSense,ecosense,California,CA,Los Angeles,205.4408,26526466,2,20,Los Angeles,Construction,3
+37111,1815,136,Strategy and Management Services,strategy-and-management-services,Virginia,VA,Springfield,204.3301,16506986,3,7,"Washington, DC",Government Services,2
+26163,1819,102,EnableComp,enablecomp,Tennessee,TN,Franklin,204.1781,9845000,82,10,Nashville,Health,3
+43794,1826,121,HomeCity Real Estate,homecity-real-estate,Texas,TX,Austin,203.6982,9862938,18,3,Austin,Real Estate,1
+23611,1833,101,MedTouch,medtouch,Massachusetts,MA,Somerville,202.8786,17124902,6,10,Boston,Health,4
+26329,1835,635,Alliance Health,alliance-health,Utah,UT,South Jordan,202.8166,175408778,12,10,Salt Lake City,Health,3
+43798,1837,416,Paragon Healthcare,paragon-healthcare,Texas,TX,Dallas,202.6388,146798222,8,10,Dallas,Health,1
+37631,1843,550,Dig Inn,dig-inn,New York,NY,New York,202.1349,32234871,9,11,New York City,Food & Beverage,2
+26598,1845,1860,Point 2 Point Global Security,point-2-point-global-security,Texas,TX,Addison,201.8434,39943153,8,13,Dallas,Security,3
+38178,1848,108,J2 Interactive,j2-interactive,Massachusetts,MA,Charlestown,201.7115,19769583,6,10,Boston,Health,2
+23462,1850,100,Three Twins Ice Cream,three-twins-ice-cream,California,CA,Petaluma,201.6631,11276437,4,11,San Francisco,Food & Beverage,4
+19531,1851,139,Metova,metova,Tennessee,TN,Franklin,201.6079,10162703,82,9,Nashville,Software,6
+37623,1853,159,Meridith Baer Home,meridith-baer-home,California,CA,South Gate,201.2205,28549874,2,3,Los Angeles,Real Estate,2
+17715,1859,153,Sullivan Solar Power,sullivan-solar-power,California,CA,San Diego,200.3295,50115922,11,16,San Diego,Energy,7
+43808,1863,512,Aurify Brands,aurify-brands,New York,NY,New york,199.8025,41604862,9,11,New York City,Food & Beverage,1
+37129,1866,105,OpenArc,openarc,Pennsylvania,PA,Wexford,199.5806,9551512,52,8,"Pittsburgh, PA",IT Services,2
+22787,1869,884,Data Dimensions,data-dimensions,Wisconsin,WI,Janesville,199.1537,72740158,1042,17,"Janesville-Beloit, WI",Business Products & Services,4
+154,1871,1040,College Hunks Hauling Junk and Moving,college-hunks-hauling-junk-and-moving,Florida,FL,Tampa,198.8371,33709000,7,4,Tampa,Consumer Products & Services,7
+43812,1873,143,Atlas General Insurance Services,atlas-general-insurance-services,California,CA,San Diego,198.7395,57664251,11,1,San Diego,Insurance,1
+23290,1874,180,Power Grid Engineering,power-grid-engineering,Florida,FL,Lake Mary,198.6051,33482023,68,24,"Orlando, FL",Engineering,3
+21238,1876,127,FluidEdge Consulting,fluidedge-consulting,Pennsylvania,PA,Malvern,198.4717,26053973,49,10,Philadelphia,Health,5
+24019,1881,350,ODC,odc,Florida,FL,Orlando,197.8421,80462491,68,20,"Orlando, FL",Construction,2
+43814,1882,347,Azule Staffing,azule-staffing,Minnesota,MN,Eagan,197.7945,10205057,13,8,Minneapolis,IT Services,1
+43815,1885,1280,MedSpeed,medspeed,Illinois,IL,Elmhurst,197.6931,59968274,17,10,Chicago,Health,1
+21888,1887,113,Atlas RFID Solutions,atlas-rfid-solutions,Alabama,AL,Birmingham,197.6724,21471229,140,9,"Birmingham-Hoover, AL",Software,5
+5049,1888,1200,WorkForce Solutions Group,workforce-solutions-group,California,CA,Lake Forest,197.6502,30340649,2,21,Los Angeles,Human Resources,3
+20975,1890,720,Acquia,acquia,Massachusetts,MA,Boston,197.4648,128011000,6,9,Boston,Software,5
+25641,1893,221,Granbury Solutions,granbury-solutions,Texas,TX,Grapevine,197.0653,21328395,8,11,Dallas,Food & Beverage,3
+37057,1899,128,3S Business Corporation,3s-business-corporation,Texas,TX,Houston,196.451,12000000,22,8,Houston,IT Services,2
+24054,1904,3964,Freedom Mortgage,freedom-mortgage,New Jersey,NJ,Mount Laurel,196.0264,762199793,49,2,Philadelphia,Financial Services,4
+25523,1915,111,Datalot,datalot,New York,NY,New York,194.5259,43898635,9,17,New York City,Business Products & Services,3
+3311,1918,125,Veracity Engineering,veracity-engineering,District of Columbia,DC,Washington,194.341,35855881,3,7,"Washington, DC",Government Services,8
+43826,1931,185,Dress Up,dress-up,Georgia,GA,Gainesville,192.4038,13402628,203,18,"Gainesville, GA",Retail,1
+21663,1932,128,Simpson Plastering,simpson-plastering,Alabama,AL,Birmingham,192.3321,11903236,140,20,"Birmingham-Hoover, AL",Construction,2
+43828,1935,127,Ideal Impact,ideal-impact,Texas,TX,Grapevine,192.0667,10360425,8,16,Dallas,Energy,1
+19422,1937,396,ISHPI,ishpi,South Carolina,SC,Mt. Pleasant,191.8551,50188308,536,8,"Charleston-North Charleston, SC",IT Services,6
+23032,1939,411,CWU,cwu,Florida,FL,Clearwater,191.6247,29551138,7,7,Tampa,Government Services,3
+37622,1941,100,Arrow Consulting & Design,arrow-consulting-design,Florida,FL,West Palm Beach,191.5341,10293374,1,9,Miami,Software,2
+26179,1942,168,MCSG Technologies,mcsg-technologies,Oklahoma,OK,Norman,191.48,9299582,38,8,"Oklahoma City, OK",IT Services,3
+1032,1947,245,Strategic Resources International,strategic-resources-international,New Jersey,NJ,Parlin,190.6561,24275600,9,8,New York City,IT Services,6
+43832,1950,164,FEDITC,feditc,Maryland,MD,Rockville,190.4434,33968778,3,7,"Washington, DC",Government Services,1
+10985,1951,166,SupplyCore,supplycore,Illinois,IL,Rockford,190.295,251828000,190,7,"Rockford, IL",Government Services,6
+43834,1954,835,Dirty Robber,dirty-robber,California,CA,Los Angeles,190.0796,3778942,2,12,Los Angeles,Media,1
+43835,1955,617,PinnacleART,pinnacleart,Texas,TX,Pasadena,190.0715,78265763,22,24,Houston,Engineering,1
+19722,1957,124,CollabraLink Technologies,collabralink-technologies,Virginia,VA,McLean,189.8634,19818584,3,8,"Washington, DC",IT Services,6
+23425,1960,579,Payoneer,payoneer,New York,NY,New York,189.5628,117021000,9,2,New York City,Financial Services,4
+21575,1967,215,Coast Professional,coast-professional,Louisiana,LA,West Monroe,188.8405,49611603,441,2,"Monroe, LA",Financial Services,5
+37646,1972,263,Global Technology Associates,global-technology-associates,Virginia,VA,Reston,188.4625,38210720,3,14,"Washington, DC",Telecommunications,2
+23194,1976,800,North American Dental Group,north-american-dental-group,Pennsylvania,PA,New Castle,188.2944,88044094,220,10,"New Castle, PA",Health,4
+21825,1978,250,Accelerated Claims,accelerated-claims,Georgia,GA,Kennesaw,187.7766,11297294,29,1,Atlanta,Insurance,5
+37735,1982,102,EXB Solutions,exb-solutions,Minnesota,MN,Minnetonka,187.4268,12309713,13,9,Minneapolis,Software,2
+21570,1988,525,Kareo,kareo,California,CA,Irvine,187.1233,55978262,2,9,Los Angeles,Software,5
+37939,1991,532,Curriculum Associates,curriculum-associates,Massachusetts,MA,North Billerica,187.0049,110691703,6,19,Boston,Education,2
+25153,2001,110,Marathon TS,marathon-ts,Virginia,VA,Kilmarnock,186.2669,10257323,998,7,,Government Services,3
+43852,2004,125,IntelliWare,intelliware,Virginia,VA,Fredericksburg,185.7313,18829880,3,7,"Washington, DC",Government Services,1
+22560,2005,392,BANYAN INVESTMENT GROUP,banyan-investment-group,Florida,FL,Miramar Beach,185.7267,50654464,1030,22,"Crestview-Fort Walton Beach-Destin, FL",Travel & Hospitality,5
+20853,2007,225,Aurico,aurico,Illinois,IL,Arlington Heights,185.3712,27723191,17,21,Chicago,Human Resources,6
+22019,2011,212,The Select Group,the-select-group,North Carolina,NC,Raleigh,185.1804,110556328,1029,21,"Raleigh, NC",Human Resources,10
+25357,2012,355,Centric Digital,centric-digital,New York,NY,New York,185.1277,40414000,9,17,New York City,Business Products & Services,3
+23109,2015,340,Blueline Security Services,blueline-security-services,Maryland,MD,Landover,184.8492,6588964,3,13,"Washington, DC",Security,4
+21421,2017,174,RoundTower Technologies,roundtower-technologies,Ohio,OH,Cincinnati,184.7049,140416261,47,8,Cincinnati,IT Services,5
+17834,2018,144,Renters Warehouse,renters-warehouse,Minnesota,MN,Bloomington,184.4144,15048965,13,3,Minneapolis,Real Estate,7
+1955,2020,363,SAFEbuilt,safebuilt,Colorado,CO,Loveland,184.2016,31775261,1009,7,"Fort Collins, CO",Government Services,6
+21345,2030,412,Cariloha,cariloha,Utah,UT,Sandy,183.6313,36480331,12,18,Salt Lake City,Retail,5
+5887,2031,274,Buchanan & Edwards,buchanan-edwards,Virginia,VA,Arlington,183.5423,78400172,3,8,"Washington, DC",IT Services,7
+37469,2032,300,Edge,edge,Utah,UT,Provo,183.4848,15704707,912,4,"Heber, UT",Consumer Products & Services,2
+22921,2038,426,Pangea Properties,pangea-properties,Illinois,IL,Chicago,183.0769,90528000,17,3,Chicago,Real Estate,4
+24850,2043,335,Caliber The Wealth Development Company,caliber-the-wealth-development-company,Arizona,AZ,Scottsdale,182.6822,43680032,46,3,Phoenix,Real Estate,3
+37755,2048,157,Skytap,skytap,Washington,WA,Seattle,182.1326,27334253,23,9,Seattle,Software,2
+25265,2050,128,Concurrency,concurrency,Wisconsin,WI,Brookfield,181.9518,18948488,27,8,"Milwaukee-Waukesha-West Allis, WI",IT Services,3
+25859,2051,174,Baldwin Risk Partners,baldwin-risk-partners,Florida,FL,Tampa,181.691,24412317,7,1,Tampa,Insurance,3
+37633,2054,383,Privilege Underwriters Reciprocal Exchange (PURE),privilege-underwriters-reciprocal-exchange-pure,New York,NY,White Plains,181.4971,490488574,9,1,New York City,Insurance,2
+37237,2055,131,Purple Land Management,purple-land-management,Texas,TX,Fort Worth,181.4432,37325000,8,16,Dallas,Energy,2
+23692,2058,114,Curant Health,curant-health,Georgia,GA,Smyrna,181.15,186161120,29,10,Atlanta,Health,4
+37652,2059,1598,FCR,fcr,Oregon,OR,Eugene,181.1253,48744642,1016,17,"Eugene, OR",Business Products & Services,2
+21636,2061,665,Advance Financial,advance-financial,Tennessee,TN,Nashville,180.7002,101345137,82,2,Nashville,Financial Services,5
+24479,2064,241,Salas O'Brien,salas-obrien,California,CA,San Jose,180.4895,42564660,20,24,San Jose,Engineering,4
+19976,2068,406,Dyn,dyn,New Hampshire,NH,Manchester,180.2677,77396833,24,8,"Manchester-Nashua, NH",IT Services,5
+18616,2073,525,Peak Health Solutions,peak-health-solutions,Tennessee,TN,Franklin,179.4951,27726066,82,10,Nashville,Health,5
+25258,2076,400,Imacuclean,imacuclean,New York,NY,New York,179.1919,7473311,9,17,New York City,Business Products & Services,3
+43873,2079,650,Sage IT,sage-it,Texas,TX,Frisco,179.0764,35445299,8,8,Dallas,IT Services,1
+25231,2092,174,Minute Key,minute-key,Colorado,CO,Boulder,177.3232,31080329,31,4,"Boulder, CO",Consumer Products & Services,3
+21840,2093,104,Dimagi,dimagi,Massachusetts,MA,Cambridge,177.3146,10554057,6,10,Boston,Health,5
+22873,2094,418,ApTask,aptask,New Jersey,NJ,Edison,177.1433,25664109,9,8,New York City,IT Services,4
+1841,2096,259,Bankers Healthcare Group,bankers-healthcare-group,Florida,FL,Davie,176.8101,143452514,1,2,Miami,Financial Services,10
+43884,2107,105,Concept Services,concept-services,Ohio,OH,Medina,175.9997,6763889,79,5,Cleveland,Advertising & Marketing,1
+21052,2108,106,Clarity Software Solutions,clarity-software-solutions,Connecticut,CT,Madison,175.982,63658000,70,1,"New Haven-Milford, CT",Insurance,5
+23390,2109,800,Episource,episource,California,CA,Gardena,175.9359,25940805,2,10,Los Angeles,Health,4
+37531,2118,185,Dumbo Moving + Storage,dumbo-moving-storage,New York,NY,Brooklyn,175.3852,11088451,9,6,New York City,Logistics & Transportation,2
+43888,2119,315,Right At School,right-at-school,Illinois,IL,Evanston,175.2868,6747906,17,19,Chicago,Education,1
+21653,2122,310,OGSystems,ogsystems,Virginia,VA,Chantilly,175.1564,74261823,3,7,"Washington, DC",Government Services,5
+22125,2126,167,DPM Fragrance,dpm-fragrance,Mississippi,MS,Starkville,174.855,27200018,627,15,"Columbus, MS",Manufacturing,5
+37885,2128,185,Veristat,veristat,Massachusetts,MA,Southborough,174.7573,28300000,6,10,Boston,Health,2
+43891,2134,125,Pharmedquest,pharmedquest,California,CA,Brea,174.3707,62172571,2,10,Los Angeles,Health,1
+21464,2136,114,ValidaTek,validatek,Virginia,VA,Arlington,173.895,18518062,3,8,"Washington, DC",IT Services,5
+25109,2139,620,VIVA Pediatrics,viva-pediatrics,Texas,TX,Richardson,173.5506,17987643,8,10,Dallas,Health,3
+36986,2142,391,Assurex Health,assurex-health,Ohio,OH,Mason,172.8613,54476256,47,10,Cincinnati,Health,2
+21768,2144,613,Alert Logic,alert-logic,Texas,TX,Houston,172.4429,81079000,22,9,Houston,Software,5
+43897,2147,150,Douglas Realty,douglas-realty,Maryland,MD,Pasadena,172.0812,3352092,35,3,Baltimore,Real Estate,1
+19359,2149,649,Rimini Street,rimini-street,Nevada,NV,Las Vegas,171.883,118818000,1004,8,"Las Vegas-Henderson-Paradise, NV",IT Services,6
+20111,2154,140,DealerOn,dealeron,Maryland,MD,Derwood,171.2822,16581158,3,5,"Washington, DC",Advertising & Marketing,6
+19897,2156,429,PM Pediatrics,pm-pediatrics,New York,NY,Lake Success,171.0147,38287843,9,10,New York City,Health,6
+21761,2165,9100,Freddy's Frozen Custard & Steakburgers,freddys-frozen-custard-steakburgers,Kansas,KS,Wichita,170.075,267077532,104,11,"Wichita, KS",Food & Beverage,5
+21998,2166,283,Ruby Receptionists,ruby-receptionists,Oregon,OR,Portland,169.9049,21215107,10,14,"Portland, OR",Telecommunications,5
+20404,2167,163,Orsini Healthcare,orsini-healthcare,Illinois,IL,Elk Grove Village,169.8324,232772935,17,10,Chicago,Health,6
+2680,2171,234,T2 Systems,t2-systems,Indiana,IN,Indianapolis,169.3663,67118000,81,9,"Indianapolis, IN",Software,8
+43909,2186,1262,Bay Equity Home Loans,bay-equity-home-loans,California,CA,Sausalito,168.4235,97513040,4,2,San Francisco,Financial Services,1
+23945,2195,160,lawn butler,lawn-butler,Utah,UT,CENTERVILLE,167.3069,6882926,204,20,"Ogden-Clearfield, UT",Construction,4
+922,2196,290,Sevatec,sevatec,Virginia,VA,Fairfax,167.1912,82373367,3,7,"Washington, DC",Government Services,7
+38117,2200,149,Broadvoice,broadvoice,California,CA,Northridge,166.6985,41779244,2,14,Los Angeles,Telecommunications,2
+23715,2202,108,Copper River IT,copper-river-it,Virginia,VA,Chantilly,166.6735,146178523,3,8,"Washington, DC",IT Services,4
+43912,2205,350,Houston Interests,houston-interests,Oklahoma,OK,Tulsa,166.3629,126513450,841,24,"Tulsa, OK",Engineering,1
+22784,2206,525,Isagenix,isagenix,Arizona,AZ,Gilbert,166.1081,889703000,46,10,Phoenix,Health,10
+43913,2209,111,Balsam Hill,balsam-hill,California,CA,Redwood City,166.0613,92294000,4,18,San Francisco,Retail,1
+22210,2211,141,Human Solutions,human-solutions,District of Columbia,DC,Washington,165.7286,43802009,3,17,"Washington, DC",Business Products & Services,5
+25562,2216,478,The Reagor Dykes Auto Group,the-reagor-dykes-auto-group,Texas,TX,Lubbock,165.0913,483320383,886,18,"Lubbock, TX",Retail,3
+24989,2223,187,Mid-Atlantic ProTel,mid-atlantic-protel,West Virginia,WV,Martinsburg,164.6336,29360625,26,18,"Hagerstown-Martinsburg, MD-WV",Retail,3
+24970,2227,198,Bizfi,bizfi,New York,NY,New York,164.3743,79886000,9,2,New York City,Financial Services,3
+24461,2228,1827,NorthStar Anesthesia,northstar-anesthesia,Texas,TX,Irving,164.3167,343214872,8,10,Dallas,Health,3
+1215,2229,1579,Universal Plant Services,universal-plant-services,Texas,TX,Deer Park,164.2147,328637000,22,16,Houston,Energy,5
+17771,2230,350,Chameleon Integrated Services,chameleon-integrated-services,Missouri,MO,St Louis,163.536,21862499,74,8,"St. Louis, MO-IL",IT Services,3
+23515,2236,979,Eating Recovery Center,eating-recovery-center,Colorado,CO,Denver,162.819,115410631,30,10,Denver,Health,4
+43918,2238,153,Wonderbox Technologies,wonderbox-technologies,Wisconsin,WI,Mequon,162.3846,19055398,27,9,"Milwaukee-Waukesha-West Allis, WI",Software,1
+23047,2240,460,OpenX,openx,California,CA,Pasadena,162.288,141240500,2,5,Los Angeles,Advertising & Marketing,3
+19278,2243,7000,Smashburger,smashburger,Colorado,CO,Denver,161.9996,194669116,30,11,Denver,Food & Beverage,6
+25920,2249,131,Strive Physical Therapy,strive-physical-therapy,New Jersey,NJ,Mt. Laurel,161.8249,10483120,49,10,Philadelphia,Health,2
+43924,2255,198,ITRenew,itrenew,California,CA,Newark,160.9495,72274104,4,8,San Francisco,IT Services,1
+43925,2256,179,United Software Group,united-software-group,Ohio,OH,Dublin,160.9026,42316117,19,8,"Columbus, OH",IT Services,1
+1773,2258,1196,Conservice,conservice,Utah,UT,Logan,160.728,107538188,186,16,"Logan, UT-ID",Energy,9
+18579,2262,170,Kobie Marketing,kobie-marketing,Florida,FL,St. Petersburg,160.6142,45040581,7,5,Tampa,Advertising & Marketing,7
+21499,2266,251,LeafFilter North,leaffilter-north,Ohio,OH,Hudson,160.2564,87905784,34,20,"Akron, OH",Construction,5
+21639,2267,1165,Chetu,chetu,Florida,FL,Plantation,160.2291,31505576,1,9,Miami,Software,5
+21504,2268,260,MediRevv,medirevv,Iowa,IA,Coralville,160.1108,20335124,189,10,"Iowa City, IA",Health,5
+25912,2271,100,Cervello,cervello,Massachusetts,MA,Boston,159.61,19917264,6,8,Boston,IT Services,3
+19533,2272,110,The Bowen Consulting Group,the-bowen-consulting-group,Virginia,VA,Stafford,159.5647,13633863,3,7,"Washington, DC",Government Services,6
+43929,2273,210,RAM Hotels,ram-hotels,Georgia,GA,Columbus,159.5544,13437307,429,22,"Columbus, GA-AL",Travel & Hospitality,1
+3308,2277,226,Lyons Consulting Group,lyons-consulting-group,Illinois,IL,Chicago,159.2144,39989000,17,17,Chicago,Business Products & Services,7
+19844,2279,106,Consultants 2 Go,consultants-2-go,New Jersey,NJ,Newark,159.0256,11474739,9,17,New York City,Business Products & Services,5
+602,2281,3281,C2 Education,c2-education,Georgia,GA,Duluth,159.0137,58394513,29,19,Atlanta,Education,5
+21359,2283,1952,New American Funding,new-american-funding,California,CA,Tustin,158.89,378640767,2,2,Los Angeles,Financial Services,4
+2658,2284,125,SADA Systems,sada-systems,California,CA,North Hollywood,158.8266,47345944,2,8,Los Angeles,IT Services,9
+20004,2287,1055,Russell Cellular,russell-cellular,Missouri,MO,Battlefield,158.5293,225016763,102,18,"Springfield, MO",Retail,6
+17852,2288,691,EPIC Insurance Brokers and Consultants,epic-insurance-brokers-and-consultants,California,CA,San Francisco,158.4609,173578579,4,1,San Francisco,Insurance,3
+37654,2291,1498,Itransition,itransition,Texas,TX,Austin,158.3144,18039094,18,9,Austin,Software,2
+23148,2295,103,24Hr HomeCare,24hr-homecare,California,CA,El Segundo,158.0259,48147936,2,10,Los Angeles,Health,4
+43937,2296,1230,Athene Holding,athene-holding,Iowa,IA,West Des Moines,158.0138,2624000000,161,1,"Des Moines-West Des Moines, IA",Insurance,1
+3738,2297,620,Plasticard Locktech International,plasticard-locktech-international,North Carolina,NC,Asheville,158.0048,93093719,299,15,"Asheville, NC",Manufacturing,7
+20997,2299,463,OBXtek,obxtek,Virginia,VA,Vienna,157.8776,76374569,3,7,"Washington, DC",Government Services,5
+17421,2300,205,Kinnser Software,kinnser-software,Texas,TX,Austin,157.8481,45762614,18,10,Austin,Health,6
+24437,2301,200,Team Services,team-services,New Jersey,NJ,Sussex,157.8173,10084766,9,17,New York City,Business Products & Services,3
+25250,2302,105,Oslo Solutions,oslo-solutions,Washington,WA,Issaquah,157.8046,13123490,23,8,Seattle,IT Services,3
+43939,2303,149,The Harvey Tool Company,the-harvey-tool-company,Massachusetts,MA,Rowley,157.746,62232748,6,15,Boston,Manufacturing,1
+25127,2305,200,Standav,standav,Texas,TX,Dallas,157.5204,17939554,8,9,Dallas,Software,3
+20333,2310,628,New Horizon Security Services,new-horizon-security-services,Virginia,VA,Manassas,157.173,21770036,3,13,"Washington, DC",Security,6
+26009,2313,515,Your Castle Real Estate,your-castle-real-estate,Colorado,CO,Denver,156.8821,31107157,30,3,Denver,Real Estate,3
+43943,2317,120,Rush Order Tees,rush-order-tees,Pennsylvania,PA,Philadephia,156.5475,22895112,49,4,Philadelphia,Consumer Products & Services,1
+21408,2318,250,Symons Ambulance,symons-ambulance,California,CA,San Bernardino,156.3108,9894972,54,10,"Riverside-San Bernardino-Ontario, CA",Health,5
+22632,2319,225,KB BUILDING SERVICES,kb-building-services,Nebraska,NE,OMAHA,156.3022,10795115,97,17,"Omaha-Council Bluffs, NE-IA",Business Products & Services,5
+37796,2320,533,Romanoff Renovations,romanoff-renovations,Georgia,GA,Smyrna,156.2236,99722257,29,20,Atlanta,Construction,2
+23561,2324,600,Ob Hospitalist Group,ob-hospitalist-group,South Carolina,SC,Mauldin,155.9943,130730043,1000,10,"Greenville-Anderson-Mauldin, SC",Health,4
+2449,2327,170,Verndale,verndale,Massachusetts,MA,Boston,155.9525,22879449,6,5,Boston,Advertising & Marketing,10
+17676,2328,175,Climate Pros,climate-pros,Illinois,IL,Glendale Heights,155.9283,35053782,17,20,Chicago,Construction,7
+25632,2330,128,H&F Bread Company,hf-bread-company,Georgia,GA,Atlanta,155.8695,6377490,29,11,Atlanta,Food & Beverage,3
+37934,2331,208,Metro Systems,metro-systems,Virginia,VA,Alexandria,155.7511,21634424,3,21,"Washington, DC",Human Resources,2
+43946,2332,200,Ed Support Services,ed-support-services,California,CA,Oakland,155.7198,7583792,4,10,San Francisco,Health,1
+25519,2333,200,Integrity Services,integrity-services,Massachusetts,MA,Stoneham,155.6866,11182298,6,17,Boston,Business Products & Services,3
+6959,2335,305,bpa international,bpa-international,New York,NY,garden city,155.4449,14015398,9,14,New York City,Telecommunications,8
+8327,2340,161,Vitals,vitals,New Jersey,NJ,Lyndhurst,155.2095,24932080,9,10,New York City,Health,7
+43949,2341,112,ProcessMaker,processmaker,Florida,FL,Delray Beach,155.1962,5489434,1,9,Miami,Software,1
+25938,2347,480,Little Sunshine's Playhouse,little-sunshines-playhouse,Missouri,MO,Springfield,154.883,12557236,102,19,"Springfield, MO",Education,2
+25601,2365,342,Murgado Automotive Group,murgado-automotive-group,Florida,FL,Miami,153.1659,360697207,1,18,Miami,Retail,3
+22307,2369,227,Weifield Group Contracting,weifield-group-contracting,Colorado,CO,Denver,152.9666,46253723,30,20,Denver,Construction,3
+1344,2372,501,22nd Century Technologies,22nd-century-technologies,New Jersey,NJ,Somerset,152.7174,59350952,9,7,New York City,Government Services,8
+18145,2384,179,Manufacturing Technical Solutions,manufacturing-technical-solutions,Alabama,AL,Huntsville,151.9519,40877173,69,7,"Huntsville, AL",Government Services,7
+37565,2388,147,DriveShop,driveshop,Washington,WA,Redmond,151.7036,33691761,23,5,Seattle,Advertising & Marketing,2
+18788,2392,270,United Data Technologies,united-data-technologies,Florida,FL,Doral,151.3418,214800599,1,8,Miami,IT Services,7
+17275,2395,157,QuoteWizard,quotewizard,Washington,WA,Seattle,151.1267,73884000,23,1,Seattle,Insurance,7
+26399,2396,5500,MS Companies,ms-companies,Indiana,IN,Indianapolis,151.1152,87788759,81,17,"Indianapolis, IN",Business Products & Services,3
+25760,2401,220,rateGenius,rategenius,Texas,TX,Austin,150.5775,42079696,18,2,Austin,Financial Services,2
+24524,2404,122,Records Solutions,records-solutions,Texas,TX,Dallas,150.221,10562287,8,17,Dallas,Business Products & Services,2
+19535,2407,110,Dream Finders Homes,dream-finders-homes,Florida,FL,Orange Park,150.0331,139684414,64,3,"Jacksonville, FL",Real Estate,6
+23056,2409,385,Whitacre logisitcs,whitacre-logisitcs,Ohio,OH,Portage,149.9309,49804061,300,6,"Toledo, OH",Logistics & Transportation,4
+24709,2413,268,Rural Sourcing,rural-sourcing,Georgia,GA,Atlanta,149.2606,22391767,29,8,Atlanta,IT Services,3
+17672,2415,175,Certent,certent,California,CA,Pleasanton,149.1923,25522672,4,2,San Francisco,Financial Services,5
+1429,2417,378,Transportation Insight,transportation-insight,North Carolina,NC,Hickory,149.1533,1183942665,191,6,"Hickory-Lenoir-Morganton, NC",Logistics & Transportation,9
+26580,2420,250,ResMac,resmac,Florida,FL,Boca Raton,149.0441,24737000,1,2,Miami,Financial Services,2
+43967,2421,320,Windhaven Insurance,windhaven-insurance,Florida,FL,Doral,148.9502,268184849,1,1,Miami,Insurance,1
+37916,2422,180,BioBridges,biobridges,Massachusetts,MA,WELLESLEY,148.6638,31226940,6,17,Boston,Business Products & Services,2
+17538,2423,118,Mainstreet,mainstreet,Indiana,IN,Carmel,148.6012,178989759,81,3,"Indianapolis, IN",Real Estate,6
+20937,2425,216,Kriser's Natural Pet,krisers-natural-pet,California,CA,Santa Monica,148.4638,24475712,2,18,Los Angeles,Retail,6
+19825,2431,337,Kavaliro,kavaliro,Florida,FL,Orlando,147.7586,41733512,68,21,"Orlando, FL",Human Resources,6
+43972,2438,167,TaleMed,talemed,Ohio,OH,Loveland,147.1306,15899031,47,10,Cincinnati,Health,1
+43974,2440,600,Quality Floorshine,quality-floorshine,New York,NY,Brooklyn,147.0087,10759754,9,23,New York City,Environmental Services,1
+37669,2441,122,The SpyGlass Group,the-spyglass-group,Ohio,OH,Westlake,147.0012,14126000,79,14,Cleveland,Telecommunications,2
+43977,2445,310,SafeSplash Swim Schools,safesplash-swim-schools,Colorado,CO,Lone Tree,146.5733,8275000,30,19,Denver,Education,1
+21162,2447,175,Chrome River Technologies,chrome-river-technologies,California,CA,Los Angeles,146.2603,21866824,2,9,Los Angeles,Software,5
+2213,2452,660,Digital Insurance,digital-insurance,Georgia,GA,Atlanta,145.9211,116451000,29,1,Atlanta,Insurance,10
+18025,2457,130,Citytwist,citytwist,Florida,FL,Boca Raton,145.5508,13191473,1,5,Miami,Advertising & Marketing,6
+2173,2459,398,OpTech,optech,Michigan,MI,Troy,145.4202,49212756,50,8,Detroit,IT Services,8
+17862,2468,107,Nexcess.Net,nexcessnet,Michigan,MI,Southfield,144.7877,20097664,50,14,Detroit,Telecommunications,7
+423,2476,18000,PeopleShare,peopleshare,Pennsylvania,PA,Pottstown,144.1915,105857679,112,21,"Reading, PA",Human Resources,8
+22437,2477,560,Coherent Solutions,coherent-solutions,Minnesota,MN,Minneapolis,144.0588,25325985,13,8,Minneapolis,IT Services,5
+43982,2479,150,GW Communications,gw-communications,Texas,TX,Coppell,143.9964,25383928,8,14,Dallas,Telecommunications,1
+21204,2482,200,Evolve IP,evolve-ip,Pennsylvania,PA,Wayne,143.968,58638073,49,8,Philadelphia,IT Services,4
+24667,2483,195,GSF Mortgage,gsf-mortgage,Wisconsin,WI,Brookfield,143.9347,17137837,27,2,"Milwaukee-Waukesha-West Allis, WI",Financial Services,2
+25557,2484,128,STONE Resource Group,stone-resource-group,Georgia,GA,Roswell,143.7958,13075500,29,8,Atlanta,IT Services,3
+43984,2485,199,Car Keys Express,car-keys-express,Kentucky,KY,Louisville,143.7382,28948575,630,17,"Louisville/Jefferson County, KY-IN",Business Products & Services,1
+20592,2488,102,Dixon Schwabl,dixon-schwabl,New York,NY,Victor,143.5102,71315744,71,5,"Rochester, NY",Advertising & Marketing,3
+37903,2489,701,PT Solutions Physical Therapy,pt-solutions-physical-therapy,Georgia,GA,Kennesaw,143.5004,44811706,29,10,Atlanta,Health,2
+43988,2498,196,Care N Assist,care-n-assist,Michigan,MI,Corunna,142.629,2607454,306,10,"Owosso, MI",Health,1
+20061,2499,102,QI-Solutions,qi-solutions,California,CA,OXNARD,142.6132,10175761,67,7,"Oxnard-Thousand Oaks-Ventura, CA",Government Services,4
+22838,2500,600,Partner Engineering and Science,partner-engineering-science,California,CA,Torrance,142.5925,97005018,2,23,Los Angeles,Environmental Services,3
+17450,2502,244,Knight Point Systems,knight-point-systems,Virginia,VA,Reston,142.519,106060550,3,8,"Washington, DC",IT Services,6
+24445,2508,192,Emerald Isle Landscaping,emerald-isle-landscaping,Colorado,CO,Denver,141.8355,11886705,30,20,Denver,Construction,4
+19798,2520,101,ArdentMC,ardentmc,Virginia,VA,Reston,140.9634,23250523,3,8,"Washington, DC",IT Services,3
+26301,2527,343,Door To Door Organics,door-to-door-organics,Colorado,CO,Louisville,140.6979,41005761,31,11,"Boulder, CO",Food & Beverage,3
+37595,2528,127,High Country Search Group,high-country-search-group,Colorado,CO,Denver,140.6617,10582827,30,17,Denver,Business Products & Services,2
+22469,2535,125,Zifty.com,ziftycom,Georgia,GA,Atlanta,140.1706,10058873,29,11,Atlanta,Food & Beverage,5
+25447,2538,162,Avani Technology Solutions,avani-technology-solutions,New York,NY,Rochester,140.0143,17247411,71,8,"Rochester, NY",IT Services,3
+991,2541,108,INNOVIM,innovim,Maryland,MD,Greenbelt,139.6025,17894000,3,7,"Washington, DC",Government Services,9
+891,2545,300,Packsize International,packsize-international,Utah,UT,Salt Lake City,139.1453,170088681,12,15,Salt Lake City,Manufacturing,7
+11421,2549,395,The Vertex Companies,the-vertex-companies,Massachusetts,MA,Weymouth,138.848,79069902,6,20,Boston,Construction,7
+37491,2550,207,Unosquare,unosquare,Oregon,OR,Lake Oswego,138.8064,9676236,10,8,"Portland, OR",IT Services,2
+26600,2565,6500,Effex Management Solutions,effex-management-solutions,Texas,TX,Kingwood,138.1829,143720110,22,21,Houston,Human Resources,3
+44015,2566,534,Travinia Italian Kitchen Holdings,travinia-italian-kitchen-holdings,South Carolina,SC,Greenville,137.9815,21016787,1000,11,"Greenville-Anderson-Mauldin, SC",Food & Beverage,1
+2482,2567,835,Big Ass Fans,big-ass-fans,Kentucky,KY,LEXINGTON,137.9534,206710098,132,15,"Lexington-Fayette, KY",Manufacturing,10
+4136,2569,135,@properties,@properties,Illinois,IL,Chicago,137.7199,200173072,17,3,Chicago,Real Estate,10
+44016,2571,364,IMPAQ International,impaq-international,Maryland,MD,Columbia,137.3164,58429538,35,7,Baltimore,Government Services,1
+23448,2572,819,HCTec Partners,hctec-partners,Tennessee,TN,Franklin,137.2974,114481572,82,10,Nashville,Health,3
+19267,2580,332,European Wax Center,european-wax-center,Florida,FL,Aventura,136.8759,83257363,1,4,Miami,Consumer Products & Services,4
+2207,2582,209,Cornerstone Detention Products,cornerstone-detention-products,Alabama,AL,Madison,136.639,55585731,69,20,"Huntsville, AL",Construction,4
+2821,2585,184,G&A Partners,ga-partners,Texas,TX,Houston,136.4918,1271630675,22,21,Houston,Human Resources,12
+44023,2591,169,ADVANCED CARE PEDIATRICS,advanced-care-pediatrics,Georgia,GA,Atlanta,136.1534,3701943,29,10,Atlanta,Health,1
+37678,2597,141,Netsync Network Solutions,netsync-network-solutions,Texas,TX,Houston,135.8345,206945327,22,8,Houston,IT Services,2
+662,2602,305,YapStone,yapstone,California,CA,Walnut Creek,135.6974,160493427,4,2,San Francisco,Financial Services,9
+26533,2605,40000,AtWork Group,atwork-group,Tennessee,TN,Knoxville,135.5429,257354490,99,21,"Knoxville, TN",Human Resources,3
+5363,2608,110,Fetch! Pet Care,fetch-pet-care,Ohio,OH,Dayton,135.3076,2074707,39,17,"Dayton, OH",Business Products & Services,2
+21531,2610,160,Bridge Partners,bridge-partners,Washington,WA,Seattle,135.1717,31207792,23,17,Seattle,Business Products & Services,5
+18427,2612,350,GetWellNetwork,getwellnetwork,Maryland,MD,Bethesda,134.9966,68385202,3,10,"Washington, DC",Health,5
+18324,2620,884,Trinity Solar,trinity-solar,New Jersey,NJ,Wall,134.624,167979716,9,16,New York City,Energy,4
+19352,2627,280,Star2Star Communications,star2star-communications,Florida,FL,Sarasota,134.0151,52684206,1031,14,"North Port-Sarasota-Bradenton, FL",Telecommunications,6
+22436,2631,140,Commuter Air Technology,commuter-air-technology,Oklahoma,OK,Oklahoma City,133.8339,61981948,38,17,"Oklahoma City, OK",Business Products & Services,5
+22322,2632,102,ARGI Financial Group,argi-financial-group,Kentucky,KY,Louisville,133.8029,16396985,630,2,"Louisville/Jefferson County, KY-IN",Financial Services,8
+1146,2634,1276,Consumer Cellular,consumer-cellular,Oregon,OR,Portland,133.7187,614984000,10,14,"Portland, OR",Telecommunications,8
+965,2636,536,iCIMS,icims,New Jersey,NJ,Matawan,133.5558,87232460,9,9,New York City,Software,11
+37313,2638,170,corp2corp,corp2corp,New Jersey,NJ,Jersey city,133.551,12013419,9,8,New York City,IT Services,2
+44035,2641,243,NuAxis Innovations,nuaxis-innovations,Virginia,VA,Vienna,133.3635,24548204,3,7,"Washington, DC",Government Services,1
+18103,2642,1608,DataArt,dataart,New York,NY,New York,133.3452,71540463,9,9,New York City,Software,7
+44036,2643,2000,Spectraforce,spectraforce,North Carolina,NC,Raleigh,133.3078,82394232,1029,21,"Raleigh, NC",Human Resources,1
+37330,2647,100,TekStream Solutions,tekstream-solutions,Georgia,GA,Atlanta,133.1612,15799000,29,8,Atlanta,IT Services,2
+20995,2650,650,Accolade,accolade,Pennsylvania,PA,Plymouth Meeting,132.9353,74707000,49,10,Philadelphia,Health,3
+24880,2656,267,Llamasoft,llamasoft,Michigan,MI,Ann Arbor,132.4189,37617000,84,6,"Ann Arbor, MI",Logistics & Transportation,3
+7915,2660,354,DLC,dlc,California,CA,Woodland Hills,132.0231,68679615,2,2,Los Angeles,Financial Services,3
+21387,2665,121,etouches,etouches,Connecticut,CT,Norwalk,131.7957,13019353,58,9,"Bridgeport-Stamford-Norwalk, CT",Software,5
+37893,2666,285,Limelight Catering,limelight-catering,Illinois,IL,Chicago,131.7247,10923695,17,11,Chicago,Food & Beverage,2
+6982,2671,535,Janus International Group,janus-international-group,Georgia,GA,Temple,131.2036,214028481,29,15,Atlanta,Manufacturing,3
+24208,2672,181,Alphaserve Technologies,alphaserve-technologies,New York,NY,New York,131.1421,37935707,9,8,New York City,IT Services,4
+22894,2675,308,DataXu,dataxu,Massachusetts,MA,Boston,131.1022,200569227,6,5,Boston,Advertising & Marketing,4
+1350,2676,215,Parts Town,parts-town,Illinois,IL,Addison,131.101,143694000,17,11,Chicago,Food & Beverage,8
+25895,2681,461,ProPharma Group,propharma-group,Kansas,KS,Overland Park,130.8286,59744981,21,10,"Kansas City, MO-KS",Health,3
+19546,2682,625,Butterfly Effects,butterfly-effects,Florida,FL,Deerfield Beach,130.7952,16668048,1,10,Miami,Health,6
+37706,2688,105,Seer Interactive,seer-interactive,Pennsylvania,PA,Philadelphia,130.5335,12154213,49,5,Philadelphia,Advertising & Marketing,2
+25040,2693,775,TEC Group,tec-group,Michigan,MI,Troy,130.3831,74618873,50,21,Detroit,Human Resources,3
+44051,2706,102,ROBLOX,roblox,California,CA,San Mateo,129.6571,53225262,4,4,San Francisco,Consumer Products & Services,1
+24919,2707,1004,Peak Campus,peak-campus,Georgia,GA,Atlanta,129.6331,15311926,29,3,Atlanta,Real Estate,3
+44053,2709,165,CodeForce 360,codeforce-360,Georgia,GA,Alpharetta,129.5955,19747226,29,8,Atlanta,IT Services,1
+25305,2711,299,Talking Rain Beverage Company,talking-rain-beverage-company,Washington,WA,Preston,129.5481,341482742,23,11,Seattle,Food & Beverage,3
+22883,2714,300,Jonathan's Grille,jonathans-grille,Tennessee,TN,Franklin,129.3448,14083700,82,11,Nashville,Food & Beverage,4
+37743,2715,102,ARServices,arservices,Virginia,VA,Alexandria,129.3124,10623405,3,7,"Washington, DC",Government Services,2
+37387,2716,136,Staff Matters,staff-matters,Arizona,AZ,Tucson,129.2992,7201131,154,21,"Tucson, AZ",Human Resources,2
+25544,2722,128,Sev1Tech,sev1tech,Virginia,VA,Woodbridge,129.0605,27948493,3,8,"Washington, DC",IT Services,3
+25338,2723,111,Chantel Ray Real Estate,chantel-ray-real-estate,Virginia,VA,Virginia Beach,129.0394,3433168,15,3,"Virginia Beach-Norfolk-Newport News, VA-NC",Real Estate,3
+26000,2727,185,e-Builder,e-builder,Florida,FL,Plantation,128.6218,34955953,1,9,Miami,Software,3
+20371,2730,157,projekt202,projekt202,Texas,TX,Addison,128.3161,28570363,8,9,Dallas,Software,6
+44060,2732,142,CR architecture + design,cr-architecture-design,Ohio,OH,Cincinnati,128.2482,29097081,47,20,Cincinnati,Construction,1
+22096,2733,100,Creative Environment Solutions,creative-environment-solutions,New York,NY,New York,128.2339,13339863,9,23,New York City,Environmental Services,5
+23810,2734,140,AppNeta,appneta,Massachusetts,MA,Boston,128.1802,14582538,6,17,Boston,Business Products & Services,4
+17714,2737,150,Community Impact Newspaper,community-impact-newspaper,Texas,TX,Pflugerville,128.1323,22092784,18,12,Austin,Media,7
+22377,2738,829,Linium,linium,New York,NY,New York,127.9758,102430347,9,17,New York City,Business Products & Services,5
+21094,2739,112,Abbyson Living,abbyson-living,California,CA,Calabasas,127.9569,67879408,2,4,Los Angeles,Consumer Products & Services,7
+2157,2740,124,Nutiva,nutiva,California,CA,Richmond,127.8286,100524658,4,11,San Francisco,Food & Beverage,8
+21510,2741,1336,Supreme Lending,supreme-lending,Texas,TX,Dallas,127.7479,306498012,8,2,Dallas,Financial Services,5
+22504,2753,2217,Orion Associates,orion-associates,Minnesota,MN,Golden Valley,127.2019,112361817,13,21,Minneapolis,Human Resources,4
+37799,2754,142,Proven Business Systems,proven-business-systems,Illinois,IL,Tinley Park,127.1283,33926467,17,17,Chicago,Business Products & Services,2
+24233,2757,152,The Boardroom Salon for Men,the-boardroom-salon-for-men,Texas,TX,Southlake,126.9292,6812647,8,4,Dallas,Consumer Products & Services,3
+11725,2759,103,Intellinet,intellinet,Georgia,GA,Atlanta,126.6782,25079514,29,8,Atlanta,IT Services,5
+1328,2767,123,Groupware Technology,groupware-technology,California,CA,Campbell,126.5188,321961237,20,25,San Jose,Computer Hardware,9
+23265,2769,145,Scepter Technologies,scepter-technologies,Maryland,MD,Owings Mills,126.3561,17028526,35,8,Baltimore,IT Services,4
+24031,2772,102,ESO Solutions,eso-solutions,Texas,TX,Austin,126.2556,10254274,18,9,Austin,Software,4
+26088,2774,361,Inspirage,inspirage,Washington,WA,Bellevue,126.0753,56801791,23,17,Seattle,Business Products & Services,3
+37250,2775,600,IntuitiveHRO,intuitivehro,Arizona,AZ,Tempe,126.0167,18962942,46,21,Phoenix,Human Resources,2
+44073,2780,1782,Virtual Properties Realty,virtual-properties-realty,Georgia,GA,Duluth,125.6554,3971580,29,3,Atlanta,Real Estate,1
+20933,2783,225,Stella & Chewy's,stella-chewys,Wisconsin,WI,Oak Creek,125.5862,38907341,27,4,"Milwaukee-Waukesha-West Allis, WI",Consumer Products & Services,6
+44077,2785,150,BHC RHODES,bhc-rhodes,Kansas,KS,Overland Park,125.5012,20693195,21,24,"Kansas City, MO-KS",Engineering,1
+37664,2788,118,Distinctive Kitchens & Baths,distinctive-kitchens-baths,Florida,FL,Boca Raton,125.2809,56663001,1,4,Miami,Consumer Products & Services,2
+21439,2789,153,ENVE Composites,enve-composites,Utah,UT,Ogden,125.2127,28335930,204,15,"Ogden-Clearfield, UT",Manufacturing,5
+3725,2792,2000,CyraCom,cyracom,Arizona,AZ,Tucson,125.1274,109634535,154,17,"Tucson, AZ",Business Products & Services,10
+4946,2801,465,SmartIT,smartit,Indiana,IN,Indianapolis,124.6759,47927684,81,8,"Indianapolis, IN",IT Services,5
+37739,2802,427,Sims-Lohman,sims-lohman,Ohio,OH,Cincinnati,124.684,109204265,47,20,Cincinnati,Construction,2
+17294,2806,100,Clinical Resources,clinical-resources,Georgia,GA,Atlanta,124.5003,15752600,29,10,Atlanta,Health,7
+44082,2810,120,THMED,thmed,Texas,TX,Dallas,124.1717,28944202,8,17,Dallas,Business Products & Services,1
+44084,2812,267,Impiger Technologies,impiger-technologies,Texas,TX,Richardson,123.9982,5039039,8,9,Dallas,Software,1
+44085,2815,980,Wilson-Bennett Technology,wilson-bennett-technology,Arkansas,AR,Cabot,123.8729,4835982,122,17,"Little Rock-North Little Rock-Conway, AR",Business Products & Services,1
+854,2819,2000,Monogram Foods,monogram-foods,Tennessee,TN,Memphis,123.7465,442122010,105,11,"Memphis, TN-MS-AR",Food & Beverage,8
+23575,2820,100,MEDICAL GUARDIAN,medical-guardian,Pennsylvania,PA,Philadelphia,123.7271,12416565,49,10,Philadelphia,Health,4
+21685,2821,224,Ingenious Med,ingenious-med,Georgia,GA,Atlanta,123.6122,25514891,29,10,Atlanta,Health,4
+21167,2826,143,RainKing Software,rainking-software,Maryland,MD,Bethesda,123.0303,27009657,3,8,"Washington, DC",IT Services,4
+23391,2830,120,Fingerpaint,fingerpaint,New York,NY,Saratoga Springs,122.9382,21268065,146,5,"Albany-Schenectady-Troy, NY",Advertising & Marketing,4
+44091,2831,1941,Comprehensive Logisitcs Co.,comprehensive-logisitcs-co,Ohio,OH,Youngstown,122.8793,175706165,168,6,"Youngstown-Warren-Boardman, OH-PA",Logistics & Transportation,1
+38249,2833,144,Clubessential,clubessential,Ohio,OH,Cincinnati,122.872,14384024,47,8,Cincinnati,IT Services,2
+18097,2835,846,Keller Williams Capital Properties,keller-williams-capital-properties,District of Columbia,DC,Washington,122.8121,52755997,3,3,"Washington, DC",Real Estate,7
+8906,2836,174,Atrium Staffing,atrium-staffing,New York,NY,New York,122.793,216000000,9,21,New York City,Human Resources,7
+19238,2843,152,JMA Solutions,jma-solutions,District of Columbia,DC,Washington,122.4482,32809311,3,7,"Washington, DC",Government Services,5
+21494,2849,510,Intone Networks,intone-networks,New Jersey,NJ,Iselin,122.1326,39197646,9,8,New York City,IT Services,5
+37926,2852,192,Alchemy Systems,alchemy-systems,Texas,TX,Austin,121.9511,33751896,18,11,Austin,Food & Beverage,2
+21925,2853,170,Made Ya Smile Dental,made-ya-smile-dental,Texas,TX,Sugar Land,121.952,20380466,22,10,Houston,Health,5
+26428,2860,125,Liberty Automotive Protection,liberty-automotive-protection,New Jersey,NJ,Ocean,121.4112,80828684,9,1,New York City,Insurance,3
+5806,2862,137,ZoomInfo,zoominfo,Massachusetts,MA,Waltham,121.3409,27494319,6,5,Boston,Advertising & Marketing,4
+44101,2865,155,DeAngelis Diamond Construction | Healthcare Group,deangelis-diamond-construction-|-healthcare-group,Florida,FL,Naples,121.1463,225979254,1044,20,"Naples-Immokalee-Marco Island, FL",Construction,1
+1050,2870,321,InMoment,inmoment,Utah,UT,Salt Lake City,120.8362,47990012,12,9,Salt Lake City,Software,9
+19253,2871,106,Black Mountain Systems,black-mountain-systems,California,CA,San Diego,120.8131,27084850,11,9,San Diego,Software,6
+1325,2874,122,LabConnect,labconnect,Washington,WA,Seattle,120.4709,21798633,23,10,Seattle,Health,9
+24104,2876,101,RTM Engineering Consultants,rtm-engineering-consultants,Illinois,IL,South Barrington,120.3092,10811144,17,24,Chicago,Engineering,4
+44103,2877,145,Roofing By Curry,roofing-by-curry,Florida,FL,Sarasota,120.1902,16904000,1031,20,"North Port-Sarasota-Bradenton, FL",Construction,1
+23272,2879,233,TechShop,techshop,California,CA,San Jose,120.0382,13959562,20,15,San Jose,Manufacturing,4
+26447,2887,103,Corporate Computer Solutions,corporate-computer-solutions,Florida,FL,Tampa,119.6429,8615903,7,8,Tampa,IT Services,3
+44106,2890,234,Finicity,finicity,Utah,UT,Murray,119.4618,5778876,12,2,Salt Lake City,Financial Services,1
+37252,2892,135,Divensi,divensi,Washington,WA,Bellevue,119.3799,9618798,23,8,Seattle,IT Services,2
+8181,2893,15390,Peoplelink,peoplelink,Indiana,IN,south bend,119.3756,318215500,142,21,"South Bend-Mishawaka, IN-MI",Human Resources,6
+20220,2894,1502,ProTransport-1,protransport-1,California,CA,Cotati,119.3546,82420835,1025,10,"Santa Rosa, CA",Health,6
+1887,2895,957,Elwood Staffing,elwood-staffing,Indiana,IN,Columbus,119.3549,804291000,223,21,"Columbus, IN",Human Resources,8
+21036,2896,134,Pinnacle Solutions,pinnacle-solutions,Alabama,AL,Huntsville,119.2892,22047015,69,7,"Huntsville, AL",Government Services,4
+25805,2897,124,Vista Applied Solutions Group,vista-applied-solutions-group,Virginia,VA,Herndon,119.2491,12289350,3,8,"Washington, DC",IT Services,3
+17768,2900,1600,Power Home Remodeling,power-home-remodeling,Pennsylvania,PA,Chester,119.1514,366959291,49,20,Philadelphia,Construction,7
+37771,2902,228,Digital Consulting & Software Services,digital-consulting-software-services,Texas,TX,Sugar Land,118.9214,40968619,22,17,Houston,Business Products & Services,2
+24079,2908,242,Lollicup USA,lollicup-usa,California,CA,Chino,118.1919,100193275,54,17,"Riverside-San Bernardino-Ontario, CA",Business Products & Services,4
+37640,2912,154,Legacy Air,legacy-air,Arizona,AZ,Phoenix,117.9685,24316075,46,17,Phoenix,Business Products & Services,2
+44110,2915,128,Softjourn,softjourn,California,CA,Fremont,117.8429,2265753,4,8,San Francisco,IT Services,1
+44112,2919,580,FBC Mortgage,fbc-mortgage,Florida,FL,Orlando,117.6513,106985858,68,2,"Orlando, FL",Financial Services,1
+44113,2922,150,Total Care Connections,total-care-connections,Arizona,AZ,Tucson,117.5984,2436277,154,10,"Tucson, AZ",Health,1
+25244,2923,6000,The Greene Group,the-greene-group,North Carolina,NC,Davidson,117.5958,49917724,43,21,Charlotte,Human Resources,3
+44115,2926,5000,Studio Movie Grill,studio-movie-grill,Texas,TX,Dallas,117.4501,161361000,8,11,Dallas,Food & Beverage,1
+3852,2928,4244,DTI,dti,Georgia,GA,Atlanta,117.2885,407006847,29,17,Atlanta,Business Products & Services,9
+24260,2929,100,Kidd Roofing,kidd-roofing,Texas,TX,Austin,117.2767,25505000,18,20,Austin,Construction,3
+21853,2937,829,ADVANCED DISCOVERY,advanced-discovery,Texas,TX,AUSTIN,117.0686,71645662,18,17,Austin,Business Products & Services,5
+3202,2941,132,NMR Consulting,nmr-consulting,Virginia,VA,Chantilly,116.8386,25412129,3,8,"Washington, DC",IT Services,7
+44121,2942,1920,JobFinders Employment Services,jobfinders-employment-services,Missouri,MO,Columbia,116.6985,9139538,62,21,"Columbia, MO",Human Resources,1
+23820,2943,2775,Cooper's Hawk Winery & Restaurants,coopers-hawk-winery-restaurants,Illinois,IL,Countryside,116.6293,147856000,17,11,Chicago,Food & Beverage,4
+44122,2944,750,Namecheap,namecheap,California,CA,Los Angeles,116.5402,76024946,2,8,Los Angeles,IT Services,1
+44123,2945,385,InterLinc Mortgage Services,interlinc-mortgage-services,Texas,TX,Houston,116.4673,52132822,22,2,Houston,Financial Services,1
+44124,2948,595,Accela,accela,California,CA,San Ramon,116.1584,120852000,4,7,San Francisco,Government Services,1
+38151,2950,1200,Moon Valley Nurseries,moon-valley-nurseries,Arizona,AZ,Phoenix,116.1275,96868307,46,20,Phoenix,Construction,2
+44127,2952,175,Synergixx,synergixx,New Jersey,NJ,Sewell,116.1018,13790675,49,5,Philadelphia,Advertising & Marketing,1
+24454,2957,133,Wood Gutmann & Bogart Insurance Brokers,wood-gutmann-bogart-insurance-brokers,California,CA,Tustin,116.0032,27166016,2,1,Los Angeles,Insurance,4
+21133,2963,5000,FCi Federal,fci-federal,Virginia,VA,Ashburn,115.6214,152792445,3,7,"Washington, DC",Government Services,5
+36779,2965,160,Healthcare IT Leaders,healthcare-it-leaders,Georgia,GA,Alpharetta,115.5817,33466445,29,10,Atlanta,Health,2
+37601,2967,560,Upward Projects,upward-projects,Arizona,AZ,Phoenix,115.5217,28036955,46,11,Phoenix,Food & Beverage,2
+18577,2969,1250,O2 Fitness,o2-fitness,North Carolina,NC,Raleigh,115.4434,28720213,1029,10,"Raleigh, NC",Health,7
+25724,2970,186,Global Facility Management & construction,global-facility-management-construction,New York,NY,Melville,115.386,85347687,9,20,New York City,Construction,3
+44133,2973,257,AEM,aem,Virginia,VA,Herndon,115.1178,68088689,3,9,"Washington, DC",Software,1
+37950,2975,165,JP Fuji Group,jp-fuji-group,Massachusetts,MA,Quincy,115.0652,11061075,6,11,Boston,Food & Beverage,2
+805,2979,1203,Hargrove Engineers + Constructors,hargrove-engineers-constructors,Alabama,AL,Mobile,114.9007,176729373,136,24,"Mobile, AL",Engineering,9
+6184,2983,496,HGA,hga,Louisiana,LA,Ruston,114.8289,120187419,441,24,"Monroe, LA",Engineering,5
+103,2988,275,Technatomy,technatomy,Virginia,VA,Fairfax,114.5756,87174816,3,7,"Washington, DC",Government Services,8
+44137,2992,114,ProSource Consulting,prosource-consulting,Virginia,VA,Gainesville,114.4241,23250379,3,7,"Washington, DC",Government Services,1
+396,2995,111,Engineering & Computer Simulations,engineering-computer-simulations,Florida,FL,Orlando,114.3793,13918452,68,7,"Orlando, FL",Government Services,4
+21246,2996,200,Netwrix,netwrix,California,CA,Irvine,114.3627,13452074,2,9,Los Angeles,Software,5
+38005,2997,130,Energy Fitness,energy-fitness,New York,NY,St. James,114.3332,3680552,9,10,New York City,Health,2
+23538,2998,271,StrategicHealthSolutions,strategichealthsolutions,Nebraska,NE,Omaha,114.2476,41530530,97,7,"Omaha-Council Bluffs, NE-IA",Government Services,4
+23817,3002,183,TekSolv,teksolv,Delaware,DE,Newark,114.104,18196135,49,17,Philadelphia,Business Products & Services,4
+22014,3003,289,nfrastructure,nfrastructure,New York,NY,Clifton Park,114.0306,113771341,146,8,"Albany-Schenectady-Troy, NY",IT Services,5
+44141,3010,373,iPlace USA,iplace-usa,Virginia,VA,McLean,113.6302,5127188,3,21,"Washington, DC",Human Resources,1
+44142,3013,1250,LDV Hospitality Management,ldv-hospitality-management,New York,NY,New York,113.5565,65793056,9,11,New York City,Food & Beverage,1
+3074,3015,411,w3r Consulting,w3r-consulting,Michigan,MI,Southfield,113.4576,56990800,50,8,Detroit,IT Services,10
+3795,3018,259,Americollect,americollect,Wisconsin,WI,Manitowoc,113.3539,17526747,998,17,,Business Products & Services,8
+22394,3023,3936,Prime Therapeutics,prime-therapeutics,Minnesota,MN,Eagan,113.2428,4355582000,13,10,Minneapolis,Health,5
+23026,3024,200,Titan Protection and Consulting,titan-protection-and-consulting,Kansas,KS,Overland Park,113.2316,5203556,21,13,"Kansas City, MO-KS",Security,4
+9734,3025,4718,DriveTIme,drivetime,Arizona,AZ,Tempe,113.0903,2607298000,46,4,Phoenix,Consumer Products & Services,3
+24226,3029,363,Park Place Technologies,park-place-technologies,Ohio,OH,Mayfield Heights,112.8863,87601072,79,8,Cleveland,IT Services,4
+21004,3038,358,Inspira Marketing,inspira-marketing,Connecticut,CT,Norwalk,112.5497,37002293,58,5,"Bridgeport-Stamford-Norwalk, CT",Advertising & Marketing,4
+37745,3039,357,Nintex,nintex,Washington,WA,Bellevue,112.5319,75922681,23,9,Seattle,Software,2
+25036,3047,122,Xcelerate Solutions,xcelerate-solutions,Virginia,VA,McLean,112.0027,27703994,3,7,"Washington, DC",Government Services,3
+2701,3048,413,Avella Specialty Pharmacy,avella-specialty-pharmacy,Arizona,AZ,Phoenix,111.9185,1046821162,46,10,Phoenix,Health,10
+23763,3049,459,Empyrean Benefit Solutions,empyrean-benefit-solutions,Texas,TX,Houston,111.8267,54023710,22,21,Houston,Human Resources,4
+9398,3055,101,Planit,planit,Maryland,MD,Baltimore,111.7314,22147842,35,5,Baltimore,Advertising & Marketing,5
+811,3063,432,Horizontal Integration,horizontal-integration,Minnesota,MN,Minnetonka,111.1775,65388166,13,8,Minneapolis,IT Services,8
+5676,3069,202,Power Pro-Tech Services,power-pro-tech-services,Florida,FL,Altamonte Springs,110.8316,32764858,68,16,"Orlando, FL",Energy,6
+25010,3070,850,DataBank IMX,databank-imx,Pennsylvania,PA,King of Prussia,110.8075,99254343,49,8,Philadelphia,IT Services,3
+38308,3074,200,Industrial Lighting Products,industrial-lighting-products,Florida,FL,Sanford,110.5217,43775345,68,15,"Orlando, FL",Manufacturing,2
+18707,3077,372,Hissho Sushi,hissho-sushi,North Carolina,NC,Charlotte,110.4528,99752860,43,11,Charlotte,Food & Beverage,6
+24120,3080,566,Discovery Benefits,discovery-benefits,North Dakota,ND,Fargo,110.32,50331411,118,10,"Fargo, ND-MN",Health,4
+22973,3083,573,Dashed,dashed,Massachusetts,MA,Boston,110.1731,8707476,6,11,Boston,Food & Beverage,4
+44150,3084,100,Mahomed Sales and Warehousing,mahomed-sales-and-warehousing,Indiana,IN,Indianapolis,110.1046,115036625,81,6,"Indianapolis, IN",Logistics & Transportation,1
+1616,3085,1120,Stone Brewing Co.,stone-brewing-co,California,CA,Escondido,110.0639,217106344,11,11,San Diego,Food & Beverage,12
+8797,3091,450,Landscape Development,landscape-development,California,CA,Valencia,109.9775,45261196,2,20,Los Angeles,Construction,2
+2564,3097,338,Raining Rose,raining-rose,Iowa,IA,Cedar Rapids,109.8275,38032845,174,15,"Cedar Rapids, IA",Manufacturing,8
+24012,3098,544,United Capital,united-capital,California,CA,Newport Beach,109.629,139139226,2,2,Los Angeles,Financial Services,4
+37892,3100,239,Aeroflow Healthcare,aeroflow-healthcare,North Carolina,NC,Asheville,109.5888,51006923,299,10,"Asheville, NC",Health,2
+44155,3102,148,Macro Solutions,macro-solutions,District of Columbia,DC,Washington,109.5307,28246477,3,7,"Washington, DC",Government Services,1
+21601,3104,135,Avionte,avionte,Minnesota,MN,Eagan,109.508,13608147,13,21,Minneapolis,Human Resources,5
+25790,3105,2137,SRS Distribution,srs-distribution,Texas,TX,McKinney,109.5146,1411018720,8,4,Dallas,Consumer Products & Services,3
+21634,3106,206,JD Mellberg Financial,jd-mellberg-financial,Arizona,AZ,Tucson,109.4872,30090501,154,2,"Tucson, AZ",Financial Services,6
+20980,3109,426,HighTower Advisors,hightower-advisors,Illinois,IL,Chicago,109.2725,166274144,17,2,Chicago,Financial Services,5
+37900,3110,258,The Execu|Search Group,the-execu|search-group,New York,NY,New York,109.1868,129857973,9,21,New York City,Human Resources,2
+11743,3111,142,Advanced Systems Design,advanced-systems-design,Florida,FL,Tallahassee,109.145,21974052,362,7,"Tallahassee, FL",Government Services,8
+4092,3116,100,Arora Engineers,arora-engineers,Pennsylvania,PA,Chadds Ford,108.7663,16935750,49,24,Philadelphia,Engineering,8
+38029,3117,128,Opus Agency,opus-agency,Oregon,OR,Beaverton,108.7675,47042526,10,17,"Portland, OR",Business Products & Services,2
+25307,3120,697,Atlanta Communities Real Estate Brokerage,atlanta-communities-real-estate-brokerage,Georgia,GA,Marietta,108.5671,37230046,29,3,Atlanta,Real Estate,3
+37325,3122,1021,American Financial Network,american-financial-network,California,CA,Brea,108.5158,142640446,2,2,Los Angeles,Financial Services,2
+18479,3123,178,NeoSystems,neosystems,Virginia,VA,Tysons Corner,108.4701,40602838,3,2,"Washington, DC",Financial Services,7
+44156,3124,1875,Student Painters,student-painters,Michigan,MI,Shelby Twp,108.388,7304000,50,4,Detroit,Consumer Products & Services,1
+23592,3126,100,Saanvi Technologies,saanvi-technologies,Michigan,MI,Farmington,108.3264,5004000,50,8,Detroit,IT Services,4
+2672,3127,123,Lifescript,lifescript,California,CA,Newport Beach,108.3095,74931000,2,5,Los Angeles,Advertising & Marketing,10
+22751,3131,197,Pillar Technology,pillar-technology,Ohio,OH,Columbus,108.1438,28970822,19,8,"Columbus, OH",IT Services,4
+24130,3137,142,Rodda Electric,rodda-electric,California,CA,Brentwood,107.8463,17867997,4,16,San Francisco,Energy,4
+38225,3141,120,Ski Butlers,ski-butlers,Utah,UT,park city,107.7114,4647151,1022,22,"Summit Park, UT",Travel & Hospitality,2
+37471,3142,580,ObjectFrontier Software,objectfrontier-software,Georgia,GA,Alpharetta,107.6931,17274450,29,9,Atlanta,Software,2
+10951,3144,130,Virtium,virtium,California,CA,Rancho Santa Margari,107.5292,51309080,2,25,Los Angeles,Computer Hardware,6
+44162,3145,155,Carroll & Jameson,carroll-jameson,Ohio,OH,Dundee,107.521,23971984,388,15,"New Philadelphia-Dover, OH",Manufacturing,1
+44163,3152,111,Professional Services Network,professional-services-network,Maryland,MD,Silver Spring,107.0969,5498086,3,10,"Washington, DC",Health,1
+37626,3155,150,G.S. Gelato & Desserts,gs-gelato-desserts,Florida,FL,Fort Walton Beach,106.9518,9161428,1030,15,"Crestview-Fort Walton Beach-Destin, FL",Manufacturing,2
+37988,3157,954,hire priority,hire-priority,Texas,TX,Austin,106.9154,4132399,18,21,Austin,Human Resources,2
+22118,3161,200,SmartWorks,smartworks,New Jersey,NJ,Edison,106.4592,17877326,9,8,New York City,IT Services,3
+25059,3162,100,ExamSoft Worldwide,examsoft-worldwide,Texas,TX,Dallas,106.4396,15589000,8,19,Dallas,Education,3
+21491,3163,188,Credence Management Solutions,credence-management-solutions,Virginia,VA,Vienna,106.4263,32406487,3,7,"Washington, DC",Government Services,5
+24051,3168,864,ACCESS Destination Services,access-destination-services,California,CA,San Diego,106.2624,92651653,11,22,San Diego,Travel & Hospitality,4
+18210,3174,185,InfoStretch,infostretch,California,CA,Santa Clara,106.1351,37216104,20,9,San Jose,Software,7
+932,3175,138,InterWorks,interworks,Oklahoma,OK,Stillwater,106.0818,32733839,153,8,"Stillwater, OK",IT Services,9
+25468,3181,120,Peloton,peloton,Massachusetts,MA,Boston,105.7535,25121397,6,17,Boston,Business Products & Services,3
+25996,3182,167,Think Through Learning,think-through-learning,Pennsylvania,PA,Pittsburgh,105.7279,19491959,52,19,"Pittsburgh, PA",Education,3
+44173,3184,354,SafeGuard World International,safeguard-world-international,Texas,TX,Austin,105.6969,39465000,18,17,Austin,Business Products & Services,1
+12595,3188,1550,Compunnel Software Group,compunnel-software-group,New Jersey,NJ,Plainsboro,105.4659,108815365,9,8,New York City,IT Services,6
+1301,3193,330,Billtrust,billtrust,New Jersey,NJ,Hamilton,105.159,91604365,1012,2,"Trenton, NJ",Financial Services,10
+37692,3196,380,The Onin Group,the-onin-group,Alabama,AL,Birmingham,104.9474,284346211,140,21,"Birmingham-Hoover, AL",Human Resources,2
+802,3198,425,Vology,vology,Florida,FL,Oldsmar,104.8606,168084000,7,25,Tampa,Computer Hardware,11
+21944,3200,132,Primitives by Kathy,primitives-by-kathy,Pennsylvania,PA,Lancaster,104.7514,56624000,305,4,"Lancaster, PA",Consumer Products & Services,3
+21245,3202,1738,DMI,dmi,Maryland,MD,Bethesda,104.7266,332547087,3,8,"Washington, DC",IT Services,10
+57,3207,2454,ReSource Pro,resource-pro,New York,NY,NEW YORK,104.3185,49597079,9,1,New York City,Insurance,8
+22219,3209,1300,Apple Bus Company,apple-bus-company,Missouri,MO,Cleveland,104.3072,44158958,21,6,"Kansas City, MO-KS",Logistics & Transportation,4
+22174,3215,165,The American Eagle Mortgage Co.,the-american-eagle-mortgage-co,Ohio,OH,Lorain,104.1997,31773231,79,3,Cleveland,Real Estate,5
+20099,3217,104,SaveAround,savearound,New York,NY,Binghamton,104.072,14368460,238,5,"Binghamton, NY",Advertising & Marketing,4
+37865,3219,161,UR Holdings,ur-holdings,Texas,TX,Carrollton,103.8758,96483581,8,20,Dallas,Construction,2
+37922,3220,137,Endurance,endurance,Illinois,IL,Northbrook,103.8687,127950422,17,1,Chicago,Insurance,2
+37946,3224,231,Avenue Code,avenue-code,California,CA,San Francisco,103.8231,22104268,4,8,San Francisco,IT Services,2
+44182,3225,350,Tarantino & Company,tarantino-company,Wisconsin,WI,Waukesha,103.8234,10051161,27,10,"Milwaukee-Waukesha-West Allis, WI",Health,1
+37689,3229,164,Gibson International,gibson-international,California,CA,Los Angeles,103.5318,20498546,2,3,Los Angeles,Real Estate,2
+44183,3230,150,ASL Services,asl-services,Florida,FL,Kissimmee,103.5037,8774198,68,4,"Orlando, FL",Consumer Products & Services,1
+21963,3231,141,Velir,velir,Massachusetts,MA,SOMERVILLE,103.4479,21322700,6,8,Boston,IT Services,5
+22493,3234,238,Meathead Movers,meathead-movers,California,CA,San Luis Obispo,103.2644,11754735,1017,6,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",Logistics & Transportation,5
+22867,3236,1663,Software Paradigms International Group,software-paradigms-international-group,Georgia,GA,Atlanta,103.2414,83586835,29,8,Atlanta,IT Services,8
+44185,3240,310,RAPID,rapid,New Hampshire,NH,Nashua,103.0821,37516228,24,15,"Manchester-Nashua, NH",Manufacturing,1
+20397,3241,190,Gorilla Group,gorilla-group,Illinois,IL,Chicago,103.0317,22234000,17,9,Chicago,Software,6
+37406,3248,130,Credible Behavioral Health,credible-behavioral-health,Maryland,MD,Rockville,102.7404,22671443,3,9,"Washington, DC",Software,2
+6655,3249,151,SBS Group,sbs-group,New Jersey,NJ,Edison,102.6976,40426000,9,8,New York City,IT Services,5
+26273,3258,189,Solomon Group,solomon-group,Louisiana,LA,New Orleans,102.4912,20864204,1010,12,"New Orleans-Metairie, LA",Media,3
+4027,3261,1000,Arrow Security,arrow-security,New York,NY,Smithtown,102.3252,27897592,9,13,New York City,Security,4
+38199,3263,410,Cumming,cumming,California,CA,Los Angeles,102.29,102692006,2,20,Los Angeles,Construction,2
+25648,3264,131,Link-Systems International,link-systems-international,Florida,FL,tampa,102.2733,9710478,7,19,Tampa,Education,3
+19500,3266,112,TISTA Science and Technology,tista-science-and-technology,Maryland,MD,Rockville,102.1772,32375697,3,7,"Washington, DC",Government Services,6
+17830,3268,331,BuildASign.com,buildasigncom,Texas,TX,Austin,102.1058,85521108,18,4,Austin,Consumer Products & Services,7
+22463,3270,161,Proliant,proliant,Georgia,GA,Atlanta,101.9958,23288382,29,21,Atlanta,Human Resources,5
+265,3272,520,Carahsoft Technology,carahsoft-technology,Virginia,VA,Reston,101.9653,2867984439,3,7,"Washington, DC",Government Services,9
+4458,3277,225,Comprehensive Energy Services,comprehensive-energy-services,Florida,FL,Longwood,101.7141,36126415,68,20,"Orlando, FL",Construction,3
+24557,3278,454,Capital Title of Texas,capital-title-of-texas,Texas,TX,Plano,101.396,60540292,8,3,Dallas,Real Estate,4
+21003,3280,100,Honey-Can-Do International,honey-can-do-international,Illinois,IL,Berkeley,101.3508,61708827,17,4,Chicago,Consumer Products & Services,5
+22589,3281,253,Hamilton Lane Advisors,hamilton-lane-advisors,Pennsylvania,PA,Bala Cynwyd,101.281,222050490,49,2,Philadelphia,Financial Services,2
+21540,3284,164,Markon Solutions,markon-solutions,Virginia,VA,Falls Church,101.1628,34212061,3,7,"Washington, DC",Government Services,5
+19612,3287,187,DigiCert,digicert,Utah,UT,Lehi,101.0309,72787993,48,13,"Provo-Orem, UT",Security,6
+25807,3288,658,First Guaranty Mortgage,first-guaranty-mortgage,Virginia,VA,Tysons Corner,100.9331,99876284,3,2,"Washington, DC",Financial Services,3
+44194,3290,103,Staff Zone,staff-zone,Georgia,GA,Alpharetta,100.771,55595591,29,21,Atlanta,Human Resources,1
+424,3297,133,Bulk TV & Internet,bulk-tv-internet,North Carolina,NC,Raleigh,100.4458,70386848,1029,17,"Raleigh, NC",Business Products & Services,5
+21909,3298,532,Datavail,datavail,Colorado,CO,Broomfield,100.426,32553578,30,8,Denver,IT Services,5
+145,3299,156,Remote Medical International,remote-medical-international,Washington,WA,Seattle,100.3655,13659628,23,10,Seattle,Health,6
+682,3301,358,ERP Analysts,erp-analysts,Ohio,OH,Dublin,100.2927,61002967,19,8,"Columbus, OH",IT Services,8
+2968,3304,200,Lightwell,lightwell,Ohio,OH,dublin,100.0673,37118928,19,8,"Columbus, OH",IT Services,7
+23944,3305,190,Senior1Care,senior1care,Indiana,IN,South Bend,99.9606,5075000,142,10,"South Bend-Mishawaka, IN-MI",Health,4
+22836,3307,587,"Hiller Plumbing, Heating, Cooling & Electrical",hiller-plumbing-heating-cooling-electrical,Tennessee,TN,Nashville,99.8715,90237433,82,20,Nashville,Construction,11
+756,3311,200,Sales Partnerships,sales-partnerships,Colorado,CO,Broomfield,99.6438,8399558,30,17,Denver,Business Products & Services,5
+44201,3313,175,Zylun,zylun,Utah,UT,Lehi,99.5196,2902689,48,21,"Provo-Orem, UT",Human Resources,1
+11262,3314,346,Softworld,softworld,Massachusetts,MA,Waltham,99.4013,52216517,6,8,Boston,IT Services,3
+2520,3320,150,Environmental Management Specialists,environmental-management-specialists,Ohio,OH,Middleburg Heights,99.2875,33451165,79,23,Cleveland,Environmental Services,6
+44204,3322,106,Strategic Factory,strategic-factory,Maryland,MD,Owings Mills,99.2773,12866816,35,5,Baltimore,Advertising & Marketing,1
+5645,3324,125,bluemedia,bluemedia,Arizona,AZ,Tempe,99.255,18666680,46,5,Phoenix,Advertising & Marketing,8
+26407,3331,125,Johnson Security Bureau,johnson-security-bureau,New York,NY,Bronx,98.9849,4244392,9,13,New York City,Security,3
+25067,3333,200,EGen Solutions,egen-solutions,Illinois,IL,Naperville,98.8975,16840753,17,8,Chicago,IT Services,3
+787,3334,15316,Insight Global,insight-global,Georgia,GA,Atlanta,98.8232,1483826894,29,8,Atlanta,IT Services,9
+20270,3347,141,Sterling Computers,sterling-computers,South Dakota,SD,Dakota Dunes,98.4502,329468777,709,7,"Sioux City, IA-NE-SD",Government Services,5
+4807,3356,117,International Software Systems,international-software-systems,Maryland,MD,Greenbelt,97.9281,17122740,3,8,"Washington, DC",IT Services,6
+22092,3357,5500,Home Care Assistance,home-care-assistance,California,CA,Palo Alto,97.9217,124071604,20,10,San Jose,Health,5
+44216,3358,152,S-One Holdings,s-one-holdings,Florida,FL,Sarasota,97.9091,143335168,1031,17,"North Port-Sarasota-Bradenton, FL",Business Products & Services,1
+25110,3370,693,GENEWIZ,genewiz,New Jersey,NJ,South Plainfield,97.5824,65709485,9,10,New York City,Health,3
+3153,3372,609,V-Soft Consulting Group,v-soft-consulting-group,Kentucky,KY,Louisville,97.313,71878349,630,8,"Louisville/Jefferson County, KY-IN",IT Services,10
+4316,3373,65531,Integrity Staffing Solutions,integrity-staffing-solutions,Delaware,DE,Newark,97.2691,549086411,49,21,Philadelphia,Human Resources,12
+44221,3375,1512,Optiv Security,optiv-security,Colorado,CO,Denver,97.0888,1882429001,30,13,Denver,Security,1
+4547,3380,535,Pacific Market International/PMI,pacific-market-internationalpmi,Washington,WA,Seattle,96.866,202333000,23,20,Seattle,Construction,7
+21541,3387,238,ALCOVA Mortgage,alcova-mortgage,Virginia,VA,Roanoke,96.4477,29055796,207,2,"Roanoke, VA",Financial Services,5
+1987,3391,118,The FruitGuys,the-fruitguys,California,CA,"South San Francisco,",96.3784,26421209,4,11,San Francisco,Food & Beverage,9
+44226,3396,700,Acuative,acuative,New Jersey,NJ,Fairfield,96.191,120194701,9,8,New York City,IT Services,1
+20389,3399,128,Gorilla Logic,gorilla-logic,Colorado,CO,Boulder,96.1154,20536371,31,9,"Boulder, CO",Software,3
+23672,3400,142,Percona,percona,North Carolina,NC,Raleigh,96.0892,17850000,1029,9,"Raleigh, NC",Software,4
+44228,3402,600,Aubree's Pizzeria & Grill,aubrees-pizzeria-grill,Michigan,MI,Ann Arbor,95.941,16818600,84,11,"Ann Arbor, MI",Food & Beverage,1
+44229,3403,1100,Tri-City Electric Company of Iowa,tri-city-electric-company-of-iowa,Iowa,IA,Davenport,95.9436,155227906,37,20,"Davenport-Moline-Rock Island, IA-IL",Construction,1
+44230,3405,1300,Kneaders Bakery and Cafe,kneaders-bakery-and-cafe,Utah,UT,Orem,95.8595,77736653,48,11,"Provo-Orem, UT",Food & Beverage,1
+23476,3408,240,Saturn Infotech,saturn-infotech,Pennsylvania,PA,North Wales,95.7791,18150200,49,8,Philadelphia,IT Services,4
+21720,3411,117,Cornerstone RPO,cornerstone-rpo,Virginia,VA,Richmond,95.5753,12337006,40,21,"Richmond, VA",Human Resources,3
+420,3412,102,BIAS,bias,Georgia,GA,Atlanta,95.5198,74174664,29,8,Atlanta,IT Services,7
+22576,3418,129,Ready Wireless,ready-wireless,Iowa,IA,Hiawatha,95.1924,49249000,174,14,"Cedar Rapids, IA",Telecommunications,5
+44236,3420,123,The Color Run,the-color-run,Utah,UT,Salt Lake Ciy,95.1145,49762000,12,10,Salt Lake City,Health,1
+25429,3424,126,Sriven Technologies,sriven-technologies,Virginia,VA,HERNDON,94.833,5081226,3,8,"Washington, DC",IT Services,3
+23981,3428,224,Oxagile,oxagile,New York,NY,New York,94.7106,6813431,9,8,New York City,IT Services,4
+44238,3432,127,SCST,scst,California,CA,San Diego,94.5242,21213920,11,24,San Diego,Engineering,1
+2588,3434,420,Drillinginfo,drillinginfo,Texas,TX,Austin,94.5004,97081000,18,16,Austin,Energy,9
+44239,3437,170,B-Reel,b-reel,New York,NY,New York,94.2441,62236598,9,5,New York City,Advertising & Marketing,1
+21827,3440,800,Fractal Analytics,fractal-analytics,California,CA,San Mateo,94.1838,33191438,4,17,San Francisco,Business Products & Services,5
+20339,3444,358,enVista,envista,Indiana,IN,Carmel,93.9534,61352850,81,6,"Indianapolis, IN",Logistics & Transportation,6
+6802,3448,586,ARCO Construction Company,arco-construction-company,Missouri,MO,Saint Louis,93.8234,773765432,74,20,"St. Louis, MO-IL",Construction,3
+4936,3452,9334,Prestige Employee Administrators,prestige-employee-administrators,New York,NY,Melville,93.7034,891228173,9,21,New York City,Human Resources,7
+26317,3454,202,LaunchPoint,launchpoint,Illinois,IL,Itasca,93.4613,16950199,17,10,Chicago,Health,3
+44241,3457,295,Illegal Pete's,illegal-petes,Colorado,CO,Denver,93.2367,16849932,30,11,Denver,Food & Beverage,1
+24707,3460,190,Mondo,mondo,New York,NY,New York,93.1552,74587372,9,8,New York City,IT Services,3
+2598,3462,310,XIFIN,xifin,California,CA,San Diego,93.04,56414000,11,9,San Diego,Software,10
+18463,3463,110,eSolutions,esolutions,Kansas,KS,Overland Park,93.0013,26350700,21,8,"Kansas City, MO-KS",IT Services,6
+23907,3467,108,Atomic Data,atomic-data,Minnesota,MN,Minneapolis,92.5204,20164268,13,8,Minneapolis,IT Services,3
+44243,3468,350,Lee Industrial Contracting,lee-industrial-contracting,Michigan,MI,Pontiac,92.3985,95530184,50,15,Detroit,Manufacturing,1
+20124,3477,215,SEPI Engineering & Construction,sepi-engineering-construction,North Carolina,NC,Raleigh,91.942,23587000,1029,24,"Raleigh, NC",Engineering,5
+13517,3478,184,Zak Designs,zak-designs,Washington,WA,Airway Heights,91.9276,95601959,1026,15,"Spokane-Spokane Valley, WA",Manufacturing,2
+4052,3479,131,Kerusso,kerusso,Arkansas,AR,Berryville,91.7584,20664979,998,4,,Consumer Products & Services,6
+44247,3484,407,Decisive Communications,decisive-communications,Maryland,MD,Ijamsville,91.482,58582000,3,14,"Washington, DC",Telecommunications,1
+44248,3488,792,Charter Global,charter-global,Georgia,GA,Atlanta,91.2883,33468087,29,8,Atlanta,IT Services,1
+20084,3490,460,Costa Vida,costa-vida,Utah,UT,Lehi,91.0423,22501506,48,11,"Provo-Orem, UT",Food & Beverage,5
+1088,3492,123,Customer Value Partners,customer-value-partners,Virginia,VA,Fairfax,90.9894,29021835,3,17,"Washington, DC",Business Products & Services,6
+23154,3493,146,Strongbridge,strongbridge,Virginia,VA,Sterling,90.9505,19342678,3,7,"Washington, DC",Government Services,4
+26525,3495,134,Productive Edge,productive-edge,Illinois,IL,Chicago,90.832,16784246,17,4,Chicago,Consumer Products & Services,3
+2670,3496,115,GTN Technical Staffing,gtn-technical-staffing,Texas,TX,Dallas,90.7206,33008552,8,21,Dallas,Human Resources,7
+21536,3503,749,Zenetex,zenetex,Virginia,VA,Herndon,90.3322,84303262,3,7,"Washington, DC",Government Services,5
+37866,3504,120,Q1 Technologies,q1-technologies,Illinois,IL,Aurora,90.3216,10500000,17,8,Chicago,IT Services,2
+17892,3505,112,Clickstop,clickstop,Iowa,IA,Urbana,90.2844,28370063,174,18,"Cedar Rapids, IA",Retail,7
+21732,3508,373,Homecare Homebase,homecare-homebase,Texas,TX,Dallas,90.0846,108066013,8,10,Dallas,Health,5
+44252,3511,224,Nelson,nelson,California,CA,Sonoma,89.9929,232899000,1025,21,"Santa Rosa, CA",Human Resources,1
+44253,3515,736,Citywide Home Loans,citywide-home-loans,Utah,UT,Sandy,89.7737,97387475,12,3,Salt Lake City,Real Estate,1
+2780,3519,338,Cobb Pediatric Therapy Services,cobb-pediatric-therapy-services,Georgia,GA,Kennesaw,89.7442,19137301,29,10,Atlanta,Health,9
+22872,3521,477,ZeOmega,zeomega,Texas,TX,Plano,89.695,32259131,8,8,Dallas,IT Services,4
+20720,3526,182,Creative Sign Designs,creative-sign-designs,Florida,FL,Tampa,89.5637,21158399,7,15,Tampa,Manufacturing,6
+3899,3527,158,ClickAway,clickaway,California,CA,Campbell,89.5525,35377689,20,17,San Jose,Business Products & Services,9
+1832,3532,450,iPipeline,ipipeline,Pennsylvania,PA,Exton,89.4289,91144586,49,9,Philadelphia,Software,8
+26058,3535,240,King Retail Solutions,king-retail-solutions,Oregon,OR,Eugene,89.2955,27961326,1016,3,"Eugene, OR",Real Estate,3
+37792,3537,100,Broadway National,broadway-national,New York,NY,Ronkonkoma,89.2467,35195548,9,17,New York City,Business Products & Services,2
+26279,3538,160,QuarterLine,quarterline,Virginia,VA,Herndon,89.2316,17308911,3,10,"Washington, DC",Health,3
+44257,3539,301,The Wireless Experience,the-wireless-experience,New Jersey,NJ,Toms River,89.2143,67610467,9,18,New York City,Retail,1
+23519,3541,118,TG Manufacturing,tg-manufacturing,Michigan,MI,Dorr,89.1558,14506583,219,15,"Grand Rapids-Wyoming, MI",Manufacturing,4
+20986,3542,185,BlueGrace Logistics,bluegrace-logistics,Florida,FL,Riverview,89.1605,168208379,7,6,Tampa,Logistics & Transportation,4
+37869,3543,200,Picore International,picore-international,California,CA,Calabasas,89.1245,7582000,2,13,Los Angeles,Security,2
+24848,3544,166,Asurint,asurint,Ohio,OH,Cleveland,89.1229,22862412,79,17,Cleveland,Business Products & Services,3
+1990,3550,175,Wpromote,wpromote,California,CA,El Segundo,89.0326,19225615,2,5,Los Angeles,Advertising & Marketing,8
+17475,3554,117,Harkcon,harkcon,Virginia,VA,Fredericksburg,88.8241,16201215,3,7,"Washington, DC",Government Services,7
+21708,3555,240,ClearBridge Technology Group,clearbridge-technology-group,Massachusetts,MA,Billerica,88.7476,31876470,6,8,Boston,IT Services,5
+17875,3558,353,PeopleTec,peopletec,Alabama,AL,Huntsville,88.6664,63035267,69,7,"Huntsville, AL",Government Services,7
+44265,3559,906,Power Design,power-design,Florida,FL,St. Petersburg,88.6521,266058936,7,20,Tampa,Construction,1
+38184,3564,112,Paris Presents,paris-presents,Illinois,IL,Gurnee,88.3985,160849000,17,4,Chicago,Consumer Products & Services,2
+19950,3565,105,Global Language Solutions,global-language-solutions,California,CA,Irvine,88.4034,19835370,2,17,Los Angeles,Business Products & Services,4
+18698,3567,400,Blount Fine Foods,blount-fine-foods,Massachusetts,MA,Fall River,88.3535,234373129,1015,11,"Providence-Warwick, RI-MA",Food & Beverage,4
+37730,3570,283,Prospance,prospance,California,CA,Fremont,88.0092,45242295,4,8,San Francisco,IT Services,2
+44267,3572,146,Exit Strategy Realty,exit-strategy-realty,Illinois,IL,Chicago,87.9724,4384572,17,3,Chicago,Real Estate,1
+26155,3574,120,Net2Source,net2source,New Jersey,NJ,Jersey City,87.8155,21452754,9,8,New York City,IT Services,3
+25346,3577,360,Aquilent,aquilent,Maryland,MD,Laurel,87.6421,106884434,3,7,"Washington, DC",Government Services,3
+3390,3578,290,CaseStack,casestack,California,CA,Santa Monica,87.6133,166353000,2,6,Los Angeles,Logistics & Transportation,9
+3724,3582,115,ImagineSoftware,imaginesoftware,North Carolina,NC,Charlotte,87.467,16522261,43,9,Charlotte,Software,6
+24807,3583,1111,Express Locations,express-locations,Washington,WA,Wenatchee,87.4611,94955628,970,18,"Wenatchee, WA",Retail,3
+3033,3584,115,Mahaffey Fabric Structures,mahaffey-fabric-structures,Tennessee,TN,Memphis,87.4406,34980553,105,20,"Memphis, TN-MS-AR",Construction,5
+44270,3587,500,PPR Talent Management Group,ppr-talent-management-group,Florida,FL,Jacksonville Beach,87.3705,69162465,64,10,"Jacksonville, FL",Health,1
+23599,3592,312,LEAD IT,lead-it,Illinois,IL,SPRINGFIELD,87.2118,40433315,188,8,"Springfield, IL",IT Services,4
+44272,3593,160,S4 Communications,s4-communications,Texas,TX,Houston,87.2143,22441239,22,17,Houston,Business Products & Services,1
+65,3595,740,Lifematters,lifematters,Maryland,MD,Bethesda,87.0941,22378680,3,10,"Washington, DC",Health,8
+21983,3597,222,Credera,credera,Texas,TX,Addison,86.9687,47379901,8,8,Dallas,IT Services,5
+17430,3599,150,AVIAN,avian,Maryland,MD,Lexington Park,86.9536,26226157,1049,7,"California-Lexington Park, MD",Government Services,7
+44274,3601,500,The Related Group,the-related-group,Florida,FL,Miami,86.7822,1910689682,1,3,Miami,Real Estate,1
+4205,3611,110,Avalon Document Services,avalon-document-services,New York,NY,Buffalo,86.4084,11367606,1032,17,"Buffalo-Cheektowaga-Niagara Falls, NY",Business Products & Services,8
+2471,3612,117,Career Step,career-step,Utah,UT,Lehi,86.3754,41319301,48,19,"Provo-Orem, UT",Education,8
+37731,3613,176,HTS Texas,hts-texas,Texas,TX,Houston,86.3558,76813143,22,20,Houston,Construction,2
+1809,3614,283,trustaff,trustaff,Ohio,OH,Cincinnati,86.3256,184472828,47,21,Cincinnati,Human Resources,9
+20381,3616,202,The Rainmaker Group,the-rainmaker-group,Georgia,GA,Alpharetta,86.2966,38891364,29,9,Atlanta,Software,6
+2887,3617,4537,Program Productions,program-productions,Illinois,IL,Lombard,86.245,38517945,17,12,Chicago,Media,10
+26169,3618,5838,"College Nannies, Sitters and Tutors",college-nannies-sitters-and-tutors,Minnesota,MN,Minneapolis,86.2259,3338937,13,4,Minneapolis,Consumer Products & Services,3
+822,3623,500,MAQ Software,maq-software,Washington,WA,Redmond,86.1249,35980803,23,5,Seattle,Advertising & Marketing,8
+18435,3628,230,Fulcrum IT Services,fulcrum-it-services,Virginia,VA,Centreville,85.917,61898493,3,8,"Washington, DC",IT Services,7
+747,3629,131,NEOGOV,neogov,California,CA,El Segundo,85.9218,23392187,2,9,Los Angeles,Software,7
+26338,3630,200,ConnectYourCare,connectyourcare,Maryland,MD,Hunt Valley,85.9067,31738000,35,10,Baltimore,Health,3
+3744,3632,577,MedRisk,medrisk,Pennsylvania,PA,King of Prussia,85.7899,342577590,49,1,Philadelphia,Insurance,10
+9683,3633,200,Distinguished Programs,distinguished-programs,New York,NY,New York,85.769,101794000,9,1,New York City,Insurance,3
+1741,3634,451,Torch Technologies,torch-technologies,Alabama,AL,Huntsville,85.7624,232865666,69,7,"Huntsville, AL",Government Services,10
+3939,3646,182,North Shore Pediatric Therapy,north-shore-pediatric-therapy,Illinois,IL,Des Plaines,85.1919,9938009,17,10,Chicago,Health,8
+44281,3649,433,Homestar,homestar,Georgia,GA,Gainesville,85.1272,54567227,203,2,"Gainesville, GA",Financial Services,1
+23062,3650,200,Infolob Solutions,infolob-solutions,Texas,TX,Irving,85.1235,22525869,8,8,Dallas,IT Services,4
+17806,3653,102,InTec,intec,Virginia,VA,Fairfax,85.0744,19867894,3,7,"Washington, DC",Government Services,7
+4628,3655,110,CJ Pony Parts,cj-pony-parts,Pennsylvania,PA,Harrisburg,85.0261,55490960,133,18,"Harrisburg-Carlisle, PA",Retail,10
+4614,3657,159,PC Laptops,pc-laptops,Utah,UT,South Jordan,85.0204,19389922,12,4,Salt Lake City,Consumer Products & Services,5
+18000,3658,175,Search Technologies,search-technologies,Virginia,VA,Herndon,85.0083,32197000,3,8,"Washington, DC",IT Services,7
+20136,3660,175,DEG,deg,Kansas,KS,Overland Park,84.9675,26774039,21,5,"Kansas City, MO-KS",Advertising & Marketing,6
+37921,3663,155,Affordable Solar,affordable-solar,New Mexico,NM,Albuquerque,84.8985,58655728,66,16,"Albuquerque, NM",Energy,2
+38065,3664,103,LeaseTeam,leaseteam,Nebraska,NE,Omaha,84.8398,15972686,97,9,"Omaha-Council Bluffs, NE-IA",Software,2
+17461,3668,103,GPS Insight,gps-insight,Arizona,AZ,Scottsdale,84.7596,27712873,46,9,Phoenix,Software,7
+4362,3669,246,TrueNorth (Iowa),truenorth-iowa,Iowa,IA,Cedar Rapids,84.75,54533878,174,1,"Cedar Rapids, IA",Insurance,6
+25580,3670,150,Unlimited Landscaping & Turf Management,unlimited-landscaping-turf-management,Georgia,GA,Buford,84.7127,9058741,29,20,Atlanta,Construction,2
+18067,3674,125,Covenant Eyes,covenant-eyes,Michigan,MI,Owosso,84.5499,13571407,306,9,"Owosso, MI",Software,6
+4214,3675,340,Barrett Distribution Centers,barrett-distribution-centers,Massachusetts,MA,Franklin,84.5061,61606549,6,6,Boston,Logistics & Transportation,8
+11000,3677,300,York Solutions,york-solutions,Illinois,IL,Westchester,84.4595,45996000,17,8,Chicago,IT Services,6
+26047,3679,200,MEJansen Development Company,mejansen-development-company,Colorado,CO,Pueblo,84.4397,7304125,80,3,"Colorado Springs, CO",Real Estate,3
+20526,3688,216,Surya,surya,Georgia,GA,Calhoun,84.2049,117361562,437,4,"Calhoun, GA",Consumer Products & Services,6
+4324,3691,203,Innovative Office Solutions,innovative-office-solutions,Minnesota,MN,Burnsville,83.9715,87217096,13,17,Minneapolis,Business Products & Services,8
+19489,3692,746,Maximum One Realty,maximum-one-realty,Georgia,GA,Atlanta,83.8754,15909785,29,3,Atlanta,Real Estate,6
+824,3697,100,Send Word Now,send-word-now,New York,NY,New York,83.6077,30556000,9,14,New York City,Telecommunications,9
+2050,3698,155,Advisors Mortgage Group,advisors-mortgage-group,New Jersey,NJ,Ocean,83.6114,35513460,9,2,New York City,Financial Services,8
+38080,3700,610,CareHere,carehere,Tennessee,TN,Brentwood,83.5242,94343604,82,10,Nashville,Health,2
+44292,3701,248,Vertical Limit,vertical-limit,Minnesota,MN,Wanamingo,83.4549,61457976,76,14,"Red Wing, MN",Telecommunications,1
+19958,3709,244,Bolt Express,bolt-express,Ohio,OH,TOLEDO,83.1858,89761608,300,6,"Toledo, OH",Logistics & Transportation,6
+22854,3715,750,WMK,wmk,Ohio,OH,Richfield,82.9399,239571980,34,18,"Akron, OH",Retail,11
+44296,3717,101,Fakhoury Global Immigration,fakhoury-global-immigration,Michigan,MI,Troy,82.9331,8723781,50,17,Detroit,Business Products & Services,1
+310,3718,240,Drexel Building Supply,drexel-building-supply,Wisconsin,WI,Campbellsport,82.9256,117848000,202,20,"Fond du Lac, WI",Construction,7
+25640,3723,168,Select Security,select-security,Pennsylvania,PA,Lancaster,82.6796,19143000,305,13,"Lancaster, PA",Security,3
+20987,3724,210,Zantech IT Services,zantech-it-services,Virginia,VA,Tysons Corner,82.638,40850179,3,7,"Washington, DC",Government Services,5
+37965,3727,614,Maser Consulting,maser-consulting,New Jersey,NJ,Red Bank,82.493,89458786,9,24,New York City,Engineering,2
+3716,3729,118,Apex Revenue Technologies,apex-revenue-technologies,Minnesota,MN,Saint Paul,82.4715,69917653,13,17,Minneapolis,Business Products & Services,9
+20450,3731,170,Freedom Boat Club,freedom-boat-club,Florida,FL,Venice,82.4213,15294843,1031,4,"North Port-Sarasota-Bradenton, FL",Consumer Products & Services,2
+1784,3732,135,ShoppersChoice.com,shopperschoicecom,Louisiana,LA,Baton Rouge,82.414,74808590,139,18,"Baton Rouge, LA",Retail,9
+1033,3734,345,Novae,novae,Indiana,IN,Markle,82.375,82491062,162,15,"Fort Wayne, IN",Manufacturing,11
+5967,3743,249,Bee Line Support,bee-line-support,Illinois,IL,Schaumburg,82.0187,6457017,17,20,Chicago,Construction,6
+18952,3745,150,W. L. French Excavating,w-l-french-excavating,Massachusetts,MA,North Billerica,81.9847,62719022,6,20,Boston,Construction,4
+37774,3747,350,Bento Box Entertainment,bento-box-entertainment,California,CA,North Hollywood,81.8802,40346054,2,12,Los Angeles,Media,2
+44308,3749,425,Beroe,beroe,North Carolina,NC,Holly Springs,81.7983,12614602,512,17,"Dunn, NC",Business Products & Services,1
+10890,3753,8493,Heartland Dental,heartland-dental,Illinois,IL,Effingham,81.6102,1018413264,428,17,"Effingham, IL",Business Products & Services,6
+17617,3760,125,AKT Enterprises,akt-enterprises,Florida,FL,Orlando,81.4567,17120440,68,5,"Orlando, FL",Advertising & Marketing,6
+6118,3764,135,Savant Capital Management,savant-capital-management,Illinois,IL,Rockford,81.2983,35022577,190,2,"Rockford, IL",Financial Services,4
+25365,3770,102,RSM Maintenance,rsm-maintenance,New Jersey,NJ,Paramus,81.2272,34040627,9,20,New York City,Construction,3
+37835,3771,140,ECR Software,ecr-software,North Carolina,NC,Boone,81.2066,22974892,526,9,"Boone, NC",Software,2
+6411,3772,213,PTS Diagnostics,pts-diagnostics,Indiana,IN,Indianapolis,81.1856,45170694,81,10,"Indianapolis, IN",Health,6
+22251,3773,347,Client Solution Architects,client-solution-architects,Pennsylvania,PA,Mechanicsburg,81.127,56437876,133,17,"Harrisburg-Carlisle, PA",Business Products & Services,5
+23179,3776,511,In-Flight Crew Connections,in-flight-crew-connections,North Carolina,NC,Charlotte,81.1068,10426302,43,22,Charlotte,Travel & Hospitality,4
+44315,3783,343,T. Parker Host,t-parker-host,Virginia,VA,Norfolk,80.8324,39036017,15,6,"Virginia Beach-Norfolk-Newport News, VA-NC",Logistics & Transportation,1
+20044,3784,109,AgileAssets,agileassets,Texas,TX,Austin,80.7814,23460000,18,7,Austin,Government Services,5
+26356,3789,500,Kanda Software,kanda-software,Massachusetts,MA,Newton,80.531,6459510,6,9,Boston,Software,3
+38104,3793,147,Foundation Software,foundation-software,Ohio,OH,Strongsville,80.2609,19928834,79,9,Cleveland,Software,2
+23126,3794,100,TWO95 International,two95-international,New Jersey,NJ,Cherry Hill,80.2234,8260363,49,8,Philadelphia,IT Services,4
+3206,3796,445,Quantum Health,quantum-health,Ohio,OH,Columbus,80.1978,60597224,19,10,"Columbus, OH",Health,9
+37990,3797,105,BlueTarp Financial,bluetarp-financial,Maine,ME,Portland,80.2039,17639743,1018,2,"Portland-South Portland, ME",Financial Services,2
+3904,3809,340,All Copy Products,all-copy-products,Colorado,CO,Denver,79.7064,69029981,30,17,Denver,Business Products & Services,10
+44322,3810,117,Alliance Enterprises,alliance-enterprises,Washington,WA,DuPont,79.6733,11643688,23,9,Seattle,Software,1
+4288,3813,215,Starmount Life Insurance Company,starmount-life-insurance-company,Louisiana,LA,Baton Rouge,79.5788,124028892,139,1,"Baton Rouge, LA",Insurance,7
+4109,3814,252,Skoda Minotti,skoda-minotti,Ohio,OH,Cleveland,79.5318,50142500,79,2,Cleveland,Financial Services,13
+1999,3817,300,Clarity Solution Group,clarity-solution-group,Illinois,IL,Chicago,79.4122,58692823,17,8,Chicago,IT Services,8
+2508,3818,232,Impact Networking,impact-networking,Illinois,IL,Lake Forest,79.357,55007000,17,17,Chicago,Business Products & Services,7
+25779,3828,117,tap|QA,tap|qa,Minnesota,MN,St Louis Park,78.9875,12091838,13,8,Minneapolis,IT Services,3
+2558,3833,565,WideOrbit,wideorbit,California,CA,San Francisco,78.7657,114363326,4,9,San Francisco,Software,8
+38006,3836,125,OneGuard Home Warranties,oneguard-home-warranties,Arizona,AZ,Phoenix,78.74,39715641,46,1,Phoenix,Insurance,2
+44329,3837,200,Medicus Healthcare Solutions,medicus-healthcare-solutions,New Hampshire,NH,Windham,78.598,120758273,6,10,Boston,Health,1
+4059,3839,130,Call Experts,call-experts,South Carolina,SC,Charleston,78.5251,5895236,536,14,"Charleston-North Charleston, SC",Telecommunications,5
+18835,3840,225,Lease A Sales Rep,lease-a-sales-rep,North Carolina,NC,Raleigh,78.5248,24395550,1029,17,"Raleigh, NC",Business Products & Services,6
+6566,3847,435,INSYS Group,insys-group,New Jersey,NJ,Rochelle Park,78.2079,52858495,9,17,New York City,Business Products & Services,6
+44334,3849,387,Meltwater,meltwater,California,CA,San Francisco,78.0624,63741000,4,5,San Francisco,Advertising & Marketing,1
+44337,3852,107,Factory Expo Home Centers,factory-expo-home-centers,Arizona,AZ,Chandler,77.9352,59090296,46,18,Phoenix,Retail,1
+21413,3855,282,OTO Development,oto-development,South Carolina,SC,Spartanburg,77.8074,27215999,126,22,"Spartanburg, SC",Travel & Hospitality,5
+2567,3864,1091,PEOPLE'S CARE HOLDINGS,peoples-care-holdings,California,CA,CHINO HILLS,77.5343,42380784,2,10,Los Angeles,Health,8
+20288,3867,103,Southeast Restoration Group,southeast-restoration-group,Georgia,GA,Canton,77.3687,21733758,29,20,Atlanta,Construction,6
+26240,3869,339,Centrify,centrify,California,CA,Santa Clara,77.3054,64931000,20,9,San Jose,Software,3
+451,3870,165,Fortis Construction,fortis-construction,Oregon,OR,Portland,77.3034,468952222,10,20,"Portland, OR",Construction,8
+24809,3872,148,Rentex,rentex,Massachusetts,MA,Canton,77.2858,31870355,6,25,Boston,Computer Hardware,3
+19542,3873,112,Three Wire Systems,three-wire-systems,Virginia,VA,Falls Church,77.2594,70846713,3,7,"Washington, DC",Government Services,6
+25988,3881,180,Shepherd Insurance,shepherd-insurance,Indiana,IN,Carmel,76.8191,23338777,81,1,"Indianapolis, IN",Insurance,3
+19681,3884,125,BSI ENGINEERING,bsi-engineering,Ohio,OH,CINCINNATI,76.7762,23420900,47,24,Cincinnati,Engineering,6
+22817,3887,584,Addison Group,addison-group,Illinois,IL,Chicago,76.6731,241831243,17,21,Chicago,Human Resources,10
+24055,3893,225,HealthcareSource,healthcaresource,Massachusetts,MA,Woburn,76.5215,53202996,6,10,Boston,Health,3
+38071,3894,266,Phillips Edison& Company,phillips-edison-company,Ohio,OH,Cincinnati,76.5106,401378000,47,3,Cincinnati,Real Estate,2
+18570,3896,228,SOAProjects,soaprojects,California,CA,Mountain View,76.3549,25111497,20,2,San Jose,Financial Services,6
+26027,3900,250,TeleDirect,teledirect,California,CA,Sacramento,76.0155,15002778,1011,14,"Sacramento, CA",Telecommunications,3
+23845,3901,211,SimVentions,simventions,Virginia,VA,Fredericksburg,75.955,32957901,3,7,"Washington, DC",Government Services,4
+37941,3903,481,MRO,mro,Pennsylvania,PA,Norristown,75.8949,38894563,49,10,Philadelphia,Health,2
+18363,3905,774,DiscountMugs.com,discountmugscom,Florida,FL,Medley,75.8153,135834394,1,17,Miami,Business Products & Services,7
+19770,3907,241,Equian,equian,Indiana,IN,Indianapolis,75.7611,86400000,81,10,"Indianapolis, IN",Health,6
+26324,3914,2000,The Woodhouse Day Spas,the-woodhouse-day-spas,Texas,TX,Victoria,75.5843,3321352,870,22,"Victoria, TX",Travel & Hospitality,3
+38114,3915,609,Single Source,single-source,Georgia,GA,Roswell,75.5726,202971543,29,17,Atlanta,Business Products & Services,2
+44346,3917,168,George Matick Chevrolet,george-matick-chevrolet,Michigan,MI,Redford Township,75.4332,147537406,50,18,Detroit,Retail,1
+2630,3918,789,ConServe,conserve,New York,NY,Fairport,75.3723,92684814,71,2,"Rochester, NY",Financial Services,6
+21755,3927,140,Qualifacts Systems,qualifacts-systems,Tennessee,TN,Nashville,75.0205,23451000,82,9,Nashville,Software,5
+20857,3929,350,IQMS,iqms,California,CA,Paso Robles,75.0186,44635000,1017,9,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",Software,6
+20669,3933,138,Field Fastener,field-fastener,Illinois,IL,machesney Park,74.9368,61789600,190,15,"Rockford, IL",Manufacturing,6
+44350,3934,286,Improving,improving,Texas,TX,Addison,74.892,42589932,8,8,Dallas,IT Services,8
+2831,3935,149,TiER1 Performance Solutions,tier1-performance-solutions,Kentucky,KY,Covington,74.8648,19539008,47,17,Cincinnati,Business Products & Services,10
+44351,3937,235,Foundry Commercial,foundry-commercial,Florida,FL,Orlando,74.855,30627958,68,3,"Orlando, FL",Real Estate,1
+44352,3938,315,Zonar Systems,zonar-systems,Washington,WA,Seattle,74.8451,91722000,23,6,Seattle,Logistics & Transportation,1
+18832,3939,410,Open Systems International,open-systems-international,Minnesota,MN,Medina,74.8324,72214207,13,9,Minneapolis,Software,3
+25586,3948,550,Transparent BPO,transparent-bpo,Maryland,MD,Laytonsville,74.5879,8194126,3,17,"Washington, DC",Business Products & Services,2
+21595,3950,120,Inovex Information Systems,inovex-information-systems,Maryland,MD,Hanover,74.5358,21337000,35,7,Baltimore,Government Services,5
+44356,3958,241,Gaia Herbs,gaia-herbs,North Carolina,NC,Brevard,74.1752,45669873,528,4,"Brevard, NC",Consumer Products & Services,1
+44357,3959,100,Workplace ELEMENTS,workplace-elements,Colorado,CO,Denver,74.1678,67840427,30,17,Denver,Business Products & Services,1
+21637,3963,140,PrimeRevenue,primerevenue,Georgia,GA,Atlanta,73.9884,20983000,29,2,Atlanta,Financial Services,5
+19430,3964,151,110 Consulting,110-consulting,Washington,WA,Bellevue,73.9561,24828947,23,8,Seattle,IT Services,6
+5894,3965,230,Apex-2000,apex-2000,Virginia,VA,CHANTILLY,73.8502,20078856,3,8,"Washington, DC",IT Services,3
+4687,3966,261,Keller Williams Realty International,keller-williams-realty-international,Texas,TX,Austin,73.8378,274607941,18,3,Austin,Real Estate,8
+38168,3967,103,Woodtex,woodtex,Tennessee,TN,Brentwood,73.8071,12362518,82,4,Nashville,Consumer Products & Services,2
+2038,3969,138,ePromos Promotional Products,epromos-promotional-products,Minnesota,MN,St. Cloud,73.7668,49344700,332,5,"St. Cloud, MN",Advertising & Marketing,7
+44359,3971,120,Conversica,conversica,California,CA,Foster City,73.7477,10099955,4,9,San Francisco,Software,1
+38030,3972,107,Canopy Partners,canopy-partners,North Carolina,NC,Greensboro,73.7435,17904989,287,8,"Greensboro-High Point, NC",IT Services,2
+18102,3973,113,iovation,iovation,Oregon,OR,Portland,73.7242,25973376,10,13,"Portland, OR",Security,7
+3397,3974,332,Superior Ambulance Service,superior-ambulance-service,New Mexico,NM,Albuquerque,73.5677,11590161,66,10,"Albuquerque, NM",Health,3
+38092,3975,120,Stafford Communications Group,stafford-communications-group,New Jersey,NJ,New Providence,73.5328,7908472,9,17,New York City,Business Products & Services,2
+25883,3977,1939,MEC,mec,Wisconsin,WI,Mayville,73.4978,305026368,716,15,"Beaver Dam, WI",Manufacturing,3
+44361,3981,177,FW Warehousing & Trucking,fw-warehousing-trucking,Illinois,IL,Sauget,73.2362,19384580,74,6,"St. Louis, MO-IL",Logistics & Transportation,1
+19831,3988,354,Accurate Group,accurate-group,Ohio,OH,Cleveland,73.0323,89319663,79,3,Cleveland,Real Estate,6
+26085,3989,725,CT in Home Assistance,ct-in-home-assistance,Connecticut,CT,Trumbull,73.0295,9002309,58,10,"Bridgeport-Stamford-Norwalk, CT",Health,3
+751,3990,191,AgileThought,agilethought,Florida,FL,Tampa,73.0156,29035550,7,9,Tampa,Software,9
+44362,3991,194,WorkWave,workwave,New Jersey,NJ,Neptune,72.9858,36500000,9,9,New York City,Software,1
+7328,3992,336,Destination Concepts,destination-concepts,California,CA,San Diego,72.9659,20280518,11,17,San Diego,Business Products & Services,6
+26099,3993,601,KMS Technology,kms-technology,Georgia,GA,Atlanta,72.9685,17863009,29,8,Atlanta,IT Services,3
+19585,3999,121,JBL Resources,jbl-resources,Michigan,MI,Grand Rapids,72.878,11019118,219,21,"Grand Rapids-Wyoming, MI",Human Resources,6
+20472,4000,200,D4,d4,New York,NY,Rochester,72.8597,24772072,71,17,"Rochester, NY",Business Products & Services,6
+1186,4002,108,LaunchSquad,launchsquad,California,CA,San Francisco,72.7996,16221086,4,5,San Francisco,Advertising & Marketing,9
+4075,4004,792,Garland Industries,garland-industries,Ohio,OH,Cleveland,72.785,460931813,79,15,Cleveland,Manufacturing,7
+2121,4006,784,Total Hockey,total-hockey,Missouri,MO,Maryland Heights,72.666,62037069,74,18,"St. Louis, MO-IL",Retail,9
+3334,4009,1168,Shawmut Design and Construction,shawmut-design-and-construction,Massachusetts,MA,Boston,72.6194,1174310103,6,20,Boston,Construction,10
+1337,4016,470,The Nerdery,the-nerdery,Minnesota,MN,Minneapolis,72.3943,64798360,13,9,Minneapolis,Software,9
+2647,4018,110,Exploring,exploring,Georgia,GA,Atlanta,72.312,26716567,29,17,Atlanta,Business Products & Services,5
+44369,4019,220,ATHENA CONSULTING,athena-consulting,Maryland,MD,Gaithersburg,72.2807,8342428,3,17,"Washington, DC",Business Products & Services,1
+22114,4022,189,Velociti,velociti,Missouri,MO,Riverside,72.2745,64472000,21,6,"Kansas City, MO-KS",Logistics & Transportation,3
+25929,4024,300,Nature's Variety,natures-variety,Missouri,MO,St. Louis,72.0561,126678000,74,4,"St. Louis, MO-IL",Consumer Products & Services,3
+37841,4030,750,Keeley Companies,keeley-companies,Missouri,MO,St. Louis,71.8187,228844023,74,20,"St. Louis, MO-IL",Construction,2
+19024,4031,422,Stinson Leonard Street,stinson-leonard-street,Minnesota,MN,Minneapolis,71.8121,256000000,13,17,Minneapolis,Business Products & Services,4
+26031,4034,135,Overture Promotions,overture-promotions,Illinois,IL,Vernon Hills,71.7328,42222989,17,5,Chicago,Advertising & Marketing,3
+44372,4035,1232,VimHR,vimhr,Arizona,AZ,Phoenix,71.71,14555460,46,21,Phoenix,Human Resources,1
+21833,4036,113,Dynamic Mobile Imaging,dynamic-mobile-imaging,Virginia,VA,Richmond,71.6209,10436583,40,10,"Richmond, VA",Health,4
+38210,4037,126,john greene Realtor,john-greene-realtor,Illinois,IL,Naperville,71.585,12010236,17,3,Chicago,Real Estate,2
+26408,4042,160,MKD Electric,mkd-electric,Illinois,IL,Elgin,71.4651,30311388,17,20,Chicago,Construction,2
+5455,4044,313,Linx,linx,Colorado,CO,Denver,71.4238,60833911,30,14,Denver,Telecommunications,7
+44375,4050,1293,InterSolutions,intersolutions,New Jersey,NJ,Cherry Hill,71.1847,11278922,49,17,Philadelphia,Business Products & Services,1
+38159,4057,105,ST. ONGE COMPANY,st-onge-company,Pennsylvania,PA,York,70.9063,26686642,380,24,"York-Hanover, PA",Engineering,2
+26554,4058,147,Paramount Software Solutions,paramount-software-solutions,Georgia,GA,Alpharetta,70.9053,20356699,29,8,Atlanta,IT Services,3
+23612,4060,109,Clarity Partners,clarity-partners,Illinois,IL,Chicago,70.8524,15334000,17,8,Chicago,IT Services,4
+44377,4062,139,Charter Contracting Company,charter-contracting-company,Massachusetts,MA,Boston,70.7757,67973706,6,20,Boston,Construction,1
+24069,4064,30000,PrideStaff,pridestaff,California,CA,Fresno,70.6718,195063020,345,21,"Fresno, CA",Human Resources,2
+23935,4070,27000,Infiniti HR,infiniti-hr,Maryland,MD,Burtonsville,70.3789,223673497,3,21,"Washington, DC",Human Resources,4
+37918,4071,113,SCOUT,scout,Georgia,GA,Atlanta,70.3291,16604439,29,5,Atlanta,Advertising & Marketing,2
+3042,4072,274,Cumberland Consulting Group,cumberland-consulting-group,Tennessee,TN,Franklin,70.3076,61851867,82,8,Nashville,IT Services,8
+18173,4078,100,JMARK Business Solutions,jmark-business-solutions,Missouri,MO,Springfield,70.1578,14553400,102,8,"Springfield, MO",IT Services,7
+37797,4082,100,Mark-it Express,mark-it-express,Illinois,IL,Bridgeview,69.9548,20808680,17,6,Chicago,Logistics & Transportation,2
+17454,4085,215,Andromeda Systems,andromeda-systems,Virginia,VA,Virginia Beach,69.8664,31781566,15,24,"Virginia Beach-Norfolk-Newport News, VA-NC",Engineering,7
+37991,4086,100,Skyline Security Management,skyline-security-management,California,CA,Downey,69.8577,23896023,2,13,Los Angeles,Security,2
+5065,4088,371,XYMOGEN,xymogen,Florida,FL,Orlando,69.7455,78951749,68,10,"Orlando, FL",Health,9
+37716,4096,120,Advanced Clinical,advanced-clinical,Illinois,IL,Deerfield,69.4097,67612771,17,10,Chicago,Health,2
+44387,4101,1277,Oceans Healthcare,oceans-healthcare,Texas,TX,Plano,69.2795,77701000,8,10,Dallas,Health,1
+19719,4102,415,Magnolia Bakery,magnolia-bakery,New York,NY,New York,69.2626,39953755,9,11,New York City,Food & Beverage,5
+1585,4103,246,myMatrixx,mymatrixx,Florida,FL,Tampa,69.2475,123282816,7,10,Tampa,Health,8
+19820,4104,108,KBA DOCUSYS,kba-docusys,California,CA,Union City,69.2407,26870930,4,17,San Francisco,Business Products & Services,6
+18250,4107,101,Butler/Till Media & Communications,butlertill-media-communications,New York,NY,Rochester,69.2157,14705660,71,5,"Rochester, NY",Advertising & Marketing,6
+21648,4108,2150,Great Lakes Caring Home Health and Hospice,great-lakes-caring-home-health-and-hospice,Michigan,MI,Jackson,69.2083,188866292,303,10,"Jackson, MI",Health,8
+44389,4114,325,Emission Monitoring Service,emission-monitoring-service,Texas,TX,Baytown,68.7794,22927000,22,23,Houston,Environmental Services,1
+44394,4129,105,Sucre,sucre,Louisiana,LA,New Orleans,68.105,5872630,1010,11,"New Orleans-Metairie, LA",Food & Beverage,1
+869,4132,201,Enviro Clean Group,enviro-clean-group,Oklahoma,OK,Yukon,68.0143,30960742,38,23,"Oklahoma City, OK",Environmental Services,8
+19023,4133,463,Pentec Health,pentec-health,Pennsylvania,PA,Glen Mills,67.998,129186654,49,10,Philadelphia,Health,7
+3095,4134,151,ERGOS Technology Partners,ergos-technology-partners,Texas,TX,Houston,67.9565,20208627,22,8,Houston,IT Services,7
+25381,4135,135,Sam Tell and Son,sam-tell-and-son,New York,NY,Farmingdale,67.9412,69483796,9,11,New York City,Food & Beverage,3
+24273,4137,140,OpinionLab,opinionlab,Illinois,IL,Chicago,67.8225,20231000,17,5,Chicago,Advertising & Marketing,4
+1459,4138,184,Simpleview,simpleview,Arizona,AZ,Tucson,67.7711,27666136,154,22,"Tucson, AZ",Travel & Hospitality,10
+38250,4139,186,Mountain High Outfitters,mountain-high-outfitters,Alabama,AL,Birmingham,67.7302,21894046,140,18,"Birmingham-Hoover, AL",Retail,2
+1445,4147,150,Droisys,droisys,California,CA,Santa Clara,67.3127,16640780,20,8,San Jose,IT Services,9
+38295,4149,125,World Wide Dictation,world-wide-dictation,New York,NY,ARDSLEY,67.2751,3063291,9,17,New York City,Business Products & Services,2
+17766,4152,195,DRT Strategies,drt-strategies,Virginia,VA,Arlington,67.1168,37884344,3,7,"Washington, DC",Government Services,7
+9156,4154,622,Ivie & Associates,ivie-associates,Texas,TX,Flower Mound,67.0849,460519135,8,5,Dallas,Advertising & Marketing,4
+26237,4155,2423,Academy Mortgage,academy-mortgage,Utah,UT,Draper,67.0302,419635303,12,2,Salt Lake City,Financial Services,3
+981,4159,802,Phacil,phacil,Virginia,VA,Arlington,66.8667,126158974,3,8,"Washington, DC",IT Services,10
+17839,4168,106,American Environmental & Engineering Consultants,american-environmental-engineering-consultants,Virginia,VA,Reston,66.4747,38081480,3,7,"Washington, DC",Government Services,3
+409,4169,266,Bomgar,bomgar,Mississippi,MS,Ridgeland,66.4296,67999936,96,9,"Jackson, MS",Software,8
+17346,4170,559,Principle Solutions Group,principle-solutions-group,Georgia,GA,Atlanta,66.3778,100232260,29,8,Atlanta,IT Services,6
+25327,4172,273,Connect Wireless,connect-wireless,Idaho,ID,Eagle,66.2661,28176789,1019,14,"Boise City, ID",Telecommunications,3
+4621,4173,262,Core States Group,core-states-group,Georgia,GA,Duluth,66.2167,72552715,29,24,Atlanta,Engineering,2
+37914,4175,464,Matlen Silver,matlen-silver,New Jersey,NJ,Bridgewater,66.1849,83203472,9,8,New York City,IT Services,2
+2662,4176,1187,M S International,m-s-international,California,CA,Orange,66.1547,759169000,2,4,Los Angeles,Consumer Products & Services,7
+22630,4177,760,American Technologies,american-technologies,California,CA,Orange,66.1286,180837756,2,20,Los Angeles,Construction,8
+19849,4179,183,Cornerstone Mortgage,cornerstone-mortgage,Missouri,MO,Chesterfield,66.0715,35567658,74,2,"St. Louis, MO-IL",Financial Services,5
+44404,4185,150,KLASCHOOLS,klaschools,Florida,FL,Miami,65.8455,9328811,1,19,Miami,Education,1
+44405,4186,108,La Flor de Mexico,la-flor-de-mexico,California,CA,Baldwin Park,65.8408,13605651,2,11,Los Angeles,Food & Beverage,1
+24374,4189,105,Answer First Communications,answer-first-communications,Florida,FL,Tampa,65.7648,4859075,7,17,Tampa,Business Products & Services,2
+38179,4191,157,Dimensional Innovations,dimensional-innovations,Kansas,KS,Overland Park,65.5374,23515635,21,24,"Kansas City, MO-KS",Engineering,2
+18441,4192,120,Netchex,netchex,Louisiana,LA,Mandeville,65.4551,15523008,1010,21,"New Orleans-Metairie, LA",Human Resources,7
+20420,4201,328,Medix,medix,Illinois,IL,Chicago,65.1805,127210217,17,21,Chicago,Human Resources,6
+3885,4202,200,SofterWare,softerware,Pennsylvania,PA,Horsham,65.1125,47346000,49,9,Philadelphia,Software,8
+24635,4203,104,JLG Architects,jlg-architects,North Dakota,ND,Grand Forks,65.076,24301565,734,20,"Grand Forks, ND-MN",Construction,3
+741,4204,242,AppRiver,appriver,Florida,FL,Gulf Breeze,65.0048,64159408,130,8,"Pensacola-Ferry Pass-Brent, FL",IT Services,10
+926,4205,3272,Vaco,vaco,Tennessee,TN,Brentwood,64.9437,291353261,82,17,Nashville,Business Products & Services,10
+44410,4206,750,Alterman,alterman,Texas,TX,San Antonio,64.8705,147447000,14,20,"San Antonio, TX",Construction,1
+24353,4212,620,The Learning Experience,the-learning-experience,Florida,FL,Boca Raton,64.7771,48142310,1,19,Miami,Education,4
+24495,4217,450,CAN Capital,can-capital,New York,NY,New York,64.5708,213402616,9,2,New York City,Financial Services,4
+12477,4218,219,Indusa Technical,indusa-technical,Illinois,IL,Oakbrook Terrace,64.5357,5615242,17,8,Chicago,IT Services,4
+17726,4219,210,milk + honey,milk-honey,Texas,TX,Austin,64.5328,11170054,18,4,Austin,Consumer Products & Services,7
+17491,4221,324,Consero Global,consero-global,Texas,TX,Austin,64.4872,8684233,18,2,Austin,Financial Services,5
+18161,4222,1300,Orion Systems Integrators,orion-systems-integrators,New Jersey,NJ,Monmouth Junction,64.4383,85549000,9,8,New York City,IT Services,7
+18600,4223,106,Symmetry,symmetry,Wisconsin,WI,Brookfield,64.4358,24253851,27,8,"Milwaukee-Waukesha-West Allis, WI",IT Services,5
+20717,4224,374,Jade Global,jade-global,California,CA,San Jose,64.4254,19856000,20,8,San Jose,IT Services,6
+7685,4231,650,Gateway Mortgage Group,gateway-mortgage-group,Oklahoma,OK,Tulsa,64.2522,130254787,841,2,"Tulsa, OK",Financial Services,6
+44414,4234,105,Health Facility Solutions Company,health-facility-solutions-company,Texas,TX,San Antonio,64.1895,9658536,14,7,"San Antonio, TX",Government Services,1
+6099,4235,320,GolfTEC,golftec,Colorado,CO,Centennial,64.1307,34409327,30,4,Denver,Consumer Products & Services,7
+44415,4236,431,NextGen Global Resources,nextgen-global-resources,Illinois,IL,Chicago,64.1271,43225259,17,21,Chicago,Human Resources,1
+17880,4237,133,FiberLight,fiberlight,Georgia,GA,Alpharetta,64.1125,135233962,29,14,Atlanta,Telecommunications,5
+21928,4239,137,San Diego Sign Company,san-diego-sign-company,California,CA,Carlsbad,63.9817,25840159,11,5,San Diego,Advertising & Marketing,5
+19693,4243,238,Premier Mushrooms,premier-mushrooms,California,CA,Colusa,63.7962,29959232,998,11,,Food & Beverage,4
+7633,4244,392,Masergy Communications,masergy-communications,Texas,TX,Plano,63.7739,254354000,8,8,Dallas,IT Services,5
+38281,4248,111,GroupOne Health Source,groupone-health-source,Missouri,MO,Jefferson City,63.7143,18392439,236,10,"Jefferson City, MO",Health,2
+2977,4249,144,HazTek,haztek,New Jersey,NJ,Medford,63.6933,16695574,49,17,Philadelphia,Business Products & Services,3
+26331,4257,1405,United Shore,united-shore,Michigan,MI,Troy,63.4569,510126000,50,2,Detroit,Financial Services,3
+22252,4259,139,Rustic Crust and American Flatbread,rustic-crust-and-american-flatbread,New Hampshire,NH,Pittsfield,63.4267,19349503,6,11,Boston,Food & Beverage,4
+22756,4261,12600,Key Safety Systems,key-safety-systems,Michigan,MI,Sterling Heights,63.3667,1592767414,50,15,Detroit,Manufacturing,5
+2286,4262,450,Edifecs,edifecs,Washington,WA,Bellevue,63.3585,84806303,23,10,Seattle,Health,7
+44421,4266,185,Renaissance Electronic Services,renaissance-electronic-services,Indiana,IN,Indianapolis,63.2941,31463950,81,9,"Indianapolis, IN",Software,1
+6012,4267,152,Builder Homesite,builder-homesite,Texas,TX,Austin,63.2811,48109436,18,5,Austin,Advertising & Marketing,7
+94,4268,140,TeraThink,terathink,Virginia,VA,Reston,63.2758,49065270,3,8,"Washington, DC",IT Services,8
+25319,4269,115,Simplicity Laser,simplicity-laser,Utah,UT,Lindon,63.2683,6502160,48,4,"Provo-Orem, UT",Consumer Products & Services,3
+24388,4272,104,Prime Technological Services,prime-technological-services,Georgia,GA,Suwanee,63.1498,34634460,29,15,Atlanta,Manufacturing,4
+2326,4273,126,Burwood Group,burwood-group,Illinois,IL,Chicago,63.151,98959045,17,8,Chicago,IT Services,6
+21750,4277,425,AmeriFirst Home Mortgage,amerifirst-home-mortgage,Michigan,MI,Kalamazoo,63.0285,70499913,85,2,"Kalamazoo-Portage, MI",Financial Services,5
+44423,4278,222,Maxim Management Group,maxim-management-group,Texas,TX,Frisco,63.0178,13732081,8,10,Dallas,Health,1
+17245,4279,675,Lexicon Consulting,lexicon-consulting,California,CA,San Diego,62.9978,16571957,11,7,San Diego,Government Services,2
+23429,4287,474,Sundance Healthcare,sundance-healthcare,Texas,TX,Ft. Worth,62.7979,24698235,8,10,Dallas,Health,4
+21960,4289,200,Affirma Consulting,affirma-consulting,Washington,WA,Bellevue,62.7203,17294441,23,17,Seattle,Business Products & Services,4
+2717,4294,102,Prosek Partners,prosek-partners,New York,NY,New York,62.5705,24417600,9,5,New York City,Advertising & Marketing,8
+44427,4297,230,Beech Medical Group,beech-medical-group,Arizona,AZ,Mesa,62.5305,5957543,46,10,Phoenix,Health,1
+44428,4298,950,Altamarea Group,altamarea-group,New York,NY,New York,62.5253,65680336,9,11,New York City,Food & Beverage,1
+25717,4301,166,Level One Bank,level-one-bank,Michigan,MI,Farmington Hills,62.4615,44789000,50,2,Detroit,Financial Services,2
+1588,4312,116,Tully Rinckey,tully-rinckey,New York,NY,Albany,62.1082,14338868,146,4,"Albany-Schenectady-Troy, NY",Consumer Products & Services,8
+4211,4316,122,Four Hands,four-hands,Texas,TX,Austin,61.8609,114973000,18,4,Austin,Consumer Products & Services,11
+21065,4317,154,ActivEngage,activengage,Florida,FL,Orlando,61.751,10288283,68,9,"Orlando, FL",Software,5
+171,4323,4000,GeBBS Healthcare Solutions,gebbs-healthcare-solutions,California,CA,Marina del Rey,61.5505,30223078,2,10,Los Angeles,Health,8
+26376,4324,123,HNI,hni,Wisconsin,WI,New Berlin,61.518,27877019,27,1,"Milwaukee-Waukesha-West Allis, WI",Insurance,3
+1605,4326,3791,Total Quality Logistics,total-quality-logistics,Ohio,OH,Cincinnati,61.4511,2239908520,47,6,Cincinnati,Logistics & Transportation,12
+21812,4333,158,iNDIGO Health Partners,indigo-health-partners,Michigan,MI,Traverse City,61.2419,38763522,44,10,"Traverse City, MI",Health,5
+44433,4334,1449,The Flame Broiler,the-flame-broiler,California,CA,Santa Ana,61.2009,98163871,2,11,Los Angeles,Food & Beverage,1
+1641,4335,100,MEA|NEA,mea|nea,Georgia,GA,Dunwoody,61.1723,15508000,29,10,Atlanta,Health,9
+9755,4339,199,GHA Technologies,gha-technologies,Arizona,AZ,Scottsdale,60.9963,138903503,46,8,Phoenix,IT Services,5
+23591,4341,468,Teles Properties,teles-properties,California,CA,Beverly Hills,60.8341,62049339,2,3,Los Angeles,Real Estate,4
+1143,4343,361,Achieve3000,achieve3000,New Jersey,NJ,Lakewood,60.7605,76985542,9,19,New York City,Education,9
+44436,4345,137,GCOM Software,gcom-software,New York,NY,Albany,60.6908,60566107,146,8,"Albany-Schenectady-Troy, NY",IT Services,1
+21705,4348,272,Westcor Land Title Insurance Company,westcor-land-title-insurance-company,Florida,FL,Maitland,60.4688,391993827,68,1,"Orlando, FL",Insurance,2
+486,4349,763,Carenet Healthcare Services,carenet-healthcare-services,Texas,TX,San Antonio,60.4458,47549151,14,10,"San Antonio, TX",Health,8
+21512,4351,169,Research Square,research-square,North Carolina,NC,Durham,60.3703,22074145,56,19,"Durham-Chapel Hill, NC",Education,5
+4011,4356,124,InVision Communications,invision-communications,California,CA,Walnut Creek,60.2436,65522432,4,17,San Francisco,Business Products & Services,7
+44438,4362,377,Pediatric Therapy,pediatric-therapy,Colorado,CO,Boulder,60.0467,23708838,31,19,"Boulder, CO",Education,1
+18526,4364,161,Creative Lodging Solutions,creative-lodging-solutions,Kentucky,KY,Lexington,60.0344,137362920,132,22,"Lexington-Fayette, KY",Travel & Hospitality,7
+44439,4365,3700,GMS INC.,gms-inc,Georgia,GA,Tucker,59.9661,1858182000,29,20,Atlanta,Construction,1
+20139,4366,193,CivicPlus,civicplus,Kansas,KS,Manhattan,59.9321,20773369,230,7,"Manhattan, KS",Government Services,6
+19503,4368,268,Trowbridge & Trowbridge,trowbridge-trowbridge,Virginia,VA,McLean,59.9122,41502442,3,7,"Washington, DC",Government Services,4
+6825,4371,2200,SEKO Logistics,seko-logistics,Illinois,IL,Itasca,59.8731,527573000,17,6,Chicago,Logistics & Transportation,5
+1685,4374,120,American Business Solutions,american-business-solutions,Ohio,OH,Lewis Center,59.7909,17187026,19,8,"Columbus, OH",IT Services,7
+20607,4375,158,Trans-Expedite,trans-expedite,Texas,TX,El Paso,59.78,63574430,116,6,"El Paso, TX",Logistics & Transportation,6
+20024,4376,448,Kyyba,kyyba,Michigan,MI,Farmington Hills,59.774,39203167,50,8,Detroit,IT Services,5
+17442,4377,185,JeffreyM Consulting,jeffreym-consulting,Washington,WA,Seattle,59.7499,19882009,23,17,Seattle,Business Products & Services,7
+570,4380,700,Telogis,telogis,California,CA,Aliso Viejo,59.7019,110944396,2,9,Los Angeles,Software,9
+1158,4382,135,Stream Companies,stream-companies,Pennsylvania,PA,Malvern,59.6847,42440324,49,5,Philadelphia,Advertising & Marketing,10
+18413,4384,131,ThomasARTS,thomasarts,Utah,UT,Farmington,59.5367,20108000,204,5,"Ogden-Clearfield, UT",Advertising & Marketing,7
+44443,4385,341,LTI Trucking Services,lti-trucking-services,Missouri,MO,St. Louis,59.5432,54977000,74,6,"St. Louis, MO-IL",Logistics & Transportation,1
+20660,4389,517,Intelliswift Software,intelliswift-software,California,CA,Newark,59.3784,61539383,4,8,San Francisco,IT Services,5
+25644,4392,134,Cox Manufacturing Company,cox-manufacturing-company,Texas,TX,San Antonio,59.3628,17563379,14,15,"San Antonio, TX",Manufacturing,3
+20338,4394,164,UDig,udig,Virginia,VA,Richmond,59.307,22301032,40,8,"Richmond, VA",IT Services,4
+592,4396,4622,eClinicalWorks,eclinicalworks,Massachusetts,MA,Westborough,59.2296,402000000,1024,10,"Worcester, MA-CT",Health,10
+9378,4398,523,Bowman Consulting Group,bowman-consulting-group,Virginia,VA,Chantilly,59.1599,77985183,3,24,"Washington, DC",Engineering,8
+2340,4399,143,Infinity Systems Engineering,infinity-systems-engineering,Colorado,CO,Colorado Springs,59.1221,31072709,80,7,"Colorado Springs, CO",Government Services,9
+25989,4405,410,ServicEngineBPO,servicenginebpo,New Jersey,NJ,Medford,58.9303,4917705,49,17,Philadelphia,Business Products & Services,2
+4583,4409,176,Liberty Pumps,liberty-pumps,New York,NY,Bergen,58.7096,96422666,71,15,"Rochester, NY",Manufacturing,10
+44450,4413,300,JES Construction,jes-construction,Virginia,VA,Virginia Beach,58.6623,35429620,15,20,"Virginia Beach-Norfolk-Newport News, VA-NC",Construction,1
+840,4416,147,Sonoma Partners,sonoma-partners,Illinois,IL,Chicago,58.6112,26975000,17,8,Chicago,IT Services,8
+24308,4425,142,Divisions Maintenance Group,divisions-maintenance-group,Kentucky,KY,Newport,58.4346,133247300,47,17,Cincinnati,Business Products & Services,4
+44452,4427,110,Entisys360,entisys360,California,CA,Concord,58.3985,92122911,4,8,San Francisco,IT Services,1
+25960,4428,215,MedicOne Medical Response,medicone-medical-response,Texas,TX,Farmers Branch,58.4014,12261994,8,10,Dallas,Health,3
+25971,4429,282,VSA Partners,vsa-partners,Illinois,IL,Chicago,58.3812,74344486,17,5,Chicago,Advertising & Marketing,3
+25450,4436,152,Nor-Son,nor-son,Minnesota,MN,Baxter,58.0852,81006000,384,20,"Brainerd, MN",Construction,3
+7965,4437,125,nLogic,nlogic,Alabama,AL,Huntsville,58.0565,21285074,69,7,"Huntsville, AL",Government Services,7
+2746,4438,1181,Paycor,paycor,Ohio,OH,Cincinnati,58.0507,144293542,47,21,Cincinnati,Human Resources,8
+44454,4439,145,Staging Concepts,staging-concepts,Minnesota,MN,Minneapolis,58.0468,37539697,13,15,Minneapolis,Manufacturing,1
+7036,4441,135,TempWorks,tempworks,Minnesota,MN,Eagan,57.9894,18529000,13,9,Minneapolis,Software,5
+44455,4442,382,Timmons Group,timmons-group,Virginia,VA,Richmond,57.8871,55568259,40,24,"Richmond, VA",Engineering,1
+1534,4445,408,4th Source,4th-source,Florida,FL,Tampa,57.8466,25019907,7,8,Tampa,IT Services,6
+274,4446,243,Smarsh,smarsh,Oregon,OR,Portland,57.7744,42237451,10,9,"Portland, OR",Software,9
+3711,4448,252,Atrion,atrion,Rhode Island,RI,Warwick,57.7371,120008000,1015,8,"Providence-Warwick, RI-MA",IT Services,8
+775,4452,737,Viverae,viverae,Texas,TX,Dallas,57.5791,37154429,8,10,Dallas,Health,6
+38118,4453,700,Revature,revature,Virginia,VA,Reston,57.5716,56526655,3,19,"Washington, DC",Education,2
+17379,4456,100,VOX Network Solutions,vox-network-solutions,California,CA,Brisbane,57.5294,36270010,4,14,San Francisco,Telecommunications,7
+3364,4457,117,Meridian Imaging Solutions,meridian-imaging-solutions,Virginia,VA,Alexandria,57.5001,41380882,3,17,"Washington, DC",Business Products & Services,7
+553,4458,456,Pariveda Solutions,pariveda-solutions,Texas,TX,Dallas,57.4635,83673036,8,8,Dallas,IT Services,9
+4360,4461,425,Deegit,deegit,Illinois,IL,Schaumburg,57.4247,30394658,17,8,Chicago,IT Services,6
+38193,4462,344,Chuck & Don's Pet Food & Supplies,chuck-dons-pet-food-supplies,Minnesota,MN,Mahtomedi,57.4053,62032650,13,18,Minneapolis,Retail,2
+20047,4463,135,BuyAutoParts.com,buyautopartscom,California,CA,san diego,57.3757,52910526,11,4,San Diego,Consumer Products & Services,6
+25414,4464,165,Parkway Construction,parkway-construction,Texas,TX,Lewisville,57.3485,210145355,8,20,Dallas,Construction,3
+38270,4471,1139,Port Logistics Group,port-logistics-group,California,CA,City of Industry,57.1454,191750391,2,6,Los Angeles,Logistics & Transportation,2
+44463,4484,617,TSP,tsp,Texas,TX,Dallas,56.5697,63644000,8,8,Dallas,IT Services,1
+19634,4485,165,OpenSymmetry,opensymmetry,Texas,TX,Austin,56.5356,26292395,18,17,Austin,Business Products & Services,6
+24363,4493,522,Kidder Mathews,kidder-mathews,Washington,WA,Seattle,56.252,127866037,23,3,Seattle,Real Estate,3
+44464,4495,140,PM Environmental,pm-environmental,Michigan,MI,Lansing,56.1951,18937804,144,23,"Lansing-East Lansing, MI",Environmental Services,1
+23573,4497,870,SCIO Health Analytics,scio-health-analytics,Connecticut,CT,West Hartford,56.1832,58943237,100,10,"Hartford-West Hartford-East Hartford, CT",Health,5
+4349,4499,411,Loffler Companies,loffler-companies,Minnesota,MN,Bloomington,56.1223,94127934,13,17,Minneapolis,Business Products & Services,9
+44468,4503,4030,American Renal Associates,american-renal-associates,Massachusetts,MA,Beverly,56.0039,657505000,6,10,Boston,Health,1
+21199,4505,1777,New Penn Financial,new-penn-financial,Pennsylvania,PA,Plymouth Meeting,55.978,275408082,49,2,Philadelphia,Financial Services,5
+24750,4509,3717,Summit Security Services,summit-security-services,New York,NY,Uniondale,55.8446,146984154,9,13,New York City,Security,3
+18927,4510,117,Trideum,trideum,Alabama,AL,Huntsville,55.8263,16473717,69,7,"Huntsville, AL",Government Services,4
+38096,4512,1111,TASC,tasc,Wisconsin,WI,Madison,55.8045,98708807,78,21,"Madison, WI",Human Resources,2
+20711,4516,124,The Partners Group,the-partners-group,Oregon,OR,Portland,55.6301,25084488,10,1,"Portland, OR",Insurance,4
+17514,4517,383,Retail Solutions,retail-solutions,California,CA,Mountain View,55.6187,58387654,20,9,San Jose,Software,7
+21567,4523,215,Diamond Solutions,diamond-solutions,Virginia,VA,Fairfax,55.4005,24765264,3,7,"Washington, DC",Government Services,4
+22645,4524,120,Auto Credit Express,auto-credit-express,Michigan,MI,Auburn Hills,55.4009,34071376,50,2,Detroit,Financial Services,5
+1465,4528,125,LSS Life Safety Services,lss-life-safety-services,Kentucky,KY,Louisville,55.3191,7300000,630,17,"Louisville/Jefferson County, KY-IN",Business Products & Services,8
+44473,4533,145,ReminderMedia,remindermedia,Pennsylvania,PA,King of Prussia,55.2015,23386026,49,5,Philadelphia,Advertising & Marketing,1
+1659,4534,124,Customized Energy Solutions,customized-energy-solutions,Pennsylvania,PA,Philadelphia,55.1537,26041000,49,16,Philadelphia,Energy,10
+20166,4537,162,Christmas Central,christmas-central,New York,NY,Cheektowaga,55.0514,25530988,1032,18,"Buffalo-Cheektowaga-Niagara Falls, NY",Retail,5
+24258,4542,550,Blackstone Security Services,blackstone-security-services,Arizona,AZ,Phoenix,54.8463,10041979,46,13,Phoenix,Security,3
+23327,4549,236,EBW Electronics,ebw-electronics,Michigan,MI,Holland,54.7005,41194649,219,15,"Grand Rapids-Wyoming, MI",Manufacturing,4
+44477,4551,196,Penn Credit,penn-credit,Pennsylvania,PA,Harrisburg,54.6921,25412737,133,2,"Harrisburg-Carlisle, PA",Financial Services,1
+22046,4552,172,Strong-Bridge,strong-bridge,Washington,WA,Bellevue,54.6687,37527239,23,17,Seattle,Business Products & Services,5
+38319,4553,104,MMI Engineered Solutions,mmi-engineered-solutions,Michigan,MI,Saline,54.5737,24792069,296,15,"Adrian, MI",Manufacturing,2
+38268,4554,135,New Horizons Learning Group,new-horizons-learning-group,California,CA,Anaheim,54.5688,19291911,2,8,Los Angeles,IT Services,2
+20234,4555,434,Synerzip,synerzip,Texas,TX,Dallas,54.5206,16059955,8,9,Dallas,Software,6
+20681,4557,2939,Sterling Talent Solutions,sterling-talent-solutions,New York,NY,New York,54.4423,331980808,9,21,New York City,Human Resources,7
+2053,4561,4752,Cellular Sales of Knoxville,cellular-sales-of-knoxville,Tennessee,TN,Knoxville,54.2943,1437095068,99,18,"Knoxville, TN",Retail,8
+21934,4562,233,Practice Velocity,practice-velocity,Illinois,IL,Machesney Park,54.2032,31272089,190,9,"Rockford, IL",Software,5
+2010,4566,531,Taphandles,taphandles,Washington,WA,Seattle,54.0726,32711680,23,17,Seattle,Business Products & Services,9
+20780,4572,810,Whitlock,whitlock,Virginia,VA,Richmond,53.8236,271498130,40,17,"Richmond, VA",Business Products & Services,7
+44481,4576,146,Atlas Butler Heating and Cooling,atlas-butler-heating-and-cooling,Ohio,OH,Columbus,53.7653,24394668,19,20,"Columbus, OH",Construction,1
+4524,4578,149,iTech Solutions,itech-solutions,Connecticut,CT,Farmington,53.6457,22046508,100,8,"Hartford-West Hartford-East Hartford, CT",IT Services,8
+44484,4583,120,Sema,sema,California,CA,Irvine,53.5115,34388193,2,17,Los Angeles,Business Products & Services,1
+21692,4587,209,Brightway Insurance,brightway-insurance,Florida,FL,Jacksonville,53.4656,395056773,64,1,"Jacksonville, FL",Insurance,9
+4392,4588,800,Market America,market-america,North Carolina,NC,GREENSBORO,53.4595,791081690,287,18,"Greensboro-High Point, NC",Retail,4
+4149,4589,1978,Pro Mach,pro-mach,Kentucky,KY,Covington,53.4547,533080000,47,15,Cincinnati,Manufacturing,6
+18209,4591,454,Ansafone Contact Centers,ansafone-contact-centers,California,CA,Santa ana,53.351,17703659,2,14,Los Angeles,Telecommunications,4
+1511,4594,427,W2O Group,w2o-group,California,CA,San Francisco,53.2301,95010477,4,5,San Francisco,Advertising & Marketing,8
+24966,4596,175,NVE,nve,Virginia,VA,Herndon,53.1084,24749298,3,7,"Washington, DC",Government Services,3
+22434,4597,450,Legacy Housing,legacy-housing,Texas,TX,Fort Worth,53.0606,106931524,8,15,Dallas,Manufacturing,4
+25646,4600,121,The Trade Group,the-trade-group,Texas,TX,Carrollton,52.9958,32019788,8,5,Dallas,Advertising & Marketing,3
+20414,4605,104,CompuGain,compugain,Virginia,VA,HERNDON,52.828,50339637,3,17,"Washington, DC",Business Products & Services,5
+16,4606,352,Snap Fitness,snap-fitness,Minnesota,MN,Chanhassen,52.8067,74206152,13,10,Minneapolis,Health,8
+38055,4609,185,WatchGuard Video,watchguard-video,Texas,TX,Allen,52.6803,58217248,8,7,Dallas,Government Services,2
+4789,4611,1276,American Specialty Health,american-specialty-health,Indiana,IN,Carmel,52.6585,331902950,81,10,"Indianapolis, IN",Health,7
+24518,4613,698,Sikich,sikich,Illinois,IL,Naperville,52.5836,116607127,17,17,Chicago,Business Products & Services,4
+18887,4614,455,LiquidAgents Healthcare,liquidagents-healthcare,Texas,TX,Plano,52.5643,36428405,8,10,Dallas,Health,5
+6441,4615,186,Thompson Thrift Construction,thompson-thrift-construction,Indiana,IN,Terre Haute,52.5143,179949567,686,20,"Terre Haute, IN",Construction,7
+44490,4618,450,CentralCare,centralcare,Virginia,VA,Alexandria,52.4568,35050274,3,10,"Washington, DC",Health,1
+44491,4620,131,McClure Engineering Company,mcclure-engineering-company,Iowa,IA,Clive,52.3707,11376000,161,24,"Des Moines-West Des Moines, IA",Engineering,1
+38340,4623,350,RealManage,realmanage,Texas,TX,Carrollton,52.3126,28805738,8,3,Dallas,Real Estate,2
+38235,4625,113,OVM FINANCIAL,ovm-financial,Virginia,VA,CHESAPEAKE,52.2643,21306355,15,2,"Virginia Beach-Norfolk-Newport News, VA-NC",Financial Services,2
+3650,4627,1586,Resource Options,resource-options,Massachusetts,MA,Needham,52.228,22267524,6,21,Boston,Human Resources,7
+2056,4630,215,Purchasing Power,purchasing-power,Georgia,GA,Atlanta,52.1213,328136126,29,17,Atlanta,Business Products & Services,9
+24100,4638,284,Crestmark Bank,crestmark-bank,Michigan,MI,Troy,51.7994,96765968,50,2,Detroit,Financial Services,3
+44498,4639,260,Home Instead Senior Care Birmingham AL,home-instead-senior-care-birmingham-al,Alabama,AL,Birmingham,51.7037,5916915,140,10,"Birmingham-Hoover, AL",Health,1
+44499,4642,148,Carla's Pasta,carlas-pasta,Connecticut,CT,South Windsor,51.6192,71304132,100,11,"Hartford-West Hartford-East Hartford, CT",Food & Beverage,1
+44501,4647,101,EPAY Systems,epay-systems,Illinois,IL,Chicago,51.5598,12146000,17,9,Chicago,Software,1
+22800,4648,165,SWC Technology Partners,swc-technology-partners,Illinois,IL,Oak Brook,51.5162,30725357,17,8,Chicago,IT Services,5
+689,4653,450,ISNetworld,isnetworld,Texas,TX,Dallas,51.4233,124704623,8,17,Dallas,Business Products & Services,10
+6846,4655,725,ProTrans,protrans,Indiana,IN,Indianapolis,51.2954,291561259,81,6,"Indianapolis, IN",Logistics & Transportation,6
+17554,4657,208,FlexPrint,flexprint,Arizona,AZ,Mesa,51.2574,46016845,46,8,Phoenix,IT Services,7
+24578,4659,213,Fox World Travel,fox-world-travel,Wisconsin,WI,Oshkosh,51.2345,22333244,202,22,"Fond du Lac, WI",Travel & Hospitality,4
+44504,4660,111,EastBanc Technologies,eastbanc-technologies,District of Columbia,DC,Washington,51.218,16048092,3,9,"Washington, DC",Software,1
+44507,4672,144,"England, Thims & Miller",england-thims-miller,Florida,FL,Jacksonville,50.9442,30221820,64,24,"Jacksonville, FL",Engineering,1
+24711,4679,285,MorganFranklin Consulting,morganfranklin-consulting,Virginia,VA,McLean,50.5598,68786775,3,17,"Washington, DC",Business Products & Services,6
+25804,4683,193,Coury & Buehler Physical Therapy,coury-buehler-physical-therapy,California,CA,Brea,50.3786,8251754,2,10,Los Angeles,Health,3
+24800,4684,142,Entech Consulting,entech-consulting,Pennsylvania,PA,Malvern,50.355,19840768,49,8,Philadelphia,IT Services,2
+3717,4687,134,LaSalle Network,lasalle-network,Illinois,IL,Chicago,50.2987,48156065,17,21,Chicago,Human Resources,10
+2642,4690,156,Miles Technologies,miles-technologies,New Jersey,NJ,Moorestown,50.2429,17974660,49,8,Philadelphia,IT Services,4
+38044,4691,103,Capify,capify,New York,NY,New York,50.2098,37860596,9,2,New York City,Financial Services,2
+22399,4693,168,Solar Innovations Architectural Glazing Systems,solar-innovations-architectural-glazing-systems,Pennsylvania,PA,Pine Grove,50.1985,26103000,194,15,"Pottsville, PA",Manufacturing,4
+44509,4694,483,Central Security Group,central-security-group,Oklahoma,OK,Tulsa,50.1845,90628371,841,13,"Tulsa, OK",Security,1
+19036,4701,1880,Morgan Lewis,morgan-lewis,New York,NY,New York,49.9187,1844000000,9,17,New York City,Business Products & Services,3
+9495,4702,180,Archer Malmo,archer-malmo,Tennessee,TN,Memphis,49.8858,20590019,105,5,"Memphis, TN-MS-AR",Advertising & Marketing,5
+22705,4703,1010,PW Companies,pw-companies,Utah,UT,Sandy,49.8608,61846827,12,18,Salt Lake City,Retail,3
+4790,4704,222,ettain group,ettain-group,North Carolina,NC,Charlotte,49.853,147044719,43,8,Charlotte,IT Services,6
+3983,4711,247,Dataprise,dataprise,Maryland,MD,Rockville,49.7573,38061863,3,9,"Washington, DC",Software,11
+2735,4714,556,CapTech Ventures,captech-ventures,Virginia,VA,Richmond,49.654,103371245,40,8,"Richmond, VA",IT Services,10
+3640,4715,278,Service Express,service-express,Michigan,MI,Grand Rapids,49.5032,59285969,219,8,"Grand Rapids-Wyoming, MI",IT Services,8
+784,4717,144,Navigator Management Partners,navigator-management-partners,Ohio,OH,Columbus,49.4839,36558699,19,8,"Columbus, OH",IT Services,10
+4483,4719,130,Hire Dynamics,hire-dynamics,Georgia,GA,Duluth,49.4296,104129190,29,21,Atlanta,Human Resources,7
+26211,4721,162,CapStar Bank,capstar-bank,Tennessee,TN,Nashville,49.4144,43656737,82,2,Nashville,Financial Services,2
+44515,4722,253,Medsurant Holdings,medsurant-holdings,Pennsylvania,PA,West Conshohocken,49.4114,45071306,49,10,Philadelphia,Health,1
+2364,4725,1165,IST Management Services,ist-management-services,Georgia,GA,Atlanta,49.2614,61871331,29,17,Atlanta,Business Products & Services,7
+44517,4730,104,PCI Synthesis,pci-synthesis,Massachusetts,MA,Newburyport,49.0245,20370034,6,15,Boston,Manufacturing,1
+22375,4733,117,The Remi Group,the-remi-group,North Carolina,NC,Charlotte,48.9423,68733591,43,17,Charlotte,Business Products & Services,5
+18438,4736,237,ACT Environmental Services,act-environmental-services,California,CA,Sunnyvale,48.8548,52008253,20,23,San Jose,Environmental Services,7
+22088,4739,720,Polsinelli,polsinelli,Missouri,MO,Kansas City,48.8203,410000000,21,17,"Kansas City, MO-KS",Business Products & Services,5
+8022,4742,508,Dwyer Group,dwyer-group,Texas,TX,Waco,48.7452,117178437,163,4,"Waco, TX",Consumer Products & Services,3
+23487,4744,192,National Corporate Housing,national-corporate-housing,Colorado,CO,Greenwood Village,48.6273,130131791,30,22,Denver,Travel & Hospitality,4
+4796,4747,325,Wunderlich-Malec Engineering,wunderlich-malec-engineering,Minnesota,MN,Minnetonka,48.5332,92774183,13,24,Minneapolis,Engineering,6
+44520,4748,260,Unique Home Solutions,unique-home-solutions,Indiana,IN,Indianapolis,48.5031,26374366,81,20,"Indianapolis, IN",Construction,1
+3171,4750,137,Uckele Health & Nutrition,uckele-health-nutrition,Michigan,MI,Blissfield,48.4642,27057021,296,15,"Adrian, MI",Manufacturing,8
+44521,4752,327,Taco John's of Iowa,taco-johns-of-iowa,South Dakota,SD,Sioux Falls,48.336,21661813,737,11,"Sioux Falls, SD",Food & Beverage,1
+24371,4754,161,On Call International,on-call-international,New Hampshire,NH,Salem,48.3054,68890305,6,10,Boston,Health,4
+38105,4755,1190,AIM Consulting Group,aim-consulting-group,Washington,WA,Bellevue,48.2771,97798607,23,8,Seattle,IT Services,2
+17227,4756,1396,Granite Telecommunications,granite-telecommunications,Massachusetts,MA,Quincy,48.264,1091579000,6,14,Boston,Telecommunications,10
+162,4757,196,Summa Technologies,summa-technologies,Pennsylvania,PA,Pittsburgh,48.251,34301687,52,8,"Pittsburgh, PA",IT Services,6
+23965,4759,470,Shinetech Software,shinetech-software,New York,NY,New York,48.1923,15480421,9,8,New York City,IT Services,4
+26177,4761,113,Milestone Internet Marketing,milestone-internet-marketing,California,CA,Santa Clara,48.108,23054612,20,5,San Jose,Advertising & Marketing,3
+336,4762,124,Nitel,nitel,Illinois,IL,Chicago,48.0983,72808267,17,14,Chicago,Telecommunications,8
+2650,4764,120,Cal Net Technology Group,cal-net-technology-group,California,CA,Chatsworth,48.0353,24398143,2,8,Los Angeles,IT Services,8
+9162,4766,14887,Exact Staff,exact-staff,California,CA,Woodland Hills,47.9807,65002000,2,21,Los Angeles,Human Resources,4
+6674,4768,112,Pure Romance,pure-romance,Ohio,OH,Cincinnati,47.928,163953257,47,4,Cincinnati,Consumer Products & Services,4
+44524,4770,463,Union Home Mortgage,union-home-mortgage,Ohio,OH,Strongsville,47.9171,69156347,79,2,Cleveland,Financial Services,1
+2919,4771,370,HealthHelp,healthhelp,Texas,TX,Houston,47.918,56414030,22,10,Houston,Health,10
+18679,4772,801,Cooley,cooley,New York,NY,New York,47.812,912000000,998,17,,Business Products & Services,3
+1154,4774,1457,InGenesis,ingenesis,Texas,TX,San Antonio,47.7541,123122770,14,17,"San Antonio, TX",Business Products & Services,9
+22479,4779,273,Steven Douglas Associates,steven-douglas-associates,Florida,FL,Sunrise,47.6394,40841870,1,21,Miami,Human Resources,5
+21533,4781,110,Hiatus Spa + Retreat,hiatus-spa-retreat,Texas,TX,Dallas,47.619,5375252,8,4,Dallas,Consumer Products & Services,5
+44528,4782,136,P&A Group,pa-group,New York,NY,Buffalo,47.5524,11737526,1032,17,"Buffalo-Cheektowaga-Niagara Falls, NY",Business Products & Services,1
+20301,4783,204,NEST,nest,New Jersey,NJ,Gloucester,47.5123,81728554,49,17,Philadelphia,Business Products & Services,6
+3266,4784,296,NovaCopy,novacopy,Tennessee,TN,Nashville,47.4862,69209940,82,17,Nashville,Business Products & Services,10
+26042,4785,110,Momentum Consulting,momentum-consulting,Florida,FL,Miami Lakes,47.4634,17600814,1,8,Miami,IT Services,3
+1778,4787,3612,TransPerfect,transperfect,New York,NY,New York,47.378,504599185,9,17,New York City,Business Products & Services,9
+44530,4789,495,Ammex,ammex,Washington,WA,Kent,47.31,89941056,23,15,Seattle,Manufacturing,1
+20823,4790,656,Workplace options,workplace-options,North Carolina,NC,Raleigh,47.3067,56517998,1029,21,"Raleigh, NC",Human Resources,6
+18885,4796,1106,Ropes & Gray,ropes-gray,Massachusetts,MA,Boston,47.0899,1390000000,6,17,Boston,Business Products & Services,4
+44532,4799,104,Villa Lighting Supply,villa-lighting-supply,Missouri,MO,St. Louis,47.0241,159232771,74,17,"St. Louis, MO-IL",Business Products & Services,1
+1304,4800,155,Safety Services Company,safety-services-company,Arizona,AZ,Tempe,46.9588,25198783,46,19,Phoenix,Education,9
+6987,4803,3100,Technosoft,technosoft,Michigan,MI,Southfield,46.8985,123216267,50,8,Detroit,IT Services,3
+44536,4810,102,DMSi,dmsi,Nebraska,NE,Omaha,46.7508,24421415,97,9,"Omaha-Council Bluffs, NE-IA",Software,1
+44537,4813,640,Milk Specialties Global,milk-specialties-global,Minnesota,MN,Eden Prairie,46.5473,736186000,13,15,Minneapolis,Manufacturing,1
+38336,4817,114,Logic20/20,logic2020,Washington,WA,Seattle,46.4475,17685000,23,17,Seattle,Business Products & Services,2
+20516,4820,180,Morgan-White Group,morgan-white-group,Mississippi,MS,Jackson,46.3318,125281486,96,1,"Jackson, MS",Insurance,6
+1548,4822,356,eVestment,evestment,Georgia,GA,Atlanta,46.2552,72142391,29,2,Atlanta,Financial Services,10
+38194,4824,144,BuckleySandler,buckleysandler,New York,NY,New York,46.2312,145500000,9,17,New York City,Business Products & Services,2
+3527,4827,108,Tandem HR,tandem-hr,Illinois,IL,Westchester,46.1119,576007896,17,21,Chicago,Human Resources,7
+22316,4833,150,Vicom Computer Services,vicom-computer-services,New York,NY,Farmingdale,45.911,114324260,9,8,New York City,IT Services,3
+3751,4837,288,Protingent,protingent,Washington,WA,Bellevue,45.845,34017625,23,21,Seattle,Human Resources,9
+24434,4842,113,Client Command,client-command,Georgia,GA,Cumming,45.6733,25889809,29,5,Atlanta,Advertising & Marketing,6
+11714,4844,142,PRISM,prism,Virginia,VA,Reston,45.6478,13994385,3,8,"Washington, DC",IT Services,3
+22610,4849,370,Dickinson Wright,dickinson-wright,Michigan,MI,Detroit,45.4902,185500000,50,17,Detroit,Business Products & Services,3
+17546,4850,215,Dexter Field Services,dexter-field-services,Texas,TX,Austin,45.4487,13123577,18,23,Austin,Environmental Services,6
+4506,4851,312,Hardy Diagnostics,hardy-diagnostics,California,CA,Santa Maria,45.4072,44405388,1027,10,"Santa Maria-Santa Barbara, CA",Health,5
+38191,4854,250,Milano's Cheese,milanos-cheese,New Jersey,NJ,Linden,45.3426,43644536,9,11,New York City,Food & Beverage,2
+3626,4857,190,"Mosaic (Renton, Washington)",mosaic-renton-washington,Washington,WA,Renton,45.2953,35026207,23,16,Seattle,Energy,10
+44546,4860,165,Softcrylic,softcrylic,Minnesota,MN,Minneapoils,45.2026,7595879,13,8,Minneapolis,IT Services,1
+22182,4861,183,Allegient,allegient,Indiana,IN,Indianapolis,45.1356,31961779,81,8,"Indianapolis, IN",IT Services,5
+20512,4867,120,Window World of Baton Rouge,window-world-of-baton-rouge,Louisiana,LA,Baton Rouge,44.9521,52568349,139,20,"Baton Rouge, LA",Construction,3
+44548,4871,100,Clark Bros.,clark-bros,California,CA,Dos Palos,44.8631,18005978,345,20,"Fresno, CA",Construction,1
+8128,4872,3632,AmWINS Group,amwins-group,North Carolina,NC,Charlotte,44.7639,774522800,43,1,Charlotte,Insurance,7
+26269,4874,130,Insurance Program Managers Group,insurance-program-managers-group,Illinois,IL,St. Charles,44.7154,21879005,17,1,Chicago,Insurance,3
+44550,4878,275,Genysis Brand Solutions,genysis-brand-solutions,Utah,UT,Salt Lake City,44.6284,109572533,12,15,Salt Lake City,Manufacturing,1
+3568,4879,600,Anisa International,anisa-international,Georgia,GA,atlanta,44.5869,45932962,29,15,Atlanta,Manufacturing,5
+228,4880,150,Strategic Systems,strategic-systems,Ohio,OH,Dublin,44.5755,23946223,19,8,"Columbus, OH",IT Services,8
+989,4882,300,Astir IT Solutions,astir-it-solutions,New Jersey,NJ,South Plainfield,44.5704,35470844,9,8,New York City,IT Services,9
+44552,4886,405,Vocalink Language Services,vocalink-language-services,Ohio,OH,Dayton,44.4431,4985940,39,17,"Dayton, OH",Business Products & Services,1
+20591,4889,110,c3/consulting,c3consulting,Tennessee,TN,Nashville,44.2797,20916054,82,8,Nashville,IT Services,5
+24407,4890,220,PreCheck,precheck,Texas,TX,Houston,44.256,25505690,22,10,Houston,Health,4
+21770,4902,262,Summit Technical Solutions,summit-technical-solutions,Colorado,CO,Colorado Springs,43.8045,37784991,80,7,"Colorado Springs, CO",Government Services,2
+17529,4911,150,Birds Barbershop,birds-barbershop,Texas,TX,Austin,43.4462,5700747,18,4,Austin,Consumer Products & Services,7
+4803,4913,256,Data Systems Analysts,data-systems-analysts,Pennsylvania,PA,Trevose,43.4401,129647362,49,7,Philadelphia,Government Services,8
+1779,4917,1136,Talentburst,talentburst,Massachusetts,MA,Natick,43.2448,57533997,6,8,Boston,IT Services,10
+24633,4923,245,Reborn Cabinets,reborn-cabinets,California,CA,Anaheim,42.9631,20709228,2,20,Los Angeles,Construction,2
+22258,4924,140,Finger Lakes Technologies Group,finger-lakes-technologies-group,New York,NY,Victor,42.8442,33047000,71,14,"Rochester, NY",Telecommunications,4
+20682,4927,400,CH Reynolds,ch-reynolds,California,CA,San Jose,42.7531,76723257,20,20,San Jose,Construction,5
+22094,4928,105,Fortus Healthcare Resources,fortus-healthcare-resources,New York,NY,Utica,42.6954,9053654,419,10,"Utica-Rome, NY",Health,4
+44562,4929,351,Hellas Construction,hellas-construction,Texas,TX,Austin,42.6744,146354000,18,20,Austin,Construction,1
+44563,4931,110,Gant Travel Management,gant-travel-management,Indiana,IN,Bloomington,42.6024,10718000,115,22,"Bloomington, IN",Travel & Hospitality,1
+18969,4933,519,Fragomen,fragomen,New York,NY,New York,42.5685,494000000,9,17,New York City,Business Products & Services,6
+1456,4934,227,Universal Consulting Services,universal-consulting-services,Virginia,VA,Fairfax,42.5479,48280142,3,7,"Washington, DC",Government Services,9
+2573,4935,408,VanderHouwen & Associates,vanderhouwen-associates,Oregon,OR,Portland,42.5221,51431168,10,8,"Portland, OR",IT Services,7
+3813,4937,7036,Pacific Dental Services,pacific-dental-services,California,CA,Irvine,42.4371,893898000,2,10,Los Angeles,Health,11
+1812,4938,101,Cenero,cenero,Pennsylvania,PA,Malvern,42.3889,27918839,49,17,Philadelphia,Business Products & Services,3
+9451,4939,313,Palo Alto Staffing,palo-alto-staffing,California,CA,Palo Alto,42.3668,7104531,20,21,San Jose,Human Resources,3
+23114,4943,150,ISBX,isbx,California,CA,Los Angeles,42.2932,7400216,2,9,Los Angeles,Software,4
+44566,4945,272,Diversified,diversified,New Jersey,NJ,Kenilworth,42.1981,206396445,9,17,New York City,Business Products & Services,1
+2973,4946,125,Sharon Young,sharon-young,Texas,TX,Dallas,42.1879,48097523,8,4,Dallas,Consumer Products & Services,7
+44567,4947,213,Motorcars Group,motorcars-group,Ohio,OH,Cleveland Heights,42.1495,121587413,79,18,Cleveland,Retail,1
+24532,4952,117,Low Voltage Contractors,low-voltage-contractors,Minnesota,MN,Minneapolis,41.9467,24067891,13,20,Minneapolis,Construction,2
+17291,4953,139,SingleHop,singlehop,Illinois,IL,Chicago,41.7849,41199496,17,8,Chicago,IT Services,7
+3651,4956,137,Safety Management Group of Indiana,safety-management-group-of-indiana,Indiana,IN,Indianapolis,41.6407,17531396,81,17,"Indianapolis, IN",Business Products & Services,5
+23123,4958,113,RAMPS International,ramps-international,New Jersey,NJ,Edison,41.5158,10441557,9,8,New York City,IT Services,4
+2283,4959,235,Reischling Press,reischling-press,Washington,WA,Seattle,41.5093,43602447,23,15,Seattle,Manufacturing,7
+24893,4967,145,Agio,agio,New York,NY,New York,41.2553,22969277,9,8,New York City,IT Services,3
+21328,4969,625,Advanced Enterprises of NW FL,advanced-enterprises-of-nw-fl,Florida,FL,Mary Esther,41.1365,87922375,130,5,"Pensacola-Ferry Pass-Brent, FL",Advertising & Marketing,5
+3932,4973,131,Saturn Freight Systems,saturn-freight-systems,Georgia,GA,MARIETTA,40.9159,41548751,29,6,Atlanta,Logistics & Transportation,7
+18517,4974,250,Central Welding Supply,central-welding-supply,Washington,WA,N Lakewood,40.8664,75574615,23,17,Seattle,Business Products & Services,3
+4025,4975,553,PLS Logistics Services,pls-logistics-services,Pennsylvania,PA,Cranberry Township,40.7902,529623000,52,6,"Pittsburgh, PA",Logistics & Transportation,3
+44572,4979,121,Justice AV Solutions,justice-av-solutions,Kentucky,KY,Louisville,40.71,20042109,630,15,"Louisville/Jefferson County, KY-IN",Manufacturing,1
+888,4985,481,Liquid Web,liquid-web,Michigan,MI,Lansing,40.4646,69603000,144,8,"Lansing-East Lansing, MI",IT Services,10
+11627,4986,260,NewAgeSys,newagesys,New Jersey,NJ,Princeton Junction,40.4367,17851875,1012,8,"Trenton, NJ",IT Services,8
+20473,4990,2323,Accurate Home Care,accurate-home-care,Minnesota,MN,Otsego,40.2554,58817000,13,10,Minneapolis,Health,6
+44576,4991,135,Digital Marketer,digital-marketer,Texas,TX,Austin,40.2551,14071111,18,5,Austin,Advertising & Marketing,1
+19049,4994,303,Fenwick & West,fenwick-west,California,CA,Mountain View,40.0771,363500000,20,17,San Jose,Business Products & Services,5
+44577,4995,104,Stonehaven Dental,stonehaven-dental,Utah,UT,Lehi,40.076,10755433,48,10,"Provo-Orem, UT",Health,1
+4114,4996,105,Duffey Petrosky,duffey-petrosky,Michigan,MI,Farmington Hills,40.0476,15233132,50,5,Detroit,Advertising & Marketing,8
+23258,4998,1951,Stratosphere Quality,stratosphere-quality,Indiana,IN,Fishers,39.7451,102252325,81,15,"Indianapolis, IN",Manufacturing,4
+9017,4999,278,Optimax Systems,optimax-systems,New York,NY,Ontario,39.7253,27989715,71,15,"Rochester, NY",Manufacturing,5
+24552,5000,277,Murray Resources,murray-resources,Texas,TX,Houston,39.7237,5714518,22,21,Houston,Human Resources,3
