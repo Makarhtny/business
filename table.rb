@@ -4,35 +4,57 @@ require_relative 'export'
 
 class Table
   include Export
-  attr_accessor :table
 
   def initialize(table:)
     @table = table
   end
 
-  def first_report
-    array_of_companies = [@table[0]]
-    (1...@table.length).each do |lines|
-      array_of_companies << @table[lines] if @table[lines][2].to_i >= 100
+  def call(type_of_cal)
+    case type_of_cal
+    when 'first_report'
+      first_report
+    when 'second_report'
+      second_report
+    when 'third_report'
+      third_report
+    else
+      puts "Such report doesn't exist"
     end
-    export_report_csv(array_of_companies)
-    export_report_json(array_of_companies)
+  end
+
+  private
+
+  attr_accessor :table
+
+  def first_report
+    new_array = []
+    making_hash.each do |row|
+      new_array << row if row['workers'].to_i >= 100
+    end
+    export_report_csv(making_array(new_array))
+    export_report_json({ 'report' => { 'name' => 'Companies with more than or exactly 100 employees',
+                                       'data' => new_array } })
   end
 
   def second_report
-    @numbers_of_componies = Hash.new(0)
-    @table.each do |row|
-      @numbers_of_componies[row[13]] += 1
+    numbers_of_componies = Hash.new(0)
+    making_hash.each do |row|
+      numbers_of_componies[row['industry']] += 1
     end
-    @numbers_of_componies
+    export_report_csv(numbers_of_componies)
+    export_report_json({ 'report' => { 'name' => 'The number of companies that do industry',
+                                       'data' => numbers_of_componies } })
   end
 
   def third_report
-    @compony_standings = {}
-    @table.each do |row|
-      @compony_standings[row[3]] = row[9] if row[7] == 'New York'
+    compony_standings = []
+    making_hash.each do |row|
+      compony_standings << row if row['city'] == 'New York'
     end
-    @new_campony_standings = @compony_standings.sort_by { |_k, v| v }.reverse
-    @new_campony_standings[0..9]
+    new_campony_standings = compony_standings.sort_by { |line| line['revenue'].to_i }.reverse
+    standings = new_campony_standings[0..9]
+    export_report_csv(making_array(standings))
+    export_report_json({ 'report' => { 'name' => 'Top 10 companies in New York by revenue',
+                                       'data' => standings } })
   end
 end
