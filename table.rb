@@ -9,8 +9,8 @@ class Table
     @table = table
   end
 
-  def call(type_of_cal)
-    case type_of_cal
+  def call(type_of_call)
+    case type_of_call
     when 'first_report'
       first_report
     when 'second_report'
