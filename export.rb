@@ -6,11 +6,11 @@ require 'json'
 module Export
 
   def export_report_csv(array_with_results)
-    File.write('ss.csv', array_with_results.map(&:to_csv).join)
+    File.write("#{gets.chomp}.csv", array_with_results.map(&:to_csv).join)
   end
 
   def export_report_json(hash_with_results)
-    File.open('output_file.json', 'w') { |file| file.write(JSON.pretty_generate(hash_with_results)) }
+    File.open("#{gets.chomp}.json", 'w') { |file| file.write(JSON.pretty_generate(hash_with_results)) }
   end
 
   def making_hash
@@ -19,12 +19,11 @@ module Export
   end
 
   def making_array(hash_for_conversion_to_array)
-    keys = []
-    values = []
+    result = []
     hash_for_conversion_to_array.each do |line|
-      keys << line.keys
-      values << line.values
+      (0...1).each { |_| result << line.keys }
+      result << line.values
     end
-    [keys.shift] + values
+    result
   end
 end
